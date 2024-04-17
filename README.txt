@@ -1,8 +1,10 @@
 # Swiss German / English Pairs
 
 * Pairs of Zurich Swiss German and English words, phrases, or sentences
-* Pairs are separated by colons (:), which may not otherwise appear
 * Duplicates and variations are allowed - it's recommended to group pairs with common elements
+* Pairs are separated by colons (:), which may not otherwise appear
+* Text in [brackets] are freeform notes on usage, comparisons with English or High German, etc.
+* Text in (parentheses) are grammatically correct, optional elements - pairs are valid with or without them
 
 ----------------------------------------------------------------------------------------------
 
@@ -91,7 +93,7 @@ spände : to donate
 verbringe : to spend (money, time)
 mit minere Familiä : with my family
 für iri Gsundheit ränntsi : for her health, she runs
-zrugg : back (zurück)
+zrugg : back [zurück]
 ich chumme zu dir go bier trinke : I'm coming to yours to drink beer
 mir sing in Uusgang gange : we went out
 in Uusgang gaa : to go out (to a club, drinking, etc.)
