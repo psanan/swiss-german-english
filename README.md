@@ -6,11 +6,20 @@
 
 ----------------------------------------------------------------------------------------------
 
+
+
+gsee : to see
+ich gsee : I see
+du gseesch : you see
+er gseet : he sees
+mir gsend : we see
+
 säge : to say
 ich säge : I say
 du saisch : you say
 er sait :  he says
 mir säged : we say
+
 zwüsched zwölf und ais : between twelve and one [no "-i" endings here!]
 vom achti bis am nuuni : from eight o'clock to nine o'clock
 normalerwiis : normally
