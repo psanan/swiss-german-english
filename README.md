@@ -1,10 +1,33 @@
 # Swiss German / English Pairs
 
-* Valid pairs of Zurich Swiss German and English words, phrases, or sentences
+* Pairs of Zurich Swiss German and English words, phrases, or sentences
 * Pairs are separated by colons (:), which may not otherwise appear
 * Duplicates and variations are allowed - it's recommended to group pairs with common elements
 
 ----------------------------------------------------------------------------------------------
+
+säge : to say
+ich säge : I say
+du saisch : you say
+er sait :  he says
+mir säged : we say
+zwüsched zwölf und ais : between twelve and one [no "-i" endings here!]
+vom achti bis am nuuni : from eight o'clock to nine o'clock
+normalerwiis : normally
+chunsch : you come
+um mitternacht : at midnight [otherwise, "am" for times]
+ufhöre : to stop, to quit 
+Am halbi vieri machi e pause : at three thirty I take a break [no -n- here]
+morn : tomorrow
+morge : morning
+abziehe : to take off (clothes)
+aziehe : to put on (clothes)
+ah ha : to have on [more common that "tragen" for clothes]
+ich ha ein schwarzer pulli a : I have a black sweater on [more common than "tragen" in DE]
+mit zwolfi : at age twelve
+di hei sii : to be at home
+hei gah : to go home
+enttüscht : disappointed
 me : one [DE "man", also "mer"]
 Ich schaffe vom achti bis am foifi : I work from 8 to 5
 d' Zää : the teeth
@@ -67,5 +90,4 @@ Ich gaa hai : I go home
 Morn : tomorrow
 de Morge : morning
 schwätze : to talk, discuss
-
 simmer : are we
