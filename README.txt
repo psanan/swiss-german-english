@@ -102,3 +102,60 @@ Morn : tomorrow
 de Morge : morning
 schwätze : to talk, discuss
 simmer : are we
+
+Ich bi(n) go wandere : I went hiking
+Ich bi(n) go chlätter : I went climbing
+Vor zwei wuche simmer gereist : we travelled two weeks ago
+
+legge : to (actively) lay (something) down
+ich legge : I lay (something down)
+du laisch : you lay (something down)
+er lait : he lays (something down)
+mir legged : we lay (something down)
+gleit : laid (actively down)
+
+ziä : to pull [ziehen]
+ich ziä : I pull
+du ziäsch : you pull
+er ziät : he pulls
+mir ziänd : we pull
+zoge : pulled
+
+schtaa : to stand
+ich schtaa : I stand
+du schtaasch : you stand
+er schtaat : he stands
+mir schtönd : we stand 
+
+
+träffe : to meet
+ich träffe : I meet
+du triffsch : you meet
+er trifft: he meets
+mir träffed : we meet
+troffe : met
+
+
+aaträffe : to meet (spontaneously)
+Ich triff d' Claudia : I met Claudia [non-reflexive]
+Ich triff mich mit dä Claudia : I met Claudia [reflexive]
+ufschtaa : to stand up, to get up
+aalegge : to put on (clothes)
+abziä : to take off (clothes)
+uusgsee : to look like
+
+verchrugelt : crumpled
+
+lässig : fun, cool, good
+ 
+aamache : to turn on
+uusmache : to turn off
+
+öppis vorhaa : to have plans
+ufmache : to open
+zumache : to close
+
+zuälose : to (actively) listen to [as opposed to just hear something]
+zuäluäge: to (actively) watch
+
+abmache : to plan (to meet up)
