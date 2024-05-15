@@ -11,6 +11,16 @@
 # ----------------------------------------------------------------------------------------------
 
 # ----------------------------------------------------------------------------------------------
+# Sentences (e.g. homework) --------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------
+
+Am morge staani uf und ziä d Hose aa : In the morning, I wake up and put pants on.
+Min Kollege isch DJ und am Wuchende laiter uf : My colleague is a DJ and DJ's on the weekend. 
+Mini Katz chunt zrugg, wann sie der Dosenöffner gehört : my cat comes back, when it hears the can opener. [not "löse", that's active, this is passive]
+Hüüt gsait's wunderschön uus! : Today it looks wonderful out!
+Dr Bus isch kaputt, drum stiiged alli uus. : the bus is broken, so everyone gets off. 
+
+# ----------------------------------------------------------------------------------------------
 # Verbs (and verb phrases) ---------------------------------------------------------------------
 # Roughly, alphabetize by root verb
 # ----------------------------------------------------------------------------------------------
