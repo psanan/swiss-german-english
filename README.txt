@@ -1,14 +1,21 @@
 # Swiss German / English Pairs
+# 
+# * Pairs of Zurich Swiss German and English words, phrases, or sentences
+# * Duplicates and variations are allowed - it's recommended to group pairs with common elements
+# * Pairs are separated by colons (:), which may not otherwise appear
+# * Text in [brackets] are freeform notes on usage, comparisons with English or High German, etc.
+# * Text in (parentheses) are grammatically correct, optional elements - pairs are valid with or without them
+# * Any line starting with "#" is a comment. 
+# * Try to organize in large categories, but prioritize quickly adding correct entries to the list.
 
-* Pairs of Zurich Swiss German and English words, phrases, or sentences
-* Duplicates and variations are allowed - it's recommended to group pairs with common elements
-* Pairs are separated by colons (:), which may not otherwise appear
-* Text in [brackets] are freeform notes on usage, comparisons with English or High German, etc.
-* Text in (parentheses) are grammatically correct, optional elements - pairs are valid with or without them
+# ----------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------
+# Verbs (and verb phrases) ---------------------------------------------------------------------
+# Roughly, alphabetize by root verb
+# ----------------------------------------------------------------------------------------------
 
-
+übercho : to receive
 
 gsee : to see
 ich gsee : I see
@@ -16,11 +23,97 @@ du gseesch : you see
 er gseet : he sees
 mir gsend : we see
 
+uusgsee : to look like
+
+abmache : to plan [to make plans]
+
+vormache : to plan [to have plans already]
+
+räne : to run
+dafoo räne : to run off
+
 säge : to say
 ich säge : I say
 du saisch : you say
 er sait :  he says
 mir säged : we say
+
+schtaa : to stand
+ich schtaa : I stand
+du schtaasch : you stand
+er schtaat : he stands
+mir schtönd : we stand 
+
+ufschtaa : to stand up, to get up
+
+träffe : to meet
+ich träffe : I meet
+du triffsch : you meet
+er trifft: he meets
+mir träffed : we meet
+troffe : met
+
+aaträffe : to meet (spontaneously)
+Ich triff d' Claudia : I met Claudia [non-reflexive]
+Ich triff mich mit dä Claudia : I met Claudia [reflexive]
+
+welle : to want
+ich will: I want [or ich wett]
+ich wett : I want [or Ich will]
+du willsch: you want [or du wettsch]
+du wettsch : you want [or du willsch]
+er will: he wants [or er wett]
+er wett: he wants [or er will]
+mer wänd : we want
+
+legge : to (actively) lay (something) down
+ich legge : I lay (something down)
+du laisch : you lay (something down)
+er lait : he lays (something down)
+mir legged : we lay (something down)
+gleit : laid (actively down)
+
+aalegge : to put on (clothes)
+
+ziä : to pull [ziehen]
+ich ziä : I pull
+du ziäsch : you pull
+er ziät : he pulls
+mir ziänd : we pull
+zoge : pulled
+
+abziä : to take off (clothes)
+
+
+# ----------------------------------------------------------------------------------------------
+# Nouns ----------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------
+
+dr Aazug : suit [DE: anzug]
+
+
+# ----------------------------------------------------------------------------------------------
+# Uncategorized --------------------------------------------------------------------------------
+# ----------------------------------------------------------------------------------------------
+
+
+
+Ich bin i dä Berge : I am in the mountains
+Ich gan i d' Berge : I got to the mountains
+
+
+
+Das isch wirklich so : that's true [not "das ist wahr", which is more DE]
+
+
+
+värbii : over [DE vorbei]
+
+
+
+
+
+
 
 zwüsched zwölf und ais : between twelve and one [no "-i" endings here!]
 vom achti bis am nuuni : from eight o'clock to nine o'clock
@@ -107,42 +200,7 @@ Ich bi(n) go wandere : I went hiking
 Ich bi(n) go chlätter : I went climbing
 Vor zwei wuche simmer gereist : we travelled two weeks ago
 
-legge : to (actively) lay (something) down
-ich legge : I lay (something down)
-du laisch : you lay (something down)
-er lait : he lays (something down)
-mir legged : we lay (something down)
-gleit : laid (actively down)
 
-ziä : to pull [ziehen]
-ich ziä : I pull
-du ziäsch : you pull
-er ziät : he pulls
-mir ziänd : we pull
-zoge : pulled
-
-schtaa : to stand
-ich schtaa : I stand
-du schtaasch : you stand
-er schtaat : he stands
-mir schtönd : we stand 
-
-
-träffe : to meet
-ich träffe : I meet
-du triffsch : you meet
-er trifft: he meets
-mir träffed : we meet
-troffe : met
-
-
-aaträffe : to meet (spontaneously)
-Ich triff d' Claudia : I met Claudia [non-reflexive]
-Ich triff mich mit dä Claudia : I met Claudia [reflexive]
-ufschtaa : to stand up, to get up
-aalegge : to put on (clothes)
-abziä : to take off (clothes)
-uusgsee : to look like
 
 verchrugelt : crumpled
 
