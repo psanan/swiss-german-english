@@ -767,3 +767,33 @@ schpaziäre : to go fror a walk
 Velo faare : to drive the bicycle
 
 Was isch f=C3=BCr Ziit? : What time is it?
+
+Pfnüsel-küschte : sniffle coast
+s Peterli : parsley [Petersilie]
+zerscht : at first [zuerst]
+dr Chaib : the guy [typ - used to be a sick person, e.g. Chreis Chaib]
+Was isch dinere Meinig nah, .. : what's your opinion of [was ist deiner Meinung nach, ..]
+rauche : to smoke [rauchen]
+zmörgele : to have breakfast (leisurely)
+lädälä : to shop 
+sünnele : to tan
+aperöle : to have an apero
+Ehrlichkeit währt am Längschte - "honesty counts the longest" 
+Öppis abmache : to plan something (to make plans)
+Öppis vormache : to have something planned
+
+
+
+Am Mantig am halbi zahni treffi mit mim Chef
+Am vieri assi -n- e kekse im Microkitchen
+
+Am ziestig
+Am drüü am nahmitag bsuechi d Apotheke, um e-n-Impfig z bekommä
+
+Am mittwuch Morge gahni go poschte
+Am mittwuch aabig gahni is kino
+
+Am donnerstig 
+
+die : this [diese]
+däm : this [dative, diesem] 
