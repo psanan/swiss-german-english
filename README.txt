@@ -1,128 +1,25 @@
 # Swiss German / English Pairs
-# 
+#
 # * Pairs of Zurich Swiss German and English words, phrases, or sentences
+# * A few files, and uncategorized terms in this file.
 # * Duplicates and variations are allowed - it's recommended to group pairs with common elements
 # * Pairs are separated by colons (:), which may not otherwise appear
 # * Text in [brackets] are freeform notes on usage, comparisons with English or High German, etc.
 # * Text in (parentheses) are grammatically correct, optional elements - pairs are valid with or without them
-# * Any line starting with "#" is a comment. 
+# * Any line starting with "#" is a comment.
 # * Try to organize in large categories, but prioritize quickly adding correct entries to the list.
 
-# ----------------------------------------------------------------------------------------------
-
-# ----------------------------------------------------------------------------------------------
-# Sentences (e.g. homework) --------------------------------------------------------------------
-# ----------------------------------------------------------------------------------------------
-
-Am morge staani uf und ziä d Hose aa : In the morning, I wake up and put pants on.
-Min Kollege isch DJ und am Wuchende laiter uf : My colleague is a DJ and DJ's on the weekend. 
-Mini Katz chunt zrugg, wann sie der Dosenöffner gehört : my cat comes back, when it hears the can opener. [not "löse", that's active, this is passive]
-Hüüt gsait's wunderschön uus! : Today it looks wonderful out!
-Dr Bus isch kaputt, drum stiiged alli uus. : the bus is broken, so everyone gets off. 
-
-# ----------------------------------------------------------------------------------------------
-# Verbs (and verb phrases) ---------------------------------------------------------------------
-# Roughly, alphabetize by root verb
-# ----------------------------------------------------------------------------------------------
-
-übercho : to receive
-
-gsee : to see
-ich gsee : I see
-du gseesch : you see
-er gseet : he sees
-mir gsend : we see
-
-uusgsee : to look like
-
-abmache : to plan [to make plans]
-
-vormache : to plan [to have plans already]
-
-räne : to run
-dafoo räne : to run off
-
-säge : to say
-ich säge : I say
-du saisch : you say
-er sait :  he says
-mir säged : we say
-
-schtaa : to stand
-ich schtaa : I stand
-du schtaasch : you stand
-er schtaat : he stands
-mir schtönd : we stand 
-
-ufschtaa : to stand up, to get up
-
-träffe : to meet
-ich träffe : I meet
-du triffsch : you meet
-er trifft: he meets
-mir träffed : we meet
-troffe : met
-
-aaträffe : to meet (spontaneously)
-Ich triff d' Claudia : I met Claudia [non-reflexive]
-Ich triff mich mit dä Claudia : I met Claudia [reflexive]
-
-welle : to want
-ich will: I want [or ich wett]
-ich wett : I want [or Ich will]
-du willsch: you want [or du wettsch]
-du wettsch : you want [or du willsch]
-er will: he wants [or er wett]
-er wett: he wants [or er will]
-mer wänd : we want
-
-legge : to (actively) lay (something) down
-ich legge : I lay (something down)
-du laisch : you lay (something down)
-er lait : he lays (something down)
-mir legged : we lay (something down)
-gleit : laid (actively down)
-
-aalegge : to put on (clothes)
-
-ziä : to pull [ziehen]
-ich ziä : I pull
-du ziäsch : you pull
-er ziät : he pulls
-mir ziänd : we pull
-zoge : pulled
-
-abziä : to take off (clothes)
 
 
-# ----------------------------------------------------------------------------------------------
-# Nouns ----------------------------------------------------------------------------------------
-# ----------------------------------------------------------------------------------------------
 
-dr Aazug : suit [DE: anzug]
-
-
-# ----------------------------------------------------------------------------------------------
-# Uncategorized --------------------------------------------------------------------------------
-# ----------------------------------------------------------------------------------------------
-
-
+# Terms to categorize follow:
 
 Ich bin i dä Berge : I am in the mountains
 Ich gan i d' Berge : I got to the mountains
 
-
-
 Das isch wirklich so : that's true [not "das ist wahr", which is more DE]
 
-
-
 värbii : over [DE vorbei]
-
-
-
-
-
 
 
 zwüsched zwölf und ais : between twelve and one [no "-i" endings here!]
@@ -130,7 +27,7 @@ vom achti bis am nuuni : from eight o'clock to nine o'clock
 normalerwiis : normally
 chunsch : you come
 um mitternacht : at midnight [otherwise, "am" for times]
-ufhöre : to stop, to quit 
+ufhöre : to stop, to quit
 Am halbi vieri machi e pause : at three thirty I take a break [no -n- here]
 morn : tomorrow
 morge : morning
@@ -165,7 +62,7 @@ zerscht : at first ["zuerst"]
 I dä Nochi : near ["in der Nähe"]
 Er hat en sohn wo 10ni isch : He has a son who is ten
 ich nime a : I assume
-öppe-n-am halbi nüni : at about 08:30 
+öppe-n-am halbi nüni : at about 08:30
 öppe halbi eis : about 12:30
 öppe : about (a time) [DE: circa]
 deet : there [DE: dort]
@@ -175,7 +72,7 @@ triibe: to drive (an animal forward, a person out, etc.)
 was triibsch? : what's up, what's going on, what's happening?
 lüte : to ring (a bell)
 s' Sagmal : sawdust ["saw flour"]
-psueche : to visit 
+psueche : to visit
 s' eili : little egg
 d' eili: little eggs
 entspanne : to relax
@@ -185,7 +82,7 @@ abzocke : to beat the system, to profit unfairly [always negative connotation]
 bestätige : to confirm [DE: bestatigen] [not "konfirmiere"]
 us em nüüt : out of the blue [DE: aus dem nichts]
 d' Vergangeheit : the past
-uf Bsuech sii : to be visiting 
+uf Bsuech sii : to be visiting
 de Schwager : brother in law
 d' Schwägerin : sister in law
 de Schwigervater : father in law
@@ -215,7 +112,7 @@ Vor zwei wuche simmer gereist : we travelled two weeks ago
 verchrugelt : crumpled
 
 lässig : fun, cool, good
- 
+
 aamache : to turn on
 uusmache : to turn off
 
@@ -361,124 +258,6 @@ mit eus(n)e Hünd : with our (pl.) dogs
 mit eu(n)e Hünd : with your (pl.) dogs
 mit ihr(n)e Hünd : with their (pl.) dogs
 
-wone : to live (inhabit)
-ich wone : I live (inhabit)
-du wonsch : you live (inhabit)
-er wont : he lives (inhabits)
-sie wont : she lives (inhabits)
-mir woned : we live (inhabit)
-
-schaffe : to work
-ich schaffe : I work
-I work in Zurich : ich schaffe z Züri
-
-haisse : to be called
-ich haisse : I am called
-du haissisch : you are called
-er haisst : he is called
-mir haissed : we are called
-
-sii : to be
-ich bi : I am
-du bisch : you are
-sie isch : she is
-mir sind : we are
-
-gaa : to go
-ich gang : I go (variation ending in consonant)
-ich gaa : I go (variation ending in vowel)
-du gahsch : you go
-er gaht : he goes
-mir göhnd : we go
-
-staa : to stand
-du staasch : you stand
-er staat : he stands
-mir stöhnd : we stand
-
-ich verstaa : I understand
-
-gäh : to give
-ich gib : I give
-du gisch : you give
-sie git : she gives
-mir gäbed : we give
-
-müesse : to have to
-ich muess : I have to
-du muesch : you have to
-sie muess : she has to
-mir müend : we have to
-
-chönne : to be able to
-ich cha(n) : I am able to (I can)
-du chasch : you are able to  (you can)
-sie cha(n) : she is able to (she can)
-mir chönd : we are able to (we can)
-
-sölle : should (infinitive)
-ich söll : I should
-du söllsch : you should
-er söll : he should
-mir sölled : we should
-
-welle : to want
-ich will : I want
-du willsch : you want
-sie will : she wants
-mir wänd : we want
-
-möge : to like
-ich mag : I like
-du magsch : you like
-er mag : he likes
-mir möget : we like
-
-möge : would like to
-ich möcht : I would like to
-du möchtisch : you would like to
-er möcht : he would like to
-mir möchted : we would like to
-
-dörfe : to be allowed to
-Ich dörf : I am allowed to (I may)
-du dörfsch : you are allowed to (you may)
-sie dörf : she is allowed to (she may)
-mir dörfed : we are allowed to (me may)
-
-choo : to come
-ich chome : I come
-du chunsch : you come
-er chunt : he comes
-mir chömed : we come
-Wohär chömed Si? : where do you come from? (formal)
-
-rede : to speak (to talk)
-
-säge : to say
-ich säge : I say
-du saisch : you say
-sie sait : she says
-mir säged : we say
-
-haa : to have
-ich ha(n) : I have
-du häsch : you have
-er hät : he has
-mir händ : we have
-
-ässe : to eat
-du issisch : you eat
-er isst: he eats
-
-läse : to read
-du lissisch : you read
-
-bruuche : to need
-
-bruuche : to use
-
-Ich ha pruucht : I needed
 
 mer : one (a generic person)
 de See : the lake
@@ -775,10 +554,10 @@ dr Chaib : the guy [typ - used to be a sick person, e.g. Chreis Chaib]
 Was isch dinere Meinig nah, .. : what's your opinion of [was ist deiner Meinung nach, ..]
 rauche : to smoke [rauchen]
 zmörgele : to have breakfast (leisurely)
-lädälä : to shop 
+lädälä : to shop
 sünnele : to tan
 aperöle : to have an apero
-Ehrlichkeit währt am Längschte - "honesty counts the longest" 
+Ehrlichkeit währt am Längschte - "honesty counts the longest"
 Öppis abmache : to plan something (to make plans)
 Öppis vormache : to have something planned
 
@@ -793,7 +572,285 @@ Am drüü am nahmitag bsuechi d Apotheke, um e-n-Impfig z bekommä
 Am mittwuch Morge gahni go poschte
 Am mittwuch aabig gahni is kino
 
-Am donnerstig 
+Am donnerstig
 
-die : this [diese]
-däm : this [dative, diesem] 
+mer : one (a generic person)
+de See : the lake
+s Meer : the ocean
+
+d Täg : (the) day
+de Mäntig : (the) Monday
+de Zieschtig : (the) Tuesday
+de Mittwuch : (the) Wednesday
+de Dunschtig : (the) Thursday
+de Friitig : (the) Friday
+de Samschtig : (the) Saturday
+de Sunntig : (the) Sunday
+am Sunntig : on Sunday
+
+de Monät : the month
+d Monäteö : the months
+de Januar : (the) January
+de Februar : (the) February
+de März : (the) March
+de April : (the) April
+de Mai : (the) May
+de Juni : (the) June
+de Juli : (the) July
+de Auguscht : (the) August
+de Septämber : (the) September
+de Oktober : (the) October
+de Novämber : (the) November
+de Dezämber : (the) December
+im Dezember : in December
+
+d Jahreszit : the season (of the year)
+d Jahrzite : the seasons (of the year)
+de Summer : (the) summer
+de Herbscht : (the) fall
+de Winter : (the) winter
+de Früehlig : (the) spring
+im Frühlig : in spring
+
+Ich ha erst zwei Franke verdient : I only earned two Franks
+Ich ha nur zwei Franke : I only have two Franks
+
+Uf d Wält choo : born
+
+doch : yuh-huh (same word as High German)
+mol : yuh-huh (different word than High German)
+
+
+mängisch : sometimes
+
+null : zero
+ais : one
+zwai : two
+drüü : three
+viär : four
+foif : five
+sächs : six
+sibe : seven
+acht : eight
+nüün : nine
+zä : ten
+elf : eleven
+zwölf : twelve
+drizä : thirteen
+viärzä : fourteen
+füfzä : fifteen
+sächzä : sixteen
+sibezä : seventeen
+achzä : eighteen
+nünzä : nineteen
+zwänzg : twenty
+ainezwänzg : twenty-one
+drüüezwänzg: twenty-three
+foifezwänzg : twenty-five
+driisg : thirty
+viärzg : forty
+füfzg : fifty
+sächzg : sixty
+sibezg : seventy
+achzg : eighty
+nüünedachzg : eighty-nine
+hundert : one hundred
+tuusig : one thousand
+
+d Ais : the one (tram)
+d Zwai : the two (tram)
+d Drüü : the three (tram)
+d Viäri : the four (tram)
+d Foifi : the five (tram)
+d Sächsi : the six (tram)
+d Sibeni : the seven (tram)
+d Achti : the eight (tram)
+d Nüüni : the nine (tram)
+d Zäni : the ten (tram)
+d Elfi : the eleven (tram)
+d Zwölfi : the twelve (tram)
+d Zwänzgi : the twenty (tram)
+
+de Foifer : the five (bus)
+
+de Foifräppler : the five rappen coin
+de Zäner : the ten rappen coin
+de Zwänzger : the twenty rappen coin
+de Füfzger : the fifty rappen coin
+de Aifränkler : the one Frank coin
+de Foifliiber : the five Frank coin
+d Zänernote : ten Frank note
+d Zwänzgernote : the twenty Frank note
+d Füfzgernote : the fifty Frank note
+d Hunderternote : the hundred Frank note
+d Zweihunderternote : the two hundred Frank note
+
+d Tuusigernote : the thousand Frank note
+
+vo wo : where from
+wo : where
+cho vo : to come from
+wone : to live (inhabit)
+härcho vo : to come from
+sii vo : to be from
+läbe : to live (be alive)
+d Schtadt : the city
+s Land : the country
+es bitzli : a little
+d Schprach : the language
+was für e ? : what kind of
+nöd : not
+all(i) : everybody
+öpper : someone
+mache : to do
+jede : every
+s Foti : the photo
+d Frag : the question
+fröge : to ask
+antworte : to answer
+jetz : now
+nüme : no more
+trinke : to drink
+
+värschide : different
+värhüratet : married
+de Inscheniör : the engineer
+de Pruäf : the profession
+vo Pruäf sii : to be by profession
+aber : but
+de Momänt : the moment
+im Momänt : at the moment
+d Huusfrau : the housewife
+na : still
+chlii : little
+s Hobi : the hobby
+läse : to read
+sörfe : to surf
+de Puur : farmer
+de Programmiärer : the programmer
+de Schtudänt :  the (male) student
+schtudiäre : to study (at a university)
+d Värchaufsleer : the sales apprenticeship
+de Schüäler: the (male) pupil
+d Schüälerin: the (female) pupil
+zaichne : to draw
+tschuute : to play football
+de Arzt the (male) doctor
+ledig : single
+uufziä : raise
+aifach : easy
+schpile : to play
+Gitare schpile : to play the guitar
+de Automechaniker : the (male) car mechanic
+det(e) : there
+d Autofirma : the car company
+värwittwet : widowed
+vil : a lot
+chaufe : to buy
+värchaufe : to sell
+raise : to travel
+de Wonort : the residence der Wohnort
+de Familieschtand : the marital (civil) status
+s Alter : the age
+de Leerer : the (male) teacher
+d Leereri : the (female) teacher
+IT-Schpezialischt : the (male ) IT specialist
+min Maa : my husband
+mini Frau : my wife
+de Nachbär : the neighbor
+d Nachbäre : the neighbors
+de Tegscht : the text
+d Medizin : the medicine
+de Fotograf : the (male) photographer
+gschide : divorced
+de Schauschpiler : the actor
+de Töff : the motorcycle
+Töff faare : ride a motorbike
+de Pilot : the (male) pilot
+nüüt : nothing
+scho : already
+arbätslos unemployed arbeitslos
+na/no still noch
+frei free frei
+noi new neu
+bi ois at our place bei uns
+erscht only nur
+sit since seit
+drumm that’s why darum
+übrigens by the way übrigens
+de Programiärer : the (male) programmer
+de Buächhalter : the (male) account
+de Aawalt : the (male) lawyer
+de Mänätscher : the (male) manager
+s Schpital : the hospital
+oder : or
+de Monät : the month
+s Jaar : the year
+lang : long
+lärne : to learn
+de Vorname : first name
+Wiä bitte? : I beg your pardon?
+öppis gärn mache : to like to do something
+bruche : use
+nonig : not yet
+öpper : someone
+niämer : no one
+rächne : to calculate rechnen
+d Adrässe : the address
+d Poschtlaitzaal : the zip code
+d Telefonnummäre : the phone number
+d Vorwaal : the area code
+choschte : to cost
+Was choschtet’s? : How much is it?
+Wivil  macht’s? : How much is it?
+schtimmt’s? : is it okay?
+s Brot : the bread
+de Kafi : the coffee
+s Gipfeli : the croissant
+s Trambilet : the tram ticket
+s Taxi : the taxi
+s Kino : the cinema
+s Münz : the change (coins)
+s Gäld : the money
+s Portmonee : the wallet
+gnuäg : enough
+wächsle : to (ex)change
+telefoniäre : to telephone
+welles : which
+s Tram : the tram
+faare : to drive
+de Baanhof : the station
+hai faare : to drive home
+alt : old
+Wiä alt bisch? : How old are you?
+foifi : five years
+d Eltäre : the parents
+fascht : almost
+d Gschwüschterti : the siblings
+de Brüäder : the brother
+d Schwöschter : the sister
+de Hund : the dog
+d Chatz : the cat
+wänn : when
+de Geburtstag : the birthday
+laider : unfortunately
+gliich : same
+d Zwilling : the twins
+frei haa : to have a day off
+chalt : cold
+warm : warm
+d Wuche : the week
+d Schtund : the hour
+d Minute : the minute
+d Sekunde : the second
+Schiii fare : to ski
+wandäre : to hike
+poschte : to do grocery (?)
+sörfe : to do windsurfing
+schwüme : to swim
+raise : to travel
+schpaziäre : to go fror a walk
+Velo faare : to drive the bicycle
+
+Was isch für Ziit? : What time is it?
+

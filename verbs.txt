@@ -1,0 +1,191 @@
+
+# Verbs (and verb phrases)
+# Ideally, alphabetize by root verb
+
+übercho : to receive
+
+gsee : to see
+ich gsee : I see
+du gseesch : you see
+er gseet : he sees
+mir gsend : we see
+
+uusgsee : to look like
+
+abmache : to plan [to make plans]
+
+vormache : to plan [to have plans already]
+
+räne : to run
+dafoo räne : to run off
+
+säge : to say
+ich säge : I say
+du saisch : you say
+er sait :  he says
+mir säged : we say
+
+schtaa : to stand
+ich schtaa : I stand
+du schtaasch : you stand
+er schtaat : he stands
+mir schtönd : we stand
+
+ufschtaa : to stand up, to get up
+
+träffe : to meet
+ich träffe : I meet
+du triffsch : you meet
+er trifft: he meets
+mir träffed : we meet
+troffe : met
+
+aaträffe : to meet (spontaneously)
+Ich triff d' Claudia : I met Claudia [non-reflexive]
+Ich triff mich mit dä Claudia : I met Claudia [reflexive]
+
+welle : to want
+ich will: I want [or ich wett]
+ich wett : I want [or Ich will]
+du willsch: you want [or du wettsch]
+du wettsch : you want [or du willsch]
+er will: he wants [or er wett]
+er wett: he wants [or er will]
+mer wänd : we want
+
+legge : to (actively) lay (something) down
+ich legge : I lay (something down)
+du laisch : you lay (something down)
+er lait : he lays (something down)
+mir legged : we lay (something down)
+gleit : laid (actively down)
+
+aalegge : to put on (clothes)
+
+ziä : to pull [ziehen]
+ich ziä : I pull
+du ziäsch : you pull
+er ziät : he pulls
+mir ziänd : we pull
+zoge : pulled
+
+abziä : to take off (clothes)
+
+wone : to live (inhabit)
+ich wone : I live (inhabit)
+du wonsch : you live (inhabit)
+er wont : he lives (inhabits)
+sie wont : she lives (inhabits)
+mir woned : we live (inhabit)
+
+schaffe : to work
+ich schaffe : I work
+I work in Zurich : ich schaffe z Züri
+
+haisse : to be called
+ich haisse : I am called
+du haissisch : you are called
+er haisst : he is called
+mir haissed : we are called
+
+sii : to be
+ich bi : I am
+du bisch : you are
+sie isch : she is
+mir sind : we are
+
+gaa : to go
+ich gang : I go (variation ending in consonant)
+ich gaa : I go (variation ending in vowel)
+du gahsch : you go
+er gaht : he goes
+mir göhnd : we go
+
+staa : to stand
+du staasch : you stand
+er staat : he stands
+mir stöhnd : we stand
+
+ich verstaa : I understand
+
+gäh : to give
+ich gib : I give
+du gisch : you give
+sie git : she gives
+mir gäbed : we give
+
+müesse : to have to
+ich muess : I have to
+du muesch : you have to
+sie muess : she has to
+mir müend : we have to
+
+chönne : to be able to
+ich cha(n) : I am able to (I can)
+du chasch : you are able to  (you can)
+sie cha(n) : she is able to (she can)
+mir chönd : we are able to (we can)
+
+sölle : should (infinitive)
+ich söll : I should
+du söllsch : you should
+er söll : he should
+mir sölled : we should
+
+welle : to want
+ich will : I want
+du willsch : you want
+sie will : she wants
+mir wänd : we want
+
+möge : to like
+ich mag : I like
+du magsch : you like
+er mag : he likes
+mir möget : we like
+
+möge : would like to
+ich möcht : I would like to
+du möchtisch : you would like to
+er möcht : he would like to
+mir möchted : we would like to
+
+dörfe : to be allowed to
+Ich dörf : I am allowed to (I may)
+du dörfsch : you are allowed to (you may)
+sie dörf : she is allowed to (she may)
+mir dörfed : we are allowed to (me may)
+
+choo : to come
+ich chome : I come
+du chunsch : you come
+er chunt : he comes
+mir chömed : we come
+Wohär chömed Si? : where do you come from? (formal)
+
+rede : to speak (to talk)
+
+säge : to say
+ich säge : I say
+du saisch : you say
+sie sait : she says
+mir säged : we say
+
+haa : to have
+ich ha(n) : I have
+du häsch : you have
+er hät : he has
+mir händ : we have
+
+ässe : to eat
+du issisch : you eat
+er isst: he eats
+
+läse : to read
+du lissisch : you read
+
+bruuche : to need
+
+bruuche : to use
+
+Ich ha pruucht : I needed
