@@ -7,12 +7,9 @@
 # * Text in [brackets] are freeform notes on usage, comparisons with English or High German, etc.
 # * Text in (parentheses) are grammatically correct, optional elements - pairs are valid with or without them
 # * Any line starting with "#" is a comment.
-# * Try to organize in large categories, but prioritize quickly adding correct entries to the list.
 
 
-
-
-# Terms to categorize follow:
+# Terms to categorize:
 
 Ich bin i dä Berge : I am in the mountains
 Ich gan i d' Berge : I got to the mountains
