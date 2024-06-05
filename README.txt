@@ -858,3 +858,16 @@ Ich muess em Arzt alüte : I have to call the doctor
 Das Jahr : this year
 Dä Fritig : this Friday
 Die Woche : this week
+
+teilnäh : to take part [DE: teilnehmen]
+
+Ich lüte am Andrej grad ah : I will call Andrej right now
+
+müesse : to have to 
+ich muess : I have to
+du muesch : you have to
+er muess : he has to
+mir müend : we have to
+
+
+
