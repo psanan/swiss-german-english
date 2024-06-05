@@ -868,6 +868,7 @@ ich muess : I have to
 du muesch : you have to
 er muess : he has to
 mir müend : we have to
+müemmer : we have to [inversion]
 
-
-
+abstimme : to vote (on a referendum, yes or no)
+wählen : to vote (for a person, to choose someone)
