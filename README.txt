@@ -851,3 +851,10 @@ Velo faare : to drive the bicycle
 
 Was isch für Ziit? : What time is it?
 
+alüte : to call (on the phone) [DE anrufen] [w/ dative]
+
+Ich muess em Arzt alüte : I have to call the doctor
+
+Das Jahr : this year
+Dä Fritig : this Friday
+Die Woche : this week
