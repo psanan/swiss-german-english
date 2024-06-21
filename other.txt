@@ -146,3 +146,5 @@ erst : only (process)
 nur  : only (amount, same word as High German)
 nume : only (amount, different word from High German)
 nüme : no more
+susch: otherwise ["sonst"]
+sust:  otherwise ["sonst"]
