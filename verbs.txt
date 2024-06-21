@@ -156,12 +156,13 @@ du dörfsch : you are allowed to (you may)
 sie dörf : she is allowed to (she may)
 mir dörfed : we are allowed to (me may)
 
-choo : to come
+cho : to come
 ich chome : I come
 du chunsch : you come
 er chunt : he comes
 mir chömed : we come
-Wohär chömed Si? : where do you come from? (formal)
+
+mitbecho : to learn about [also "übercho"] 
 
 rede : to speak (to talk)
 
@@ -189,3 +190,6 @@ bruuche : to need
 bruuche : to use
 
 Ich ha pruucht : I needed
+
+usefinde : to find out
+
