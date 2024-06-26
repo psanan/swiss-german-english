@@ -872,3 +872,20 @@ müemmer : we have to [inversion]
 
 abstimme : to vote (on a referendum, yes or no)
 wählen : to vote (for a person, to choose someone)
+
+lässig : fun
+
+er find sie lässig : he has a crush on her, he likes her
+
+Mir händ Gäscht gha : we had guests (visiting friends)
+
+Ich gan id Berge : I go to the mountains [akk.]
+Ich bin i dä Berge : I am in the mountains [dat.]
+
+Ich gan is Kino : I go to the theater [akk.]
+Ich bin im Kino : I am in the theater [dat.]
+
+Ich gan i d'Schuel : I got to the school
+Ich bin i dä Schuel : I am in the school
+
+Ich han mich dra gwöhnt : I got used to it [~DE "daran"]
