@@ -889,3 +889,35 @@ Ich gan i d'Schuel : I got to the school
 Ich bin i dä Schuel : I am in the school
 
 Ich han mich dra gwöhnt : I got used to it [~DE "daran"]
+
+öpper : someone 
+
+än Tütsche : a German (man)
+ä Tütschi : a German (woman)
+mit emene Tütsche : with a German (man)
+mit emener Tütsche : with a German (woman)
+
+stibize : to steal 
+
+labere : to speak, to talk (blah blah)
+
+
+
+wiä läbsch? : how's it going? (how do you live?) [like "wiä gähts?"]
+
+
+
+(make not to copy verbs from end of textbook to verbs.txt)
+
+
+
+de Töff : the motorcycle 
+
+
+
+Ich han viel los : I have a lot going on (I'm busy)
+Bi mir isch viel los : I have a lot going on (I'm busy)
+
+
+bringe : to bring
+bracht : brought
