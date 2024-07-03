@@ -21,6 +21,16 @@ kai : not a (no, f. nom.)
 kais : not a (no, s. nom.)
 kai : no (neg. indef. pl. nom. article)
 
+mit em Maa : with the man
+mit de Frau : with the woman
+mit em Chind : with the child
+mit de Chind : with children
+
+mit emene Maa : with a man
+mit enere Frau : with a woman
+mit emene Chind : with a child
+mit Chind : with (some) children
+
 ich (-i inv.): I
 du (- inv.): you
 er (-er inv.): he
@@ -42,7 +52,6 @@ Sie (-s inv.) : you (formal)
 sie (-s inv.): they
 
 bini : am i
-Bini e Kiosk? : Am I a kiosk?
 
 mich (-mi inv.): (to) me (accusative)
 dich (-di inv.): (to) you (accusative)
