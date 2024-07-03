@@ -44,3 +44,6 @@ D Softwareentwickler müend drüümal pro Wuche is büro gaa : the software deve
 
 Du muesch go dusche, bevor du im schwimmbad gasch : you have to go and shower before you go in the pool
 
+Ich triff d' Claudia : I met Claudia [non-reflexive]
+Ich triff mich mit dä Claudia : I met Claudia [reflexive]
+
