@@ -45,16 +45,14 @@ s' Stägehuus : the stairwell [no "treppenhaus" in CH-DE]
 ich hät gärn : I would like [no "Ich möchte" in CH-DE]
 s' Team : the team
 Nachäm eis: after one o'clock [note article, unlike DE]
+
 ich isse: I eat
 ich ässe: I eat
 ich nää : I take
 du nimmsch: you take
 er nimmt: he takes
 mir nämed: we take
-mit em Maa: with the man
-mit de Chatze : with the cat
-mit em Chind : with the child
-mit de Chind : with the children
+
 zerscht : at first ["zuerst"]
 I dä Nochi : near ["in der Nähe"]
 Er hat en sohn wo 10ni isch : He has a son who is ten
@@ -260,39 +258,7 @@ mer : one (a generic person)
 de See : the lake
 s Meer : the ocean
 
-d Täg	: (the) day
-de Mäntig : (the) Monday
-de Zieschtig : (the) Tuesday
-de Mittwuch : (the) Wednesday
-de Dunschtig : (the) Thursday
-de Friitig : (the) Friday
-de Samschtig : (the) Saturday
-de Sunntig : (the) Sunday
-am Sunntig : on Sunday
 
-de Monät : the month
-d Monäteö : the months
-de Januar : (the) January
-de Februar : (the) February
-de März : (the) March
-de April : (the) April
-de Mai : (the) May
-de Juni : (the) June
-de Juli : (the) July
-de Auguscht : (the) August
-de Septämber : (the) September
-de Oktober : (the) October
-de Novämber : (the) November
-de Dezämber : (the) December
-im Dezember : in December
-
-d Jahreszit : the season (of the year)
-d Jahrzite : the seasons (of the year)
-de Summer : (the) summer
-de Herbscht : (the) fall
-de Winter : (the) winter
-de Früehlig : (the) spring
-im Frühlig : in spring
 
 Ich ha erst zwei Franke verdient : I only earned two Franks
 Ich ha nur zwei Franke : I only have two Franks
