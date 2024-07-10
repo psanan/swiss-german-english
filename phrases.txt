@@ -47,3 +47,5 @@ Du muesch go dusche, bevor du im schwimmbad gasch : you have to go and shower be
 Ich triff d' Claudia : I met Claudia [non-reflexive]
 Ich triff mich mit dä Claudia : I met Claudia [reflexive]
 
+Ich bi z'früeh. Sölli en Kaffi vom Barista mitbrigen? : I am early. Shall I bring a coffe from the barista?
+
