@@ -46,6 +46,8 @@ Ich triff d' Claudia : I met Claudia [non-reflexive]
 Ich triff mich mit dä Claudia : I met Claudia [reflexive]
 
 Ich gaa a d Haltestell : I go to the (tram or bus) stop
+Ich bin a de Haltestell : I am at the (tram or bus) stop
+Er isch ufgregt wäg em Bötle : He is excited about boating.
 
 Ich bi z'früeh. Sölli en Kaffi vom Barista mitbrigen? : I am early. Shall I bring a coffe from the barista?
 
