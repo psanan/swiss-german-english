@@ -552,7 +552,6 @@ Uf d Wält choo : born
 doch : yuh-huh (same word as High German)
 mol : yuh-huh (different word than High German)
 
-
 mängisch : sometimes
 
 null : zero
@@ -775,7 +774,8 @@ d Wuche : the week
 d Schtund : the hour
 d Minute : the minute
 d Sekunde : the second
-Schiii fare : to ski
+
+Schii fare : to ski
 wandäre : to hike
 poschte : to do grocery (?)
 sörfe : to do windsurfing
@@ -784,28 +784,11 @@ raise : to travel
 schpaziäre : to go fror a walk
 Velo faare : to drive the bicycle
 
-
-alüte : to call (on the phone) [DE anrufen] [w/ dative]
-
-Ich muess em Arzt alüte : I have to call the doctor
-
 Das Jahr : this year
 Dä Fritig : this Friday
 Die Woche : this week
 
-teilnäh : to take part [DE: teilnehmen]
-
 Ich lüte am Andrej grad ah : I will call Andrej right now
-
-müesse : to have to
-ich muess : I have to
-du muesch : you have to
-er muess : he has to
-mir müend : we have to
-müemmer : we have to [inversion]
-
-abstimme : to vote (on a referendum, yes or no)
-wählen : to vote (for a person, to choose someone)
 
 er find sie lässig : he has a crush on her, he likes her
 
@@ -826,6 +809,7 @@ Ich han mich dra gwöhnt : I got used to it [~DE "daran"]
 
 än Tütsche : a German (man)
 ä Tütschi : a German (woman)
+
 mit emene Tütsche : with a German (man)
 mit emener Tütsche : with a German (woman)
 

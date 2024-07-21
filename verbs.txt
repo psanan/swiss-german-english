@@ -11,6 +11,8 @@ du issisch : you eat
 er isst: he eats
 ich ha gässe : I ate
 
+abstimme : to vote (on a referendum, yes or no)
+
 # B
 
 bruuche : to need, to use
@@ -121,6 +123,8 @@ zuäluäge: to (actively) watch
 
 labere : to speak, to talk (blah blah)
 
+alüte : to call (on the phone) [DE anrufen] [w/ dative]
+
 # M
 
 mache : to make
@@ -151,6 +155,7 @@ ich muess : I have to
 du muesch : you have to
 sie muess : she has to
 mir müend : we have to
+müemmer : we have to [inversion]
 
 # N
 
@@ -158,6 +163,8 @@ ich nää : I take
 du nimmsch: you take
 er nimmt: he takes
 mir nämed: we take
+
+teilnäh : to take part [DE: teilnehmen]
 
 # O
 
@@ -243,6 +250,8 @@ du wonsch : you live (inhabit)
 er wont : he lives (inhabits)
 sie wont : she lives (inhabits)
 mir woned : we live (inhabit)
+
+wählen : to vote (for a person, to choose someone)
 
 # X
 
