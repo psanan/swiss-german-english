@@ -37,3 +37,8 @@ de Herbscht : (the) fall
 de Winter : (the) winter
 de Früehlig : (the) spring
 im Frühlig : in spring
+
+de See : the lake
+s Meer : the ocean
+
+de Töff : the motorcycle 

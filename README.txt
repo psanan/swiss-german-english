@@ -11,10 +11,6 @@
 
 # Terms to categorize:
 
-Ich bin i dä Berge : I am in the mountains
-Ich gan i d' Berge : I got to the mountains
-
-Das isch wirklich so : that's true [not "das ist wahr", which is more DE]
 
 värbii : over [DE vorbei]
 
@@ -46,12 +42,6 @@ ich hät gärn : I would like [no "Ich möchte" in CH-DE]
 s' Team : the team
 Nachäm eis: after one o'clock [note article, unlike DE]
 
-ich isse: I eat
-ich ässe: I eat
-ich nää : I take
-du nimmsch: you take
-er nimmt: he takes
-mir nämed: we take
 
 zerscht : at first ["zuerst"]
 I dä Nochi : near ["in der Nähe"]
@@ -71,9 +61,8 @@ psueche : to visit
 s' eili : little egg
 d' eili: little eggs
 entspanne : to relax
-zocke : to gamble, to play video games
-game : to play video games
-abzocke : to beat the system, to profit unfairly [always negative connotation]
+
+
 bestätige : to confirm [DE: bestatigen] [not "konfirmiere"]
 us em nüüt : out of the blue [DE: aus dem nichts]
 d' Vergangeheit : the past
@@ -102,23 +91,10 @@ Ich bi(n) go wandere : I went hiking
 Ich bi(n) go chlätter : I went climbing
 Vor zwei wuche simmer gereist : we travelled two weeks ago
 
-
-
-verchrugelt : crumpled
-
 lässig : fun, cool, good
 
-aamache : to turn on
-uusmache : to turn off
 
 öppis vorhaa : to have plans
-ufmache : to open
-zumache : to close
-
-zuälose : to (actively) listen to [as opposed to just hear something]
-zuäluäge: to (actively) watch
-
-abmache : to plan (to meet up)
 
 
 de : the (m. nom.)
@@ -159,9 +135,6 @@ mir (-mer inv.): we
 ihr (-er inv.): you (all)
 Sie (-s inv.) : you (formal)
 sie (-s inv.): they
-
-bini : am i
-Bini e Kiosk? : Am I a kiosk?
 
 mich (-mi inv.): (to) me (accusative)
 dich (-di inv.): (to) you (accusative)
@@ -255,13 +228,9 @@ mit ihr(n)e Hünd : with their (pl.) dogs
 
 
 mer : one (a generic person)
-de See : the lake
-s Meer : the ocean
 
 
 
-Ich ha erst zwei Franke verdient : I only earned two Franks
-Ich ha nur zwei Franke : I only have two Franks
 
 no : still
 scho : already
@@ -815,7 +784,6 @@ raise : to travel
 schpaziäre : to go fror a walk
 Velo faare : to drive the bicycle
 
-Was isch für Ziit? : What time is it?
 
 alüte : to call (on the phone) [DE anrufen] [w/ dative]
 
@@ -829,7 +797,7 @@ teilnäh : to take part [DE: teilnehmen]
 
 Ich lüte am Andrej grad ah : I will call Andrej right now
 
-müesse : to have to 
+müesse : to have to
 ich muess : I have to
 du muesch : you have to
 er muess : he has to
@@ -838,8 +806,6 @@ müemmer : we have to [inversion]
 
 abstimme : to vote (on a referendum, yes or no)
 wählen : to vote (for a person, to choose someone)
-
-lässig : fun
 
 er find sie lässig : he has a crush on her, he likes her
 
@@ -856,34 +822,10 @@ Ich bin i dä Schuel : I am in the school
 
 Ich han mich dra gwöhnt : I got used to it [~DE "daran"]
 
-öpper : someone 
+öpper : someone
 
 än Tütsche : a German (man)
 ä Tütschi : a German (woman)
 mit emene Tütsche : with a German (man)
 mit emener Tütsche : with a German (woman)
 
-stibize : to steal 
-
-labere : to speak, to talk (blah blah)
-
-
-
-wiä läbsch? : how's it going? (how do you live?) [like "wiä gähts?"]
-
-
-
-(make not to copy verbs from end of textbook to verbs.txt)
-
-
-
-de Töff : the motorcycle 
-
-
-
-Ich han viel los : I have a lot going on (I'm busy)
-Bi mir isch viel los : I have a lot going on (I'm busy)
-
-
-bringe : to bring
-bracht : brought
