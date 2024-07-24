@@ -1,5 +1,11 @@
 # Swiss German / English Pairs
 #
+# 
+# In progress. The goal is to condense this information to a small set of entires (say 1000)
+# most useful to a native English speaker who knows some High German:
+# * Very common Swiss German
+# * Swiss German which is markedly different from High German
+#
 # * Pairs of Zurich Swiss German and English words, phrases, or sentences
 # * A few files, and uncategorized terms in this file.
 # * Duplicates and variations are allowed - it's recommended to group pairs with common elements
