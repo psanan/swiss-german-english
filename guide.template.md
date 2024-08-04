@@ -1,16 +1,17 @@
 <h1> Swiss German in N flashcards </h1>
 
 TODO:
-* transfer from piece of paper to this scratch
 * Go through grammatik book (and note source)
 * Go through existing files again (and note source)
 * Go through websites and other sources. (and note source)
+    * Eldrid swgerman
+    1. Rewatch kaya yanar and add to sources
 * Convert this to HTML
 * Go through carefully
     * (start) add the terms here to "proper" JSON file
     * Polish writing
 * Iterate until happy
-    * Fix N (500? 444?)
+    * Fix N (500? 444? 333? Less even?)
 * (finish) proper JSON file
     * Terms that appear here
     * Convert existing .txt files (leaving script to turn quick jot-style voki.md which I'll reinstate)
@@ -23,13 +24,15 @@ with a contained set of examples. (We'll just say "Swiss German" from now on for
 
 This assumes you understand High German at least as well as you hope to understand Swiss German. You can guess much of Swiss German based on High German. You might as well learn High German first, as it is the written and official language of all Swiss German speakers.
 
-You should also have some way to listen to Swiss German. It's a spoken language, so this text-only format is lacking on its own.
+You should also have some way to listen to Swiss German. It's a spoken language, so this text-only format is lacking on its own
+Hopefully it helps to have a foreigner try to describe the language from experience trying to learn it, but you also need to be around people speaking it and to be able to connect it to events in your real life.
 
 This document will walk you through the motivation for all the flashcards, and you can find the set of all flashcards here (TODO).
 
 In structuring this document, aims are
 
 <ul>
+<li> To explicitly focus only on differences from High German, avoiding the temptation to note similarities.
 <li> To roughly order the categories of words in terms of how much additional Swiss German they allow a proficient High German speaker to understand.
 <li> To prefer commonly-heard words (in particular, those that are less obvious from preceding examples).
 <li> To have as small a set of example as possible to demonstrate common patterns and exceptions
@@ -54,12 +57,26 @@ The first you might notice is that "n"s at the end of words in High German commo
 
 * wone
 * gester
+* de Maa
+* gägä
 * scho
+* vo
+* oi
+* ine
+
+In some cases this isn't even consistently done, even within Zurich Swiss German,
+particularly with some first-person verb conjugations:
+
+* Ich bi
+* Ich bin
+* Ich cha
+* Ich chan
 
 The "ch" also often drops off
 
 * au
 * no
+* dur (dura?)
 * äntli
 
 (That last one means both "finally" and "small duck")
@@ -98,13 +115,13 @@ Similarly, "t" and "d" are blurred and many words are often written either way.
 * dörfe
 * törfe
 
-Vowels change in regular ways:
+Vowels often shift:
 
 "i" often becomes "ie", with two vowels sounds (a dipthong)
 
 * d Liecht
 
-In many words, the similar-sounding "ie" is also pronounced as a dipthong
+In many words, "ie" is also pronounced this way
 
 * wie
 * de Spiegel
@@ -112,6 +129,10 @@ In many words, the similar-sounding "ie" is also pronounced as a dipthong
 Sometimes "ie" becomes "üü", though!
 
 * tüüf
+
+"i" can become "u"
+
+* d Brule
 
 Similarly, "u" often becomes the two-syllable "uä"
 
@@ -124,16 +145,22 @@ Similarly, "u" often becomes the two-syllable "uä"
 "eu" often becomes "üü"
 
 * d Lüüt
+* hüüt
 
 "ei" often becomes "ii"
 
 * sii
 * d Ziit
+* bi
+
+"o" can become "u"
+
+* d Wuche
+* d Sunne
 
 The diminuitives "-lein" or "-chen" usually become "-li".
 
-
-
+* s Muusli
 
 
 The "-ung" ending often becomes "-ig". As in High German, "g" at the end of the word
@@ -155,26 +182,113 @@ Those also apply when used as verb prefixes. Other prefixes are commonly shorten
 * bsuächt
 * gmacht
 
+Often, letters drop off the end as well
+
+* grad
+* jetz
 
 
-</h2> Articles, Pronouns, and Possessives. </h2>
+
+
+</h2> Articles </h2>
 
 Swiss German uses the same three genders as High German, and the nominative, accusative, and dative cases (never the genitive). The accusative form of words is the same as the nominative, outside of a few pronouns.
 
 Unlike High German, Swiss German neuter articles and possessives sometimes feature an "s" on the end, like High German adjectives sometimes do.
 
+The definite articles in the nominative and accusative look like shortened versions of the High German nominative ones:
 
-</h2> Adjective endings </h2>
+* de
+* d
+* s
+* d
 
-</h2> New Grammar and Constructions </h2>
+The indefinite articles in the nominative differ more
+
+* en
+* e
+* es
+* -
+
+As in High German, you add a "k" (but pronounced as a hard "ch") to the front to negate these.
+but here the pronunciation also changes:
+
+* kain
+* kai
+* kais
+* kai
+
+The definite articles in the dative also look like the High German ones, with either the first
+or last letter chopped off
+
+* em
+* de
+* em
+* de
+
+The indefinite, dative articles
+
+* emene
+* enere
+* emene
+* -
+
+<h2> Pronouns </h2>
+
+The only really surprising one here is "mir" meaning "we".
+
+Nominative.
+
+* ich
+* du
+* er, si, (e)s
+* mir
+* ir
+* si/Si
+
+Here, the accusative does look different, but is either the same as High German or the Swiss German dative form.
+
+* mich
+* dich
+* in/si/(e)s
+* ois
+* oi
+* si/Si
+
+Dative
+
+* mir
+* dir
+* im/ire/im
+* ois
+* oi
+* ine/Ine
+
+(See below that each of these also has an inverted form)
+
+<h2> Possessive Pronouns </h2>
+
+Nominative and accusative look the same here, so we can give two examples for each subject and gender.
+
+* min Maa
+* mini Frau
+* mis Chind
+* mini
+
+...
+
+<h2> Adjective endings </h2>
+
+<h2> New Grammar and Constructions </h2>
 
 Swiss German has a few points of grammar and constructinos that don't appear in High German.
 
-</h3> Inversions and pro-drops </h3>
+<h3> Inversions and pro-drops </h3>
 
 
+[Can use picture of pro-drop for du]
 
-### go
+<h3> go </h3>
 
 When coming or going to do do something (a verb), add "go" before the verb.
 This can look superficially like English sentences like "I'm going to go work", but this is more confusing than helpful.
@@ -182,27 +296,70 @@ This can look superficially like English sentences like "I'm going to go work", 
 * Ich gang go schaffe : I'm going (somewhere) to work
 * Ich chume go schlafe : I'm coming to sleep
 
-### n-liasons
+<h3> Relative pronouns </h3>
+
+You use "wo" for all relative pronouns in Swiss German.
+
+* Ich bi de Maa, wo da wont
+
+<h3> Demonstrative Pronouns </h3>
+
+* dies (??)
+
+<h3> Tuä + verb </h3>
+
+
+<h3> n-liasons </h3>
 
 We noted that Swiss German tends to drop "n"s, compared to High German. This leaves a lot of vowels at the ends of words, so (like French), often an "n" will be introduced to make things flow better.
 
 * guete-n-aabig
+* Min Name-n-isch
 
-## Commonly-used verbs
+<h2> Commonly-used verbs </h2>
 
 Swiss German only uses the compound past tense, never the preterit. This includes with "sii" (to be).
 
 * Ich bin gsii
 
+"du" forms often end
+
+* Du haissisch
+
+The basic verbs of motion, and modals:
+
+* ha
+* cho
+* chume
+* gaa
+* gseh
+* törfe
+* welle
+* solle
+* muss
+
+Some very common verbs differ from High German:
 * poschte
-
 * luege
-
 * löse
+* schaffe
+* laufe
+* ränne
+* rede
+* schmöcke (for smell *and* taste!)
+
+But also very common:
+
+* Hor uf!
 
 * pfuuse
 
-* haisse
+* tschuute
+
+There are some "fun" verbs
+
+* badele
+* zmorgele
 
 ## Numbers and Time
 
@@ -212,8 +369,15 @@ Numbers in Swiss German have different forms as nouns. These forms are used for 
 
 * viertel ab halbi nüüni
 
+Two of these are also used as the traditional morning and afternoon snacks
+
+* znüüni
+* zvieri
+
 
 ## Everyday Phrases
+
+Quite a few of these are from French:
 
 * hoi
 * hoi mitenand
@@ -223,11 +387,18 @@ Numbers in Swiss German have different forms as nouns. These forms are used for 
 * schöne (Tag)
 * märsi
 * sorry
+* ade
 
 * hei
 * dihei
 
-* dur / dura
+* morn
+* morge
+* spöter
+
+* dur / dura (??)
+
+* welles (which ??)
 
 * Ich schaffe z Züri
 
@@ -239,6 +410,8 @@ Swiss German uses the diminuitive "-li" extensively, and with some words almost 
 these words are always neuter.
 
 * s Gipfeli
+* es Bitzli
+* Bussi
 
 You will also often see abbreviations, especially for child-related things,
 just ending in "-i".
@@ -247,16 +420,70 @@ just ending in "-i".
 * Spilpi
 * Kispi
 
+* nüt
+
+* nöd
+* sust [can use picture]
+
+* mer
+* mängish
+* nüme
+* nönig
+
+1. Abe, obe
+1. Alli? Alles?
+
+
+Some words have surprising plurals
+
+* d Chind
+
+Many variants of "something" or "someone" use variants of "öppis"
+
+* öppis
+* öpper
+* öppen-n-am
+* öppedia
+
 
 Some common words are totally distinct from High German
 
+* da (not "hier")
 * de Bueb
 * Poulet
+* ume
+* moll (also "doch", though)
+* s Velo
+* Töff
+* bike
+* Portmonnaie
+* Cheminee
+* zmorge
+* zmittag
+* znacht
 
-## Sources
+
+* gruusig
+* mega
+* geil
+* fain (not "lecker")
+
+* Stube
+* Beiz(li)
+
+* Uusgang
+
+</h2> A few longer phrases </h2>
+
+We end with a few longer examples, to present ideomatic ways to say things.
+
+* Uf de Wält cho
+
+<h2> Sources </h2>
 
 <ul>
 <li> Swissing A1.1 course
 <li> Hoi!
+<li> Kaya Yanar - Reiz der Schweiz
 <li> My own experience living in Zurich. (but beware that despite having taken some High German classes and one Swiss German class, I live my life 97% in English).
 </ul>
