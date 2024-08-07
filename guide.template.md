@@ -1,17 +1,17 @@
 <h1> Swiss German in N flashcards </h1>
 
 TODO:
-* Go through grammatik book (and note source)
-* Go through existing files again (and note source)
-* Go through websites and other sources. (and note source)
+* Go through existing txt files again to make sure key terms are here
+* Go through websites and other sources.
     * Eldrid swgerman
-    1. Rewatch kaya yanar and add to sources
 * Convert this to HTML
 * Go through carefully
     * (start) add the terms here to "proper" JSON file
     * Polish writing
 * Iterate until happy
     * Fix N (500? 444? 333? Less even?)
+    * This doc should be max 1000 lines
+    * Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
 * (finish) proper JSON file
     * Terms that appear here
     * Convert existing .txt files (leaving script to turn quick jot-style voki.md which I'll reinstate)
@@ -275,6 +275,8 @@ Dative
 * oi
 * ine/Ine
 
+(TODO maybe include reflexive prnouns as in 7. in the grammar book)
+
 (See below that each of these also has an inverted form)
 
 <h2> Possessive Pronouns </h2>
@@ -325,6 +327,15 @@ Swiss German has a few points of grammar and constructinos that don't appear in 
 
 [Can use picture of pro-drop for du]
 
+The inverted form of "du" is nothing, so Swiss Germanis "pro drop" in this sense
+
+* Hasch hunger?
+
+In the accusative, with reflexive verbs, you have different inversions, including one for "dich"
+
+* Ich froimi seer
+* (something iwth -di)
+
 <h3> go </h3>
 
 When coming or going to do do something (a verb), add "go" before the verb.
@@ -366,25 +377,34 @@ Swiss German only uses the compound past tense, never the preterit. This include
 
 * Ich bin gsii
 
+Past participles are listed below for some verbs. Compared to High German,
+many more lack the "g-" prefix, beyond those that start with unseparable prefixes.
+
+* TODO examples from 9. in grammar book
+
 "du" forms often end
 
 * Du haissisch
 
 The basic verbs of motion, and modals:
 
-* ha
-* cho
+* haa
+* choo
 * chume
 * gaa
-* gseh
+
 * törfe
 * welle
 * solle
-* muss
+* müäse
+* möge
 
 Some other very common ones
 
+* wüsse
+* gseh
 * laa
+* säge
 
 
 
@@ -536,6 +556,7 @@ We end with a few longer examples, to present ideomatic ways to say things.
 <ul>
 <li> Swissing A1.1 course
 <li> Hoi!
+<li> <a href="https://eldrid.ch/switzerland.htm">Eldrid's Swiss German pages</a>
 <li> Kaya Yanar - Reiz der Schweiz
 <li> My own experience living in Zurich. (but beware that despite having taken some High German classes and one Swiss German class, I live my life 97% in English).
 </ul>
