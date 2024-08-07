@@ -1,7 +1,6 @@
 <h1> Swiss German in N flashcards </h1>
 
 TODO:
-* Go through existing txt files again to make sure key terms are here
 * Go through websites and other sources.
     * Eldrid swgerman
 * Convert this to HTML
@@ -14,7 +13,8 @@ TODO:
     * Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
 * (finish) proper JSON file
     * Terms that appear here
-    * Convert existing .txt files (leaving script to turn quick jot-style voki.md which I'll reinstate)
+    * Convert existing .txt files and remove them (leaving script to turn quick jot-style voki.md which I'll reinstate)
+    * Probably best to have a "source" field (default: unconfirmed) and populate it with a ref number also used to populate refs with links at the bottom here.
 * Write generate script to fill in entries here from the JSON and generate flashcards of the ones that appear
 * Publish!
 
@@ -76,7 +76,7 @@ particularly with some first-person verb conjugations:
 The "ch" also often drops off
 
 * au
-* no
+* no / na
 * dur (dura?)
 * äntli
 
@@ -327,9 +327,10 @@ Swiss German has a few points of grammar and constructinos that don't appear in 
 
 [Can use picture of pro-drop for du]
 
-The inverted form of "du" is nothing, so Swiss Germanis "pro drop" in this sense
+The inverted form of "du" can just be "du", but is often nothing, so Swiss German is "pro drop" in this sense
 
 * Hasch hunger?
+* Hasch du hunger?
 
 In the accusative, with reflexive verbs, you have different inversions, including one for "dich"
 
@@ -426,6 +427,12 @@ But also very common:
 
 * tschuute
 
+* ah ha [more common than "trage" for clothes]
+
+* Sport triibe
+
+* härcho vo : to come from
+
 There are some "fun" verbs
 
 * badele
@@ -433,16 +440,96 @@ There are some "fun" verbs
 
 ## Numbers and Time
 
+null : zero
+ais : one
+zwai : two
+drüü : three
+viär : four
+foif : five
+sächs : six
+sibe : seven
+acht : eight
+nüün : nine
+zä : ten
+elf : eleven
+zwölf : twelve
+drizä : thirteen
+viärzä : fourteen
+füfzä : fifteen
+sächzä : sixteen
+sibezä : seventeen
+achzä : eighteen
+nünzä : nineteen
+zwänzg : twenty
+ainezwänzg : twenty-one
+drüüezwänzg: twenty-three
+foifezwänzg : twenty-five
+driisg : thirty
+viärzg : forty
+füfzg : fifty
+sächzg : sixty
+sibezg : seventy
+achzg : eighty
+nüünedachzg : eighty-nine
+hundert : one hundred
+tuusig : one thousand
+
 Numbers in Swiss German have different forms as nouns. These forms are used for times, ages, and even snack times!
+For numbers 3 and smaller, these are the same as the normal forms.
+
+d Ais : the one (tram)
+d Zwai : the two (tram)
+d Drüü : the three (tram)
+d Viäri : the four (tram)
+d Foifi : the five (tram)
+d Sächsi : the six (tram)
+d Sibeni : the seven (tram)
+d Achti : the eight (tram)
+d Nüüni : the nine (tram)
+d Zäni : the ten (tram)
+d Elfi : the eleven (tram)
+d Zwölfi : the twelve (tram)
+d Zwänzgi : the twenty (tram)
+
+de Foifer : the five (bus)
+
+
+
+
 
 * am foifi : at five o'clock
 
 * viertel ab halbi nüüni
+* vom achti bis am nuuni
+
+* mit zwolfi (at age twelve)
+
+You don't use these forms for "between":
+
+* zwüsched zwölf und ais
+
+You usually use "am" , but
+
+* um mitternacht
 
 Two of these are also used as the traditional morning and afternoon snacks
 
 * znüüni
 * zvieri
+
+Related are words for coins and bills:
+
+de Foifräppler : the five rappen coin
+de Zäner : the ten rappen coin
+de Zwänzger : the twenty rappen coin
+de Füfzger : the fifty rappen coin
+de Aifränkler : the one Frank coin
+de Foifliiber : the five Frank coin
+d Zänernote : ten Frank note
+d Zwänzgernote : the twenty Frank note
+d Füfzgernote : the fifty Frank note
+d Hunderternote : the hundred Frank note
+d Zweihunderternote : the two hundred Frank note
 
 
 ## Everyday Phrases
@@ -476,6 +563,15 @@ Quite a few of these are from French:
 
 ## Vocabular
 
+de Mäntig : (the) Monday
+de Zieschtig : (the) Tuesday
+de Mittwuch : (the) Wednesday
+de Dunschtig : (the) Thursday
+de Friitig : (the) Friday
+de Samschtig : (the) Saturday
+de Sunntig : (the) Sunday
+am Sunntig : on Sunday
+
 Swiss German uses the diminuitive "-li" extensively, and with some words almost exclusively. As in High German,
 these words are always neuter.
 
@@ -493,15 +589,25 @@ just ending in "-i".
 * nüt
 
 * nöd
-* sust [can use picture]
+* sust / susch [can use picture]
 
 * mer
 * mängish
-* nüme
+* nüme (no more)
+* nume (only, amount, also "nur")
 * nönig
+* niämer (noone)
+
+* zerscht
 
 1. Abe, obe
 1. Alli? Alles?
+
+* deet
+* det(e) - there
+
+* die - this (diese)
+* dâm - this (dative, diesem)
 
 
 Some words have surprising plurals
@@ -512,7 +618,7 @@ Many variants of "something" or "someone" use variants of "öppis"
 
 * öppis
 * öpper
-* öppen-n-am
+* öppe-n-am
 * öppedia
 
 
@@ -541,15 +647,29 @@ Some common words are totally distinct from High German
 * Stube
 * Beiz(li)
 
-* Uusgang
+* d Zää (teeth)
+* s Zahni (dentist)
 
 Place names:
 
 </h2> A few longer phrases </h2>
 
+TODO add some more from phrases.txt
+
 We end with a few longer examples, to present ideomatic ways to say things.
 
-* Uf de Wält cho
+* Uf d Wält choo : born
+
+
+* Ich hät gärn (not "ich möchte")
+
+* I dä Nochi
+
+* Was triibsch? (what's up)
+
+* Im Uusgang gaa
+
+* Was isch für Ziit?
 
 <h2> Sources </h2>
 
