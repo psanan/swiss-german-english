@@ -63,6 +63,7 @@ The first you might notice is that "n"s at the end of words in High German commo
 * vo
 * oi
 * ine
+* (de?) Stei
 
 In some cases this isn't even consistently done, even within Zurich Swiss German,
 particularly with some first-person verb conjugations:
@@ -130,13 +131,19 @@ Sometimes "ie" becomes "üü", though!
 
 * tüüf
 
+"e" often becomes "ä" (which doesn't sound exactly like High German "ä")
+
+* wie gäht's?
+* schlächt
+
 "i" can become "u"
 
 * d Brule
 
-Similarly, "u" often becomes the two-syllable "uä"
+Similarly, "u" often becomes the two-syllable "uä" or "ue"
 
 * s Buäch
+* guet
 
 "au" often becomes "uu" (or "üü")
 
@@ -187,7 +194,11 @@ Often, letters drop off the end as well
 * grad
 * jetz
 
+Place and language names also change in similar ways
 
+* Züri
+* Stei am Rhii
+* Züritüütsch
 
 
 </h2> Articles </h2>
@@ -268,16 +279,42 @@ Dative
 
 <h2> Possessive Pronouns </h2>
 
-Nominative and accusative look the same here, so we can give two examples for each subject and gender.
+Nominative and accusative look the same here, so we can just give nominative and dative examples.
+A regular pattern applies to form feminine, neuter, plural, and dative forms from the masculine nominative form,
+so we don't have to give all 64 examples.
 
 * min Maa
 * mini Frau
 * mis Chind
-* mini
+* mini Chind
 
-...
+* mit mim Maa
+* mit minere Frau
+* mit mim Chind
+* mit minere Chind
+
+* din Maa
+
+* sin Maa
+
+* ire Maa
+* iri Frau
+* ires Chind
+* iri Chind
+
+* mit irem Maa
+* mit irere Frau
+* mit irem Chind
+* mit irere Chind
+
+* oise Maa
+* oiji Maa
+
+* Ire Maa
 
 <h2> Adjective endings </h2>
+
+TODO learn in class!
 
 <h2> New Grammar and Constructions </h2>
 
@@ -318,6 +355,13 @@ We noted that Swiss German tends to drop "n"s, compared to High German. This lea
 
 <h2> Commonly-used verbs </h2>
 
+The standard conjugation only has four forms. All the plural forms are the same!
+
+* ich mache
+* du machsch
+* er macht
+* mir mached
+
 Swiss German only uses the compound past tense, never the preterit. This includes with "sii" (to be).
 
 * Ich bin gsii
@@ -337,6 +381,12 @@ The basic verbs of motion, and modals:
 * welle
 * solle
 * muss
+
+Some other very common ones
+
+* laa
+
+
 
 Some very common verbs differ from High German:
 * poschte
@@ -472,6 +522,8 @@ Some common words are totally distinct from High German
 * Beiz(li)
 
 * Uusgang
+
+Place names:
 
 </h2> A few longer phrases </h2>
 
