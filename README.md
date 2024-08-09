@@ -38,8 +38,8 @@ Data entries may optionally also include
 
 * High German strings alongside English strings.
 * Free-form comments in English
+* TODO: think more about verbs - do we really want "I go", "you go" etc. entries? Do we want an "infinitive" field with an id?
 
-We store data as JSON, simply because this is a sufficient, human-readable format
-natively supported by Python. In addition to helper scripts to read and write
-this format, we also include a reader for "jot" files with a colon-separated Swiss German
+In addition to helper scripts to read and write
+this the stored data, we also include a reader for "jot" files with a colon-separated Swiss German
 and English strings on each line.
