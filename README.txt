@@ -7,39 +7,39 @@ to learn Swiss German.
 
 2. A guide presenting a small subset of these to bring understanding of Swiss German closer to understanding of High German
 
-TODO organization (jot files, main JSON, guide)
-
 ## Scope and data
 
 This is not a complete reference or dictionary (see sources for examples of those).
 
-Rather, it is a curated set of examples to help someone (roughly like me) learn. 
+Rather, it is a curated set of examples to help someone (roughly like me) learn.
 
-Thus, data directly stored can be minimal, fundamentally
-just a set of pairs of strings, one in Swiss German and one in English.
+Thus, data directly stored can be minimal, based on giving a small set of useful, correct translations
+of Swiss German strings to English ones.
 
 In any translingual dictionary, there will be multiple translations of a given
-term in one language. Further, the mapping between languages is not invertible,
-as words have multiple, context-dependent meanings. There are two separate but related
-issues here, as Swiss German isn't standardized:
+term. Further, the mapping between languages is not invertible,
+as words have multiple, context-dependent meanings. For a non-standardized language
+like Swiss German, there will also be many variations in usage, and further
+in spelling.
 
-1. Even within Zurich Swiss German, there are significant differences in how people speak
-2. For identical speech, there are multiple written forms
+To address non-invertibility, data prioritizes the Swiss German to English mapping:
+Without other context, what is the most likely English translation of the Swiss German string?
 
-To address these:
+To make it easier to detect duplicates, data entries can have multiple strings
+in either language.
+Any of the English strings must be a valid translation of any of the Swiss German strings.
 
-Data here prioritizes the Swiss German to English mapping. That is, without other context,
-what's the most likely English translation of the Swiss German string? 
+We adopt the convention that anything in parentheses (plus a space if needbe)
+can be removed and not affect validity of the translation. This is helpful
+both to cover small variations in Swiss German spelling, e.g. "cho(o)", or for optional words
+in English translations e.g. "to run (on foot)".
 
-For multiple, different-sounding, valid Zurich Swiss German ways to say the same thing, raw data includes
-multiple entries.
+Data entries may optionally also include
 
-For variations purely to do with spelling, entries can have any number of alternate Swiss German
-strings. 
-TODO: decide if we actually even need this. With a convention on e.g. e/ä and parentheses, we might not need it.
-TODO: decide if we will have a primary chde representation, or just multiple options.
-TODO: decide if we will natively support parentheses e.g. "cha(n)" or "cho(o)".
-TODO: decide if we will adopt the Swissing textbook conventions as preferred or not.
+* High German strings alongside English strings.
+* Free-form comments in English
 
-
-
+We store data as JSON, simply because this is a sufficient, human-readable format
+natively supported by Python. In addition to helper scripts to read and write
+this format, we also include a reader for "jot" files with a colon-separated Swiss German
+and English strings on each line.
