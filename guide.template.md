@@ -720,6 +720,7 @@ a piece of chocolate:
 
 Some common words are totally distinct from High German
 
+<ul>
 * da (not "hier")
 * de Bueb
 * Peperoni (not "Paprika", that's the spice like English!)
@@ -731,12 +732,16 @@ Some common words are totally distinct from High German
 * zmittag
 * znacht
 * Stange (small bier)
+</ul>
 
+<ul>
 * Stube
 * Beiz(li)
+</ul>
 
 There are lot of French words (pronounced with different stress, usually!)
 
+<ul>
 * Poulet
 * s Velo
 * Portmonnaie
@@ -745,9 +750,11 @@ There are lot of French words (pronounced with different stress, usually!)
 * Dessert
 * Trottoir
 * Trottinette
+</ul>
 
 <h3> Other Vocabulary </h3>
 
+<ul>
 * nüt
 
 * nöd
@@ -770,11 +777,13 @@ There are lot of French words (pronounced with different stress, usually!)
 
 * die - this (diese)
 * dâm - this (dative, diesem)
+</ul>
 
 
 
 Many variants of "something" or "someone" use variants of "öppis"
 
+<ul>
 * öppis
 * öpper
 * öppe-n-am
@@ -787,6 +796,8 @@ Many variants of "something" or "someone" use variants of "öppis"
 * mega
 * geil
 * fain (not "lecker")
+</ul>
+
 
 
 <h3> Longer phrases and expressions </h3>
@@ -795,6 +806,7 @@ TODO add some more from phrases.txt
 
 We end with a few longer examples, to present ideomatic ways to say things.
 
+<ul>
 * Uf d Wält choo : born
 
 * Ich ha chalt (not "Es ist mir kalt")
@@ -809,6 +821,7 @@ We end with a few longer examples, to present ideomatic ways to say things.
 * Im Uusgang gaa
 
 * Was isch für Ziit?
+</ul>
 
 <h2> Sources </h2>
 
