@@ -1,21 +1,20 @@
 <h1> Swiss German in N flashcards </h1>
 
 TODO:
-* Convert this to HTML
-* Go through carefully
-    * (start) add the terms here to "proper" JSON file
-    * Write first version of script to fill in English and German in the lists
-    * Polish writing
-* Iterate until happy
-    * Fix N (500? 444? 333? Less even?)
-    * This doc should be max 1000 lines
-    * Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
-* (finish) proper JSON file
-    * Terms that appear here
-    * Convert existing .txt files and remove them (leaving script to turn quick jot-style voki.md which I'll reinstate)
-    * Probably best to have a "source" field (default: unconfirmed) and populate it with a ref number also used to populate refs with links at the bottom here.
-* Write generate script to fill in entries here from the JSON and generate flashcards of the ones that appear
-* Publish!
+<li> Go through carefully
+    <li> (start) add the terms here to "proper" JSON file
+    <li> Write first version of script to fill in English and German in the lists
+    <li> Polish writing
+<li> Iterate until happy
+    <li> Fix N (500? 444? 333? Less even?)
+    <li> This doc should be max 1000 lines
+    <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
+<li> (finish) proper JSON file
+    <li> Terms that appear here
+    <li> Convert existing .txt files and remove them (leaving script to turn quick jot-style voki.md which I'll reinstate)
+    <li> Probably best to have a "source" field (default: unconfirmed) and populate it with a ref number also used to populate refs with links at the bottom here.
+<li> Write generate script to fill in entries here from the JSON and generate flashcards of the ones that appear
+<li> Publish!
 
 
 This aim is to let you understand as much Zurich Swiss German as possible
@@ -86,41 +85,41 @@ in a High German word, the corresponding Swiss German word has a hard "ch",
 though it's usually still written as it is in High German.
 
 <ul>
-* kai
-* koch
+<li> kai
+<li> koch
 </ul>
 
-If you *do* want a "k" sounds as in English, this becomes "gg"
+If you <li>do<li> want a "k" sounds as in English, this becomes "gg"
 
 <ul>
-* brugg
+<li> brugg
 </ul>
 
 "st" often becomes "scht"
 
 <ul>
-* du bisch
-* er isch
-* du hasch
-* de Stärn
+<li> du bisch
+<li> er isch
+<li> du hasch
+<li> de Stärn
 </ul>
 
 "sp" similarly often beomces "schp"
 
 <ul>
-* schpile
-* de Gäscht
+<li> schpile
+<li> de Gäscht
 </ul>
 
 "b" and "p" are closer together, as are "t" and "d", so often these change relative
 to High German, when written. In general, these are <a href="https://eldrid.ch/advanced.htm">unaspirated</a>.
 
 <ul>
-* de Puure
-* Dütsch
-* Tütsch
-* dörfe
-* törfe
+<li> de Puure
+<li> Dütsch
+<li> Tütsch
+<li> dörfe
+<li> törfe
 </ul>
 
 Vowels often shift:
@@ -129,74 +128,74 @@ Vowels often shift:
 
 
 <ul>
-* d Liecht
+<li> d Liecht
 </ul>
 
 Many words already written with "ie" in High German are also pronounced this way
 
 <ul>
-* wie
-* de Spiegel
+<li> wie
+<li> de Spiegel
 </ul>
 
 Sometimes "ie" becomes "üü", though!
 
 <ul>
-* tüüf
+<li> tüüf
 </ul>
 
 "e" often becomes "ä" (which doesn't sound exactly like High German "ä")
 
 <ul>
-* wie gäht's?
-* schlächt
+<li> wie gäht's?
+<li> schlächt
 </ul>
 
 "i" can become "u"
 
 <ul>
-* d Brule
+<li> d Brule
 </ul>
 
 "u" often becomes the two-syllable "uä" or "ue"
 
 <ul>
-* s Buäch
-* guet
+<li> s Buäch
+<li> guet
 </ul>
 
 "au" often becomes "uu" (or "üü")
 
 <ul>
-* s Muus
+<li> s Muus
 </ul>
 
 "eu" often becomes "üü"
 
 <ul>
-* d Lüüt
-* hüüt
+<li> d Lüüt
+<li> hüüt
 </ul>
 
 "ei" often becomes "ii"
 
 <ul>
-* sii
-* d Ziit
-* bi
+<li> sii
+<li> d Ziit
+<li> bi
 </ul>
 
 "o" can become "u"
 
 <ul>
-* d Wuche
-* d Sunne
+<li> d Wuche
+<li> d Sunne
 </ul>
 
 The diminuitives "-lein" or "-chen" usually become "-li".
 
 <ul>
-* s Muusli
+<li> s Muusli
 </ul>
 
 
@@ -204,40 +203,40 @@ The "-ung" ending often becomes "-ig". As in High German, "g" at the end of the 
 sounds more like "k" in English.
 
 <ul>
-* d Quittig (?)
-* d Rächnig
+<li> d Quittig (?)
+<li> d Rächnig
 </ul>
 
 Many common prepositions change in a predictable way
 
 <ul>
-* uf
-* uus
-* ai
-* aa
+<li> uf
+<li> uus
+<li> ai
+<li> aa
 </ul>
 
 Those also apply when used as verb prefixes. Other prefixes are commonly shortened by dropping the vowel
 
 <ul>
-* zrugg
-* bsuächt
-* gmacht
+<li> zrugg
+<li> bsuächt
+<li> gmacht
 </ul>
 
 Often, letters drop off the end as well
 
 <ul>
-* grad
-* jetz
+<li> grad
+<li> jetz
 </ul>
 
 Place and language names also change in similar ways
 
 <ul>
-* Züri
-* Stei am Rhii
-* Züritüütsch
+<li> Züri
+<li> Stei am Rhii
+<li> Züritüütsch
 </ul>
 
 
@@ -250,48 +249,48 @@ Unlike High German, Swiss German neuter articles and possessives sometimes featu
 The definite articles in the nominative and accusative look like shortened versions of the High German nominative ones:
 
 <ul>
-* de
-* d
-* s
-* d
+<li> de
+<li> d
+<li> s
+<li> d
 </ul>
 
 The indefinite articles in the nominative differ more
 
 <ul>
-* en
-* e
-* es
-* -
+<li> en
+<li> e
+<li> es
+<li> -
 </ul>
 
 As in High German, you add a "k" (but pronounced as a hard "ch") to the front to negate these.
 but here the pronunciation also changes:
 
 <ul>
-* kain
-* kai
-* kais
-* kai
+<li> kain
+<li> kai
+<li> kais
+<li> kai
 </ul>
 
 The definite articles in the dative also look like the High German ones, with either the first
 or last letter chopped off
 
 <ul>
-* em
-* de
-* em
-* de
+<li> em
+<li> de
+<li> em
+<li> de
 </ul>
 
 The indefinite, dative articles
 
 <ul>
-* emene
-* enere
-* emene
-* -
+<li> emene
+<li> enere
+<li> emene
+<li> -
 </ul>
 
 <h2> Pronouns </h2>
@@ -301,34 +300,34 @@ The only really surprising one here is "mir" meaning "we".
 Nominative.
 
 <ul>
-* ich
-* du
-* er, si, (e)s
-* mir
-* ir
-* si/Si
+<li> ich
+<li> du
+<li> er, si, (e)s
+<li> mir
+<li> ir
+<li> si/Si
 </ul>
 
 Here, the accusative does look different, but is either the same as High German or the Swiss German dative form.
 
 <ul>
-* mich
-* dich
-* in/si/(e)s
-* ois
-* oi
-* si/Si
+<li> mich
+<li> dich
+<li> in/si/(e)s
+<li> ois
+<li> oi
+<li> si/Si
 </ul>
 
 Dative
 
 <ul>
-* mir
-* dir
-* im/ire/im
-* ois
-* oi
-* ine/Ine
+<li> mir
+<li> dir
+<li> im/ire/im
+<li> ois
+<li> oi
+<li> ine/Ine
 </ul>
 
 (See below that each of these also has an inverted form)
@@ -340,34 +339,34 @@ A regular pattern applies to form feminine, neuter, plural, and dative forms fro
 so we don't have to give all 64 examples.
 
 <ul>
-* min Maa
-* mini Frau
-* mis Chind
-* mini Chind
+<li> min Maa
+<li> mini Frau
+<li> mis Chind
+<li> mini Chind
 
-* mit mim Maa
-* mit minere Frau
-* mit mim Chind
-* mit minere Chind
+<li> mit mim Maa
+<li> mit minere Frau
+<li> mit mim Chind
+<li> mit minere Chind
 
-* din Maa
+<li> din Maa
 
-* sin Maa
+<li> sin Maa
 
-* ire Maa
-* iri Frau
-* ires Chind
-* iri Chind
+<li> ire Maa
+<li> iri Frau
+<li> ires Chind
+<li> iri Chind
 
-* mit irem Maa
-* mit irere Frau
-* mit irem Chind
-* mit irere Chind
+<li> mit irem Maa
+<li> mit irere Frau
+<li> mit irem Chind
+<li> mit irere Chind
 
-* oise Maa
-* oiji Maa
+<li> oise Maa
+<li> oiji Maa
 
-* Ire Maa
+<li> Ire Maa
 </ul>
 
 <h2> Adjective endings </h2>
@@ -386,15 +385,15 @@ Swiss German has a few points of grammar and constructinos that don't appear in 
 The inverted form of "du" can just be "du", but is often nothing, so Swiss German is "pro drop" in this sense
 
 <ul>
-* Hasch hunger?
-* Hasch du hunger?
+<li> Hasch hunger?
+<li> Hasch du hunger?
 </ul>
 
 In the accusative, with reflexive verbs, you have different inversions, including one for "dich"
 
 <ul>
-* Ich froimi seer
-* (something iwth -di)
+<li> Ich froimi seer
+<li> (something iwth -di)
 </ul>
 
 <h3> go </h3>
@@ -403,8 +402,8 @@ When coming or going to do do something (a verb), add "go" before the verb.
 This can look superficially like English sentences like "I'm going to go work", but this is more confusing than helpful.
 
 <ul>
-* Ich gang go schaffe : I'm going (somewhere) to work
-* Ich chume go schlafe : I'm coming to sleep
+<li> Ich gang go schaffe : I'm going (somewhere) to work
+<li> Ich chume go schlafe : I'm coming to sleep
 </ul>
 
 <h3> Relative pronouns </h3>
@@ -412,13 +411,13 @@ This can look superficially like English sentences like "I'm going to go work", 
 You use "wo" for all relative pronouns in Swiss German.
 
 <ul>
-* Ich bi de Maa, wo da wont
+<li> Ich bi de Maa, wo da wont
 </ul>
 
 <h3> Demonstrative Pronouns </h3>
 
 <ul>
-* dies (??)
+<li> dies (??)
 </ul>
 
 <h3> Tuä + verb </h3>
@@ -429,8 +428,8 @@ You use "wo" for all relative pronouns in Swiss German.
 We noted that Swiss German tends to drop "n"s, compared to High German. This leaves a lot of vowels at the ends of words, so (like French), often an "n" will be introduced to make things flow better.
 
 <ul>
-* guete-n-aabig
-* Min Name-n-isch
+<li> guete-n-aabig
+<li> Min Name-n-isch
 </ul>
 
 <h2> Verbs </h2>
@@ -438,87 +437,87 @@ We noted that Swiss German tends to drop "n"s, compared to High German. This lea
 The standard conjugation only has four forms. All the plural forms are the same!
 
 <ul>
-* ich mache
-* du machsch
-* er macht
-* mir mached
+<li> ich mache
+<li> du machsch
+<li> er macht
+<li> mir mached
 </ul>
 
 Swiss German only uses the compound past tense, never the preterit. This includes with "sii" (to be).
 
 <ul>
-* Ich bin gsii
+<li> Ich bin gsii
 </ul>
 
 Past participles are listed below for some verbs. Compared to High German,
 many more lack the "g-" prefix, beyond those that start with unseparable prefixes.
 
-* TODO examples from 9. in grammar book
+<li> TODO examples from 9. in grammar book
 
 "du" forms often end
 
 <ul>
-* Du haissisch
+<li> Du haissisch
 </ul>
 
 TODO need quite a few conjugations of many of these to cover various common, irregular ones.
 
 <ul>
-* sii
-* haa
-* choo
-* chume
-* gaa
-* wüsse
-* gseh
-* laa
-* säge
+<li> sii
+<li> haa
+<li> choo
+<li> chume
+<li> gaa
+<li> wüsse
+<li> gseh
+<li> laa
+<li> säge
 </ul>
 
 Modals:
 <ul>
-* törfe
-* welle
-* solle
-* müäse
-* möge
+<li> törfe
+<li> welle
+<li> solle
+<li> müäse
+<li> möge
 </ul>
 
 More, some of which differ greatly from High German:
 <ul>
-* poschte
-* luege
-* löse
-* schaffe
-* laufe
-* ränne
-* rede
-* schmöcke (for smell *and* taste!)
-* aalüte (to call)
-* pfuuse
+<li> poschte
+<li> luege
+<li> löse
+<li> schaffe
+<li> laufe
+<li> ränne
+<li> rede
+<li> schmöcke (for smell <li>and<li> taste!)
+<li> aalüte (to call)
+<li> pfuuse
 
-* tschuute
+<li> tschuute
 
-* zügle (to move)
+<li> zügle (to move)
 
-* chrampfe (work hard)
+<li> chrampfe (work hard)
 
-* ah ha [more common than "trage" for clothes]
+<li> ah ha [more common than "trage" for clothes]
 
-* Sport triibe
-* Hor uf!
+<li> Sport triibe
+<li> Hor uf!
 
 
-* härcho vo : to come from
+<li> härcho vo : to come from
 </ul>
 
 
 There are some "fun" verbs
 
 <ul>
-* badele
-* sünnele
-* zmorgele
+<li> badele
+<li> sünnele
+<li> zmorgele
 </ul>
 
 <h2> Numbers and Time </h2>
@@ -583,31 +582,31 @@ de Foifer : the five (bus)
 
 
 
-* am foifi : at five o'clock
+<li> am foifi : at five o'clock
 
-* viertel ab halbi nüüni
-* vom achti bis am nuuni
+<li> viertel ab halbi nüüni
+<li> vom achti bis am nuuni
 
-* mit zwolfi (at age twelve)
+<li> mit zwolfi (at age twelve)
 </ul>
 
 You don't use these forms for "between":
 
 <ul>
-* zwüsched zwölf und ais
+<li> zwüsched zwölf und ais
 </ul>
 
 You usually use "am" not "um", but
 
 <ul>
-* um mitternacht
+<li> um mitternacht
 </ul>
 
 Two of these are also used as the traditional morning and afternoon snacks
 
 <ul>
-* znüüni
-* zvieri
+<li> znüüni
+<li> zvieri
 </ul>
 
 Related are words for coins and bills:
@@ -633,35 +632,35 @@ d Zweihunderternote : the two hundred Frank note
 Quite a few of these are from French:
 
 <ul>
-* hoi
-* hoi zäme
-* grüezi
-* grüezi mitenand
-* salut
-* en guete
-* schöne (Tag)
-* märsi vilmal
-* sorry
-* ade
-* uf widerluege!
-* gueten aabig
+<li> hoi
+<li> hoi zäme
+<li> grüezi
+<li> grüezi mitenand
+<li> salut
+<li> en guete
+<li> schöne (Tag)
+<li> märsi vilmal
+<li> sorry
+<li> ade
+<li> uf widerluege!
+<li> gueten aabig
 
-* äbä
+<li> äbä
 
-* hei
-* dihei
+<li> hei
+<li> dihei
 
-* morn
-* morge
-* spöter
+<li> morn
+<li> morge
+<li> spöter
 
-* dur / dura (??)
+<li> dur / dura (??)
 
-* welles (which ??)
+<li> welles (which ??)
 
-* Ich schaffe z Züri
+<li> Ich schaffe z Züri
 
-* Uf em Wält choo
+<li> Uf em Wält choo
 
 </ul>
 
@@ -677,106 +676,106 @@ de Samschtig : (the) Saturday
 de Sunntig : (the) Sunday
 am Sunntig : on Sunday
 
-* d Zää (teeth)
-* öpfel
-* Herdöpfel
+<li> d Zää (teeth)
+<li> öpfel
+<li> Herdöpfel
 </ul>
 
 Some words have surprising plurals
 
 <ul>
-* d Chind
+<li> d Chind
 </ul>
 
 Swiss German uses the diminuitive "-li" extensively, and with some words almost exclusively. As in High German,
 these words are always neuter.
 
 <ul>
-* s Gipfeli
-* es Bitzli
-* Bussi
+<li> s Gipfeli
+<li> es Bitzli
+<li> Bussi
 </ul>
 
 You will also often see abbreviations, especially for "cute" (which is everything, in Switzerland) or child-related things,
 just ending in "-i".
 
 <ul>
-* Kinski (?)
-* Spilpi
-* Kispi
-* Flohmi
-* Grossi
-* Vati
-* Schoggi
-* s Zahni (dentist)
+<li> Kinski (?)
+<li> Spilpi
+<li> Kispi
+<li> Flohmi
+<li> Grossi
+<li> Vati
+<li> Schoggi
+<li> s Zahni (dentist)
 </ul>
 
 There is even what seems like a double-diminuitive for the Swiss's favorite thing,
 a piece of chocolate:
 
 <ul>
-* Schoggeli
+<li> Schoggeli
 </ul>
 
 Some common words are totally distinct from High German
 
 <ul>
-* da (not "hier")
-* de Bueb
-* Peperoni (not "Paprika", that's the spice like English!)
-* ume
-* moll (also "doch", though)
-* Töff
-* bike
-* zmorge
-* zmittag
-* znacht
-* Stange (small bier)
+<li> da (not "hier")
+<li> de Bueb
+<li> Peperoni (not "Paprika", that's the spice like English!)
+<li> ume
+<li> moll (also "doch", though)
+<li> Töff
+<li> bike
+<li> zmorge
+<li> zmittag
+<li> znacht
+<li> Stange (small bier)
 </ul>
 
 <ul>
-* Stube
-* Beiz(li)
+<li> Stube
+<li> Beiz(li)
 </ul>
 
 There are lot of French words (pronounced with different stress, usually!)
 
 <ul>
-* Poulet
-* s Velo
-* Portmonnaie
-* Cheminee
-* Saison
-* Dessert
-* Trottoir
-* Trottinette
+<li> Poulet
+<li> s Velo
+<li> Portmonnaie
+<li> Cheminee
+<li> Saison
+<li> Dessert
+<li> Trottoir
+<li> Trottinette
 </ul>
 
 <h3> Other Vocabulary </h3>
 
 <ul>
-* nüt
+<li> nüt
 
-* nöd
-* sust / susch [can use picture]
+<li> nöd
+<li> sust / susch [can use picture]
 
-* mer
-* mängish
-* nüme (no more)
-* nume (only, amount, also "nur")
-* nönig
-* niämer (noone)
+<li> mer
+<li> mängish
+<li> nüme (no more)
+<li> nume (only, amount, also "nur")
+<li> nönig
+<li> niämer (noone)
 
-* zerscht
+<li> zerscht
 
 1. Abe, obe
 1. Alli? Alles?
 
-* deet
-* det(e) - there
+<li> deet
+<li> det(e) - there
 
-* die - this (diese)
-* dâm - this (dative, diesem)
+<li> die - this (diese)
+<li> dâm - this (dative, diesem)
 </ul>
 
 
@@ -784,18 +783,18 @@ There are lot of French words (pronounced with different stress, usually!)
 Many variants of "something" or "someone" use variants of "öppis"
 
 <ul>
-* öppis
-* öpper
-* öppe-n-am
-* öppedia
+<li> öppis
+<li> öpper
+<li> öppe-n-am
+<li> öppedia
 
-* da (not "hier")
-* moll (also "doch", though)
+<li> da (not "hier")
+<li> moll (also "doch", though)
 
-* gruusig
-* mega
-* geil
-* fain (not "lecker")
+<li> gruusig
+<li> mega
+<li> geil
+<li> fain (not "lecker")
 </ul>
 
 
@@ -807,20 +806,20 @@ TODO add some more from phrases.txt
 We end with a few longer examples, to present ideomatic ways to say things.
 
 <ul>
-* Uf d Wält choo : born
+<li> Uf d Wält choo : born
 
-* Ich ha chalt (not "Es ist mir kalt")
+<li> Ich ha chalt (not "Es ist mir kalt")
 
 
-* Ich hät gärn (not "ich möchte")
+<li> Ich hät gärn (not "ich möchte")
 
-* I dä Nochi
+<li> I dä Nochi
 
-* Was triibsch? (what's up)
+<li> Was triibsch? (what's up)
 
-* Im Uusgang gaa
+<li> Im Uusgang gaa
 
-* Was isch für Ziit?
+<li> Was isch für Ziit?
 </ul>
 
 <h2> Sources </h2>
@@ -832,3 +831,4 @@ We end with a few longer examples, to present ideomatic ways to say things.
 <li> Kaya Yanar - Reiz der Schweiz
 <li> My own experience living in Zurich. (but beware that despite having taken some High German classes and one Swiss German class, I live my life 97% in English).
 </ul>
+
