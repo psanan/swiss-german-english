@@ -1,7 +1,7 @@
 <h1> Swiss German in N flashcards </h1>
 
 TODO:
-<li> Write first version of script to fill in English and German in the lists
+<li> Write first version of script to fill in English and German in the lists in the template
 <li> Go through carefully
     <li> (start) add the terms here to "proper" JSON file
     <li> Polish/condense writing
@@ -10,10 +10,9 @@ TODO:
     <li> This doc should be max  2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
 <li> (finish) proper JSON file
-    <li> Terms that appear here
-    <li> Convert existing .txt files and remove them (leaving script to turn quick jot-style voki.md which I'll reinstate)
-    <li> Probably best to have a "source" field (default: unconfirmed) and populate it with a ref number also used to populate refs with links at the bottom here.
-<li> Write generate script to fill in entries here from the JSON and generate flashcards of the ones that appear
+    <li> Convert/remove existing .txt files and remove them
+    <li> leaving script to turn single jot-style voki.md which I'll reinstate in notes repo
+<li> Write scripts to get subset of vokab from this file, and generate flashcards somehow
 <li> Publish!
 
 
@@ -504,6 +503,8 @@ More, some of which differ greatly from High German:
 
 <li> ah ha [more common than "trage" for clothes]
 
+  <li> übercho [not "erhalten"]
+
 <li> Sport triibe
 <li> Hor uf!
 
@@ -523,60 +524,60 @@ There are some "fun" verbs
 <h2> Numbers and Time </h2>
 
 <ul>
-null : zero
-ais : one
-zwai : two
-drüü : three
-viär : four
-foif : five
-sächs : six
-sibe : seven
-acht : eight
-nüün : nine
-zä : ten
-elf : eleven
-zwölf : twelve
-drizä : thirteen
-viärzä : fourteen
-füfzä : fifteen
-sächzä : sixteen
-sibezä : seventeen
-achzä : eighteen
-nünzä : nineteen
-zwänzg : twenty
-ainezwänzg : twenty-one
-drüüezwänzg: twenty-three
-foifezwänzg : twenty-five
-driisg : thirty
-viärzg : forty
-füfzg : fifty
-sächzg : sixty
-sibezg : seventy
-achzg : eighty
-nüünedachzg : eighty-nine
-hundert : one hundred
-tuusig : one thousand
+  <li> null : zero
+  <li> ais : one
+  <li> zwai : two
+  <li> drüü : three
+  <li> viär : four
+  <li> foif : five
+  <li> sächs : six
+  <li> sibe : seven
+  <li> acht : eight
+  <li> nüün : nine
+  <li> zä : ten
+  <li> elf : eleven
+  <li> zwölf : twelve
+  <li> drizä : thirteen
+  <li> viärzä : fourteen
+  <li> füfzä : fifteen
+  <li> sächzä : sixteen
+  <li> sibezä : seventeen
+  <li> achzä : eighteen
+  <li> nünzä : nineteen
+  <li> zwänzg : twenty
+  <li> ainezwänzg : twenty-one
+  <li> drüüezwänzg: twenty-three
+  <li> foifezwänzg : twenty-five
+  <li> driisg : thirty
+  <li> viärzg : forty
+  <li> füfzg : fifty
+  <li> sächzg : sixty
+  <li> sibezg : seventy
+  <li> achzg : eighty
+  <li> nüünedachzg : eighty-nine
+  <li> hundert : one hundred
+  <li> tuusig : one thousand
 </ul>
 
 Numbers in Swiss German have different forms as nouns. These forms are used for times, ages, and even snack times!
 For numbers 3 and smaller, these are the same as the normal forms.
 
 <ul>
-d Ais : the one (tram)
-d Zwai : the two (tram)
-d Drüü : the three (tram)
-d Viäri : the four (tram)
-d Foifi : the five (tram)
-d Sächsi : the six (tram)
-d Sibeni : the seven (tram)
-d Achti : the eight (tram)
-d Nüüni : the nine (tram)
-d Zäni : the ten (tram)
-d Elfi : the eleven (tram)
-d Zwölfi : the twelve (tram)
-d Zwänzgi : the twenty (tram)
+  <li> d Ais : the one (tram)
+  <li> d Zwai : the two (tram)
+  <li> d Drüü : the three (tram)
+  <li> d Viäri : the four (tram)
+  <li> d Foifi : the five (tram)
+  <li> d Sächsi : the six (tram)
+  <li> d Sibeni : the seven (tram)
+  <li> d Achti : the eight (tram)
+  <li> d Nüüni : the nine (tram)
+  <li> d Zäni : the ten (tram)
+  <li> d Elfi : the eleven (tram)
+  <li> d Zwölfi : the twelve (tram)
+  <li> d Zwänzgi : the twenty (tram)
 
-de Foifer : the five (bus)
+    <li> de Foifer : the five (bus)
 
 
 
@@ -667,18 +668,20 @@ Quite a few of these are from French:
 <h3> Nouns </h3>
 
 <ul>
-de Mäntig : (the) Monday
-de Zieschtig : (the) Tuesday
-de Mittwuch : (the) Wednesday
-de Dunschtig : (the) Thursday
-de Friitig : (the) Friday
-de Samschtig : (the) Saturday
-de Sunntig : (the) Sunday
-am Sunntig : on Sunday
+  <li> de Mäntig : (the) Monday
+  <li> de Zieschtig : (the) Tuesday
+  <li> de Mittwuch : (the) Wednesday
+  <li> de Dunschtig : (the) Thursday
+  <li> de Friitig : (the) Friday
+  <li> de Samschtig : (the) Saturday
+  <li> de Sunntig : (the) Sunday
+  <li> am Sunntig : on Sunday
 
 <li> d Zää (teeth)
 <li> öpfel
 <li> Herdöpfel
+  <li> s Epeeri : the strawberry
+    <li> d Bire : the pear
 </ul>
 
 Some words have surprising plurals
@@ -708,6 +711,8 @@ just ending in "-i".
 <li> Vati
 <li> Schoggi
 <li> s Zahni (dentist)
+  <li> Ufgzgi
+    <li> s Guetzli [use this for cookie, not kekse]
 </ul>
 
 There is even what seems like a double-diminuitive for the Swiss's favorite thing,
@@ -806,10 +811,9 @@ TODO add some more from phrases.txt
 We end with a few longer examples, to present ideomatic ways to say things.
 
 <ul>
-<li> Uf d Wält choo : born
+<li> Uf d Wält cho(o) : born
 
 <li> Ich ha chalt (not "Es ist mir kalt")
-
 
 <li> Ich hät gärn (not "ich möchte")
 
@@ -820,6 +824,8 @@ We end with a few longer examples, to present ideomatic ways to say things.
 <li> Im Uusgang gaa
 
 <li> Was isch für Ziit?
+
+  <li> Ich chume grad [not "ich chume gliich"]
 </ul>
 
 <h2> Sources </h2>
