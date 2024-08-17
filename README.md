@@ -9,12 +9,10 @@ to learn Swiss German.
 
 ## Scope and data
 
-This is not a complete reference or dictionary (see sources for examples of those).
+This is a curated set of examples to help someone (roughly like me) learn.
+It's not a complete reference or dictionary.
 
-Rather, it is a curated set of examples to help someone (roughly like me) learn.
-
-Thus, data directly stored can be minimal, based on giving a small set of useful, correct translations
-of Swiss German strings to English ones.
+The underlying data is a small set of translations of Swiss German strings to English (and optionally High German) ones.
 
 In any translingual dictionary, there will be multiple translations of a given
 term. Further, the mapping between languages is not invertible,
@@ -22,8 +20,11 @@ as words have multiple, context-dependent meanings. For a non-standardized langu
 like Swiss German, there will also be many variations in usage, and further
 in spelling.
 
-To address non-invertibility, data prioritizes the Swiss German to English mapping:
+To address non-invertibility, data prioritizes the Swiss German to English (or High German) mapping:
 Without other context, what is the most likely English translation of the Swiss German string?
+
+Ambiguity should usually be resolved simply by using a longer example, e.g.
+"mir" can mean both "we" and "to me", so include entries like "mir sind" and "mit mir".
 
 To make it easier to detect duplicates, data entries can have multiple strings
 in either language.
@@ -34,12 +35,8 @@ can be removed and not affect validity of the translation. This is helpful
 both to cover small variations in Swiss German spelling, e.g. "cho(o)", or for optional words
 in English translations e.g. "to run (on foot)".
 
-Data entries may optionally also include
+Strings should not be capitalized, except for
+* Full sentences
+* Swiss German and High German nouns and other words (e.g. "Si") always capitalized.
 
-* High German strings alongside English strings.
-* Free-form comments in English
-* TODO: think more about verbs - do we really want "I go", "you go" etc. entries? Do we want an "infinitive" field with an id?
-
-In addition to helper scripts to read and write
-this the stored data, we also include a reader for "jot" files with a colon-separated Swiss German
-and English strings on each line.
+Data entries may also include free-form notes in English.
