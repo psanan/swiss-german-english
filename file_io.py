@@ -36,4 +36,4 @@ def load_yaml(path):
 
 
 if __name__ == "__main__":
-    print(load_yaml("translation.yaml"))
+    print(load_yaml("translations.yaml"))
