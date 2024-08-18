@@ -11,17 +11,33 @@ class dotdict(dict):
 
 
 def load_yaml(path):
-    raw_data = []
+    entries_by_id = {}
+    entries_by_ch = {}
     with open(path, "r") as yaml_file:
         for document in yaml.safe_load_all(yaml_file):
             if document is None:
                 print("Warning: skipping empty document (trailing --- ?)")
                 continue
-            raw_data.append(dotdict(document))
+            entry = dotdict(document)
+            if "id" in entry:
+                if entry.id in entries_by_id:
+                    print("ERROR duplicate id ", entry.id)
+                else:
+                    entries_by_id[entry.id] = entry
+            if "ch" in entry:
+                if not isinstance(entry.ch, list):
+                  entries_ch = [entry.ch]
+                else:
+                  entries_ch = entry.ch
+                for entry_ch in entries_ch:
+                    if entry_ch in entries_by_ch:
+                        print("ERROR duplicate ch ", entry.ch)
+                    else:
+                        entries_by_ch[entry_ch] = entry
+    return entries_by_id, entries_by_ch
 
-    print(raw_data)
-    print(raw_data[0].id)
+
 
 
 if __name__ == "__main__":
-    load_yaml("translations.yaml")
+    print(load_yaml("translations.yaml"))

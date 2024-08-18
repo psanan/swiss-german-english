@@ -14,21 +14,12 @@ It's not a complete reference or dictionary.
 
 The underlying data is a small set of translations of Swiss German strings to English (and optionally High German) ones.
 
-In any translingual dictionary, there will be multiple translations of a given
-term. Further, the mapping between languages is not invertible,
-as words have multiple, context-dependent meanings. For a non-standardized language
-like Swiss German, there will also be many variations in usage, and further
-in spelling.
-
-To address non-invertibility, data prioritizes the Swiss German to English (or High German) mapping:
-Without other context, what is the most likely English translation of the Swiss German string?
-
-Ambiguity should usually be resolved simply by using a longer example, e.g.
+Ambiguity should usually be resolved simply by using longer examples, e.g.
 "mir" can mean both "we" and "to me", so include entries like "mir sind" and "mit mir".
 
-To make it easier to detect duplicates, data entries can have multiple strings
-in either language.
-Any of the English strings must be a valid translation of any of the Swiss German strings.
+A given Swiss German string should only appear in a single entry. Entries can have multiple strings
+in each language.
+Any of the English (or High German) strings must be a valid translation of any of the Swiss German strings.
 
 We adopt the convention that anything in parentheses (plus a space if needbe)
 can be removed and not affect validity of the translation. This is helpful
