@@ -11,7 +11,6 @@ class dotdict(dict):
 
 
 def load_yaml(path):
-    entries_by_id = {}
     entries_by_ch = {}
     with open(path, "r") as yaml_file:
         for document in yaml.safe_load_all(yaml_file):
@@ -19,25 +18,22 @@ def load_yaml(path):
                 print("Warning: skipping empty document (trailing --- ?)")
                 continue
             entry = dotdict(document)
-            if "id" in entry:
-                if entry.id in entries_by_id:
-                    print("ERROR duplicate id ", entry.id)
+            if "ch" not in entry:
+                print("Warning: entry missing required ch field")
+                continue
+            if not isinstance(entry.ch, list):
+              chs = [entry.ch]
+            else:
+              chs = entry.ch
+            for ch in chs:
+                if ch in entries_by_ch:
+                    print("ERROR duplicate ch ", ch)
                 else:
-                    entries_by_id[entry.id] = entry
-            if "ch" in entry:
-                if not isinstance(entry.ch, list):
-                  entries_ch = [entry.ch]
-                else:
-                  entries_ch = entry.ch
-                for entry_ch in entries_ch:
-                    if entry_ch in entries_by_ch:
-                        print("ERROR duplicate ch ", entry.ch)
-                    else:
-                        entries_by_ch[entry_ch] = entry
-    return entries_by_id, entries_by_ch
+                    entries_by_ch[ch] = entry
+    return entries_by_ch
 
 
 
 
 if __name__ == "__main__":
-    print(load_yaml("translations.yaml"))
+    print(load_yaml("translation.yaml"))

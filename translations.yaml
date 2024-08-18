@@ -1,29 +1,27 @@
 ---
-id: 1
-ch: cho(o)
+ch:
+  - cho
+  - choo
 de: kommen
 en: to come
 ---
-id: 2
 ch: geschter
 de: gestern
 en: yesterday
 ---
-id: 3
 ch: de Maa
 de: der Mann
 en:
   - the man
   - the husband
 ---
-id: 4
 ch: da
 de: hier
 en: here
 ---
-id: 5
 ch:
-  - mol(l)
+  - mol
+  - moll
   - doch
 de: doch
 en:

@@ -12,22 +12,18 @@ to learn Swiss German.
 This is a curated set of examples to help someone (roughly like me) learn.
 It's not a complete reference or dictionary.
 
-The underlying data is a small set of translations of Swiss German strings to English (and optionally High German) ones.
+Rather, it's aggressively example-based.  The underlying data is a small set of
+translations of Swiss German strings to English and optionally High German
+ones.
 
-Ambiguity should usually be resolved simply by using longer examples, e.g.
-"mir" can mean both "we" and "to me", so include entries like "mir sind" and "mit mir".
+Interesting usage and differences from High German should be shown, not told.
+Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
+me", include entries like "mir sind" and "mit mir".
 
-A given Swiss German string should only appear in a single entry. Entries can have multiple strings
-in each language.
-Any of the English (or High German) strings must be a valid translation of any of the Swiss German strings.
-
-We adopt the convention that anything in parentheses (plus a space if needbe)
-can be removed and not affect validity of the translation. This is helpful
-both to cover small variations in Swiss German spelling, e.g. "cho(o)", or for optional words
-in English translations e.g. "to run (on foot)".
+A given Swiss German string should only appear in a single entry. Entries can
+have multiple strings in each language.  Any of the English or High German
+strings must be a valid translation of any of the Swiss German strings.
 
 Strings should not be capitalized, except for
 * Full sentences
 * Swiss German and High German nouns and other words (e.g. "Si") always capitalized.
-
-Data entries may also include free-form notes in English.
