@@ -2,38 +2,53 @@
 
 import yaml
 
+# For now an entry is not a proper class, just a dict expected to have entries for
+# each language, either a single string or a list of strings.
 
-class dotdict(dict):
-    """dot.notation access to dictionary attributes"""
-    __getattr__ = dict.get
-    __setattr__ = dict.__setitem__
-    __delattr__ = dict.__delitem__
+def _entry_field_as_list(entry, field):
+    if not isinstance(entry, dict):
+        print(type(entry))
+        raise RuntimeError()
+    field = entry[field]
+    return field if isinstance(field, list) else [field]
 
+def validate_entry(entry):
+    if entry is None:
+        return False, "entry is None (trailing ---?)"
+    if "ch" not in entry:
+        return False, "All entries require ch"
+    return True, None
 
-def load_yaml(path):
-    entries_by_ch = {}
+def validate_entries(entries):
+    chs = set()
+    for entry in entries:
+        valid, status = validate_entry(entry)
+        if not valid:
+            # It might be more convenient to print out all invalid entries first.
+            return False, f"Invalid entry: {entry}: {status}"
+        for entry_ch in _entry_field_as_list(entry, "ch"):
+            if entry_ch in chs:
+                return False, f"Duplicate ch: {ch}"
+            chs.add(entry_ch)
+
+def entries_from_yaml(path):
+    entries = []
     with open(path, "r") as yaml_file:
-        for document in yaml.safe_load_all(yaml_file):
-            if document is None:
-                print("Warning: skipping empty document (trailing --- ?)")
-                continue
-            entry = dotdict(document)
-            if "ch" not in entry:
-                print("Warning: entry missing required ch field")
-                continue
-            if not isinstance(entry.ch, list):
-              chs = [entry.ch]
-            else:
-              chs = entry.ch
-            for ch in chs:
-                if ch in entries_by_ch:
-                    print("ERROR duplicate ch ", ch)
-                else:
-                    entries_by_ch[ch] = entry
+        for entry in yaml.safe_load_all(yaml_file):
+            entries.append(entry)
+    return entries
+
+
+def entries_by_ch(entries):
+    """Requires validated entries list (no duplicates)"""
+    entries_by_ch = {}
+    for entry in entries:
+        for entry_ch in _entry_field_as_list(entry, "ch"):
+            entries_by_ch[entry_ch] = entry
     return entries_by_ch
 
 
-
-
 if __name__ == "__main__":
-    print(load_yaml("translations.yaml"))
+    entries = entries_from_yaml("translations.yaml")
+    validate_entries(entries)
+    print(entries_by_ch(entries))

@@ -31,3 +31,46 @@ en:
 ---
 ch: Schtai am Rhii
 de: Stein am Rhein
+---
+ch: wone
+de: wohnen
+en:
+  - to live
+  - to dwell
+---
+ch: scho
+de: schon
+en: already
+---
+ch: vo
+de: von
+en: from
+---
+ch:
+  - ich bi
+  - ich bin
+de: ich bin
+en: I am
+---
+ch:
+    - ich cha
+    - ich chan
+de: ich kann
+en:
+  - I can
+  - I am able to
+---
+ch: au
+de: auch
+en: also
+---
+ch: no
+de: noch
+en: yet
+---
+ch:
+  - mit oi
+  - mit eu
+de: mit euch
+en: with y'all
+
