@@ -1,11 +1,15 @@
 # Swiss German to English
 
-Resources for a native English speaker, with some knowledge of High German,
+Resources for a native English speaker, with knowledge of High German,
 to learn Swiss German.
 
 1. A reference for valid Zurich Swiss German to English translations
 
 2. A guide presenting a small subset of these to bring understanding of Swiss German closer to understanding of High German
+
+## Guides
+
+* Swiss German to English A1. TODO: link to Guide. Word list. and/or Flashcards.
 
 ## Scope and data
 
@@ -27,3 +31,8 @@ strings must be a valid translation of any of the Swiss German strings.
 Strings should not be capitalized, except for
 * Full sentences
 * Swiss German and High German nouns and other words (e.g. "Si") always capitalized.
+
+Parenthesized expressions should generally be avoided in the examples, preferring
+examples which don't require them, or multiple valid translations. If included,
+they should only be in High German or English strings, and the translation should
+be valid with or without the parenthesized expression (plus a space if needbe).

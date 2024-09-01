@@ -28,8 +28,9 @@ def validate_entries(entries):
             return False, f"Invalid entry: {entry}: {status}"
         for entry_ch in _entry_field_as_list(entry, "ch"):
             if entry_ch in chs:
-                return False, f"Duplicate ch: {ch}"
+                return False, f"Duplicate ch: {entry_ch}"
             chs.add(entry_ch)
+    return True
 
 def entries_from_yaml(path):
     entries = []
@@ -37,6 +38,12 @@ def entries_from_yaml(path):
         for entry in yaml.safe_load_all(yaml_file):
             entries.append(entry)
     return entries
+
+def yaml_from_entries(entries, path):
+    if not validate_entries(entries):
+        return RuntimeException("Invalid entries. Cannot export.")
+    with open(path, "w") as yaml_file:
+        yaml.dump_all(entries, yaml_file, default_flow_style=False, allow_unicode=True)
 
 
 def entries_by_ch(entries):
@@ -50,5 +57,10 @@ def entries_by_ch(entries):
 
 if __name__ == "__main__":
     entries = entries_from_yaml("translations.yaml")
-    validate_entries(entries)
-    print(entries_by_ch(entries))
+    if not validate_entries(entries):
+        print("Invalid! Returning")
+    else:
+        print(entries_by_ch(entries))
+        out_path = "translations_testout.yaml"
+        print(f"Dumping to {out_path}")
+        yaml_from_entries(entries, out_path)
