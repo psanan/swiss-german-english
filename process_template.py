@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 import file_io
 
@@ -11,13 +11,17 @@ def _entry_field_as_list(entry, field):
     return field if isinstance(field, list) else [field]
 
 def _entry_to_html(entry):
-    # TODO make prettier
+    # TODO make prettier and include multiples
     entry_ch = _entry_field_as_list(entry, "ch")[0]
     if "en" in entry:
         entry_en = _entry_field_as_list(entry, "en")[0]
     else:
         entry_en = ""
-    return f"<li> <b>{entry_ch}</b> : {entry_en}"
+    if "de" in entry:
+        entry_de = _entry_field_as_list(entry, "de")[0]
+    else:
+        entry_de = ""
+    return f"<li> <b>{entry_ch}</b> <i>{entry_de}</i> {entry_en}"
 
 def process_template(path, entries_by_ch):
     found_entries_by_ch = {}
@@ -35,7 +39,7 @@ def process_template(path, entries_by_ch):
                     lines_out.append(_entry_to_html(entry))
                 else:
                     print("WARNING: didn't find entry for ", ch_potential)
-                    lines_out.append(line)
+                    lines_out.append(f'<font color="red">{line}</font>')
             else:
                     lines_out.append(line)
     out_path = path + ".out.html"
