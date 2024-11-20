@@ -64,10 +64,6 @@ ch: au
 de: auch
 en: also
 ---
-ch: no
-de: noch
-en: yet
----
 ch:
   - mit oi
   - mit eu
@@ -91,3 +87,9 @@ en: the can
 ch: Mir sind bi ihm dihei.
 de: Wir sind bei ihm zu Hause.
 en: We are at his house.
+---
+ch:
+  - no
+  - na
+de: noch
+en: still

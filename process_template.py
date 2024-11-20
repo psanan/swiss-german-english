@@ -54,6 +54,8 @@ if __name__ == "__main__":
     entries_by_ch = file_io.entries_by_ch(entries)
     print(entries_by_ch)
     found_entries_by_ch = process_template("guide.template.html", entries_by_ch)
+    print("entries by ch")
+    entries_by_ch
     print("FOUND:")
     print(found_entries_by_ch)
 
