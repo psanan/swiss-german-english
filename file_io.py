@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+"""Define the data format and utilities to read to and from files.
+
+The main data structure is an "entry", simply a
+dict with keys KEYS and lists of strings as values."""
 
 import csv
 
@@ -10,10 +14,13 @@ TSV_COLUMN_KEYS = {
     'de': ['DE 1', 'DE 2', 'DE 3']
 }
 
-# An entry is a dict with keys KEYS and lists of strings as values.
-
 
 def entries_from_tsv(path):
+    """Load entries from a TSV file.
+
+    The file is expected to have columns with strings for each language
+    as in TSV_COLUMN_KEYS.
+    """
     rows = []
     entries = []
 
@@ -39,10 +46,11 @@ def entries_from_tsv(path):
 
 # TODO tsv_from_entries
 def tsv_from_entries(entries, path):
+    """Save a list of entries back to a TSV file."""
     raise Exception("TSV output not implemented")
 
 
-def validate_entry(entry):
+def _validate_entry(entry):
     if entry is None:
         return False, "entry is None"
     if PRIMARY_KEY not in entry:
@@ -54,7 +62,7 @@ def validate_entries(entries):
     """Ensure that each entry is valid, and there are no duplicated values for the primary key."""
     primary_keys = set()
     for entry in entries:
-        valid, status = validate_entry(entry)
+        valid, status = _validate_entry(entry)
         if not valid:
             # It might be more convenient to print out all invalid entries first.
             return False, f"Invalid entry: {entry}: {status}"
@@ -75,11 +83,11 @@ def entries_by_primary_key(entries):
 
 
 if __name__ == "__main__":
-    entries = entries_from_tsv("translations.tsv")
-    if not validate_entries(entries):
+    test_entries = entries_from_tsv("translations.tsv")
+    if not validate_entries(test_entries):
         print("Invalid!")
     else:
-        print(entries_by_primary_key(entries))
+        print(entries_by_primary_key(test_entries))
         out_path = "translations_testout.tsv"
         print(f"Dumping to {out_path}")
-        tsv_from_entries(entries, out_path)
+        tsv_from_entries(test_entries, out_path)
