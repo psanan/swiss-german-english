@@ -36,3 +36,7 @@ Parenthesized expressions should generally be avoided in the examples, preferrin
 examples which don't require them, or multiple valid translations. If included,
 they should only be in High German or English strings, and the translation should
 be valid with or without the parenthesized expression (plus a space if needbe).
+
+Many Swiss German words have an optional letter at the end. If truly optional
+(not an n-liason, and both forms are always interchangeable), these parenthesized
+letters are also acceptable (e.g. "cha(n)").
