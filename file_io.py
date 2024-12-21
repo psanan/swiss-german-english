@@ -2,8 +2,8 @@
 
 import csv
 
-PRIMARY_KEY = 'ch'
-KEYS = ['ch', 'en', 'de']
+KEYS = ['ch', 'de', 'en']
+PRIMARY_KEY = KEYS[0]
 TSV_COLUMN_KEYS = {
     'ch': ['CH 1', 'CH 2', 'CH 3'],
     'en': ['EN 1', 'EN 2', 'EN 3'],

@@ -2,12 +2,20 @@
 
 import file_io
 
+STYLES=[["<b>", "</b>"],["<i>","</i>"], ["",""]]
+
 def _entry_to_html(entry):
-    # TODO make prettier, remove hard-coding, and include multiples
-    entry_ch = entry['ch'][0]
-    entry_en = entry["en"][0] if "en" in entry else ""
-    entry_de = entry['de'][0] if "de" in entry else ""
-    return f"<li> <b>{entry_ch}</b> <i>{entry_de}</i> {entry_en}"
+    style = 0
+    html_to_join = ["<li>"]
+    for key in file_io.KEYS:
+        sub_html_to_join = []
+        for string in entry[key]:
+            sub_html_to_join.append(f"{STYLES[style][0]}{string}{STYLES[style][1]}")
+        html_to_join.append(" | ".join(sub_html_to_join))
+        html_to_join.append("&nbsp;&nbsp;")
+        style += 1
+    html_to_join.append("</li>")
+    return "".join(html_to_join)
 
 def process_template(path, entries_by_primary_key):
     found_entries_by_primary_key = {}
