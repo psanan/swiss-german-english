@@ -13,29 +13,6 @@ TSV_COLUMN_KEYS = {
 # An entry is a dict with keys KEYS and lists of strings as values.
 
 
-def validate_entry(entry):
-    if entry is None:
-        return False, "entry is None"
-    if PRIMARY_KEY not in entry:
-        return False, f"All entries require primary language key {PRIMARY_KEY}"
-    return True, None
-
-
-def validate_entries(entries):
-    """Ensure that each entry is valid, and there are no duplicated values for the primary key."""
-    primary_keys = set()
-    for entry in entries:
-        valid, status = validate_entry(entry)
-        if not valid:
-            # It might be more convenient to print out all invalid entries first.
-            return False, f"Invalid entry: {entry}: {status}"
-        for entry_primary_keys in entry[PRIMARY_KEY]:
-            if entry_primary_key in entry_primary_keys:
-                return False, f"Duplicate primary key: {entry_primary_key}"
-            primary_keys.add(entry_primary_keys)
-    return True
-
-
 def entries_from_tsv(path):
     rows = []
     entries = []
@@ -62,7 +39,30 @@ def entries_from_tsv(path):
 
 # TODO tsv_from_entries
 def tsv_from_entries(entries, path):
-    raise Exception("not implemented")
+    raise Exception("TSV output not implemented")
+
+
+def validate_entry(entry):
+    if entry is None:
+        return False, "entry is None"
+    if PRIMARY_KEY not in entry:
+        return False, f"All entries require primary language key {PRIMARY_KEY}"
+    return True, None
+
+
+def validate_entries(entries):
+    """Ensure that each entry is valid, and there are no duplicated values for the primary key."""
+    primary_keys = set()
+    for entry in entries:
+        valid, status = validate_entry(entry)
+        if not valid:
+            # It might be more convenient to print out all invalid entries first.
+            return False, f"Invalid entry: {entry}: {status}"
+        for entry_primary_keys in entry[PRIMARY_KEY]:
+            if entry_primary_key in entry_primary_keys:
+                return False, f"Duplicate primary key: {entry_primary_key}"
+            primary_keys.add(entry_primary_keys)
+    return True
 
 
 def entries_by_primary_key(entries):
