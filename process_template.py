@@ -37,7 +37,7 @@ def process_template(path, entries_by_ch):
 
 if __name__ == "__main__":
     entries = file_io.entries_from_tsv("translations.tsv")
-    entries_by_ch = file_io.entries_by_ch(entries)
+    entries_by_ch = file_io.entries_by_primary_key(entries)
     print(entries_by_ch)
     found_entries_by_ch = process_template("guide.template.html", entries_by_ch)
     print("entries by ch")

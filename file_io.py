@@ -2,21 +2,22 @@
 
 import csv
 
-PRIMARY_LANGUAGE_KEY = 'ch'
-LANGUAGE_KEYS = ['ch', 'en', 'de']
+PRIMARY_KEY = 'ch'
+KEYS = ['ch', 'en', 'de']
 TSV_COLUMN_KEYS = {
     'ch': ['CH 1', 'CH 2', 'CH 3'],
     'en': ['EN 1', 'EN 2', 'EN 3'],
     'de': ['DE 1', 'DE 2', 'DE 3']
 }
 
-# An entry is a dict with keys LANGUAGE_KEYS and lists of strings as values.
+# An entry is a dict with keys KEYS and lists of strings as values.
+
 
 def validate_entry(entry):
     if entry is None:
         return False, "entry is None"
-    if "ch" not in entry:
-        return False, "All entries require ch"
+    if PRIMARY_KEY not in entry:
+        return False, f"All entries require primary language key {PRIMARY_KEY}"
     return True, None
 
 
@@ -28,7 +29,7 @@ def validate_entries(entries):
         if not valid:
             # It might be more convenient to print out all invalid entries first.
             return False, f"Invalid entry: {entry}: {status}"
-        for entry_primary_keys in entry[PRIMARY_LANGUAGE_KEY]:
+        for entry_primary_keys in entry[PRIMARY_KEY]:
             if entry_primary_key in entry_primary_keys:
                 return False, f"Duplicate primary key: {entry_primary_key}"
             primary_keys.add(entry_primary_keys)
@@ -47,11 +48,11 @@ def entries_from_tsv(path):
     for row in rows:
         try:
             entry = {}
-            for language_key in LANGUAGE_KEYS:
-                entry[language_key] = []
-                for column_key in TSV_COLUMN_KEYS[language_key]:
+            for key in KEYS:
+                entry[key] = []
+                for column_key in TSV_COLUMN_KEYS[key]:
                     if row[column_key]:
-                        entry[language_key].append(row[column_key])
+                        entry[key].append(row[column_key])
         except:
             print(f"Error processing row: {row}")
             raise
@@ -64,13 +65,13 @@ def tsv_from_entries(entries, path):
     raise Exception("not implemented")
 
 
-def entries_by_ch(entries):
+def entries_by_primary_key(entries):
     """Requires validated entries list (no duplicates)"""
-    entries_by_ch = {}
+    entries_by_primary_key = {}
     for entry in entries:
-        for entry_ch in entry['ch']:
-            entries_by_ch[entry_ch] = entry
-    return entries_by_ch
+        for entry_primary_key in entry[PRIMARY_KEY]:
+            entries_by_primary_key[entry_primary_key] = entry
+    return entries_by_primary_key
 
 
 if __name__ == "__main__":
@@ -78,7 +79,7 @@ if __name__ == "__main__":
     if not validate_entries(entries):
         print("Invalid!")
     else:
-        print(entries_by_ch(entries))
+        print(entries_by_primary_key(entries))
         out_path = "translations_testout.tsv"
         print(f"Dumping to {out_path}")
         tsv_from_entries(entries, out_path)
