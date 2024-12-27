@@ -3,15 +3,17 @@
 Resources for a native English speaker, with knowledge of High German,
 to learn Swiss German.
 
-1. A reference for valid Zurich Swiss German to English translations
+1. A reference for valid Zurich Swiss German to High German and English translations
 
 2. A guide presenting a small subset of these to bring understanding of Swiss German closer to understanding of High German
 
 ## Guides
 
-* Swiss German to English A1. TODO: link to Guide. Word list. and/or Flashcards.
+* TODO: link to Guide. Word list. and/or Flashcards.
 
 ## Scope and data
+
+TODO link to the data file (TSV or whatever it ends up being)
 
 This is a curated set of examples to help someone (roughly like me) learn.
 It's not a complete reference or dictionary.
@@ -26,7 +28,10 @@ me", include entries like "mir sind" and "mit mir".
 
 A given Swiss German string should only appear in a single entry. Entries can
 have multiple strings in each language.  Any of the English or High German
-strings must be a valid translation of any of the Swiss German strings.
+strings must be a valid translation of any of the Swiss German strings.  This
+covers variations both in spelling (which should only be relevant for Swiss German),
+interchangeable strings in the source language (e.g. "doch" and "moll" in Swiss
+German), and multiple valid translations in the target languages.
 
 Strings should not be capitalized, except for
 * Full sentences
