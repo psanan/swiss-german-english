@@ -36,7 +36,8 @@ def entries_from_tsv(path):
                 entry[key] = []
                 for column_key in TSV_COLUMN_KEYS[key]:
                     if row[column_key]:
-                        entry[key].append(row[column_key])
+                        # Strip for convenience
+                        entry[key].append(row[column_key].strip())
         except:
             print(f"Error processing row: {row}")
             raise

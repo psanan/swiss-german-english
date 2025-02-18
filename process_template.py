@@ -52,6 +52,7 @@ if __name__ == "__main__":
     entries_by_primary_key = file_io.entries_by_primary_key(entries)
     found_entries_by_primary_key = process_template("guide.template.html",
                                                     entries_by_primary_key)
+    print(f"Found {len(entries_by_primary_key)} entries.")
 
     output_filename = "guide_vocabulary.tsv"
     file_io.tsv_from_entries(found_entries_by_primary_key.values(),
