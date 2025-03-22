@@ -13,7 +13,8 @@ def _entry_to_html(entry):
         for string in entry[key]:
             sub_html_to_join.append(
                 f"{STYLES[style][0]}{string}{STYLES[style][1]}")
-        html_to_join.append(" <font color='grey'>|</font> ".join(sub_html_to_join))
+        html_to_join.append(
+            " <font color='grey'>|</font> ".join(sub_html_to_join))
         html_to_join.append("&nbsp;&nbsp;")
         style += 1
     html_to_join.append("</li>")
@@ -22,7 +23,7 @@ def _entry_to_html(entry):
 
 def process_template(path, entries_by_primary_key):
     found_entries_by_primary_key = {}
-    lines_out = []
+    lines_out = ["<!-- DO NOT EDIT. This file is generated from a template -->\n"]
     with open(path, "r") as template_file:
         for line in template_file:
             line_stripped = line.strip()
@@ -57,3 +58,4 @@ if __name__ == "__main__":
     output_filename = "guide_vocabulary.tsv"
     file_io.tsv_from_entries(found_entries_by_primary_key.values(),
                              output_filename)
+    print(f"Output to {output_filename}")

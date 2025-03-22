@@ -144,16 +144,6 @@ mit eu(n)e Hünd : with your (pl.) dogs
 mit ihr(n)e Hünd : with their (pl.) dogs
 
 
-moll : ja-huh [particle, similar to "doch"]
-
 die : this [diese]
 däm : this [dative, diesem]
 
-no : still
-scho : already
-erst : only (process)
-nur  : only (amount, same word as High German)
-nume : only (amount, different word from High German)
-nüme : no more
-susch: otherwise ["sonst"]
-sust:  otherwise ["sonst"]

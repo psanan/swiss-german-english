@@ -1,17 +1,21 @@
 CH 1	CH 2	CH 3	DE 1	DE 2	DE 3	EN 1	EN 2	EN 3
-Swiss German Term	Swiss German Example (alternate)		High German Translation	High German Translation (Alternate)		English Translation	English Translation (Alternate)	
-cho(o)			kommen			to come		
+Swiss German term	Swiss German term (alternate)		High German translation	High German translation (alternate)		English Translation	English translation (alternate)	
+cho	choo		kommen			to come		
+ich chume			ich komme			I come		
+du chunsch			du kommst			you come		
+er chunt			er kommt			he comes		
+mir chömed			wir kommen			we come		
+ich bi cho			ich bin gekommen			I came		
 geschter			gestern			yesterday		
 de Maa			der Mann			the man	the husband	
 da			hier			here		
-det(e)			da			there		
-mol(l)	doch		doch			yu-huh	is so	is too
+det	dete		da			there		
+det äne			da drüben			over there		
+mol	moll	doch	doch			yu-huh	is so	is too
 Schtai am Rhii			Stein am Rhein			Stein am Rhein		
 wone			wohnen			to live	to dwell	
 scho			schon			already		
 vo			von			from		
-ich bi(n)			ich bin			I am		
-ich cha(n)			ich kann			I am able to	I can	
 au			auch			also		
 mit oi	mit eu		mit euch			with y'all		
 s Äntli			das Entchen			the duckling		
@@ -40,17 +44,17 @@ Wiä bitte?	Wie bitte?		Wie bitte?			I beg your pardon?
 de Spiegel			der Spiegel			the mirror		
 tüüf			tief			deep		
 dur			durch			through		
-Wiä gaats?	Wie gaats?		Wie geht's?			How are you?		
+Wiä gaat's?	Wie gaat's?		Wie geht's?			How are you?		
 schlächt			schlecht			bad		
 de Chäfer			der Käfer			the beetle		
 d Brüle			die Brille			the (pair of) glasses		
 s Buäch			das Buch			the book		
-guät			gut			good		
+guet	guät		gut			good		
 d Muus			die Maus			the mouse		
 d Füürzüüg			das Feuerzeug			the lighter		
 Lüüt			die Leute			people		
 hütt			heute			today		
-sii			sein			to be		
+sii	si		sein			to be		
 d Ziit			die Zeit			the time		
 bi ois			bei uns			at our place		
 d Wuche			die Woche			the week		
@@ -61,7 +65,7 @@ d Quittig			die Quittung			the receipt
 uufruume			aufräumen			to clean up	to tidy up	
 aafange			anfange			to start		
 iistiige			einsteigen			to get on		
-uusstiige			austeigen			to get off		
+uusstiige			aussteigen			to get off		
 gmacht			gemacht			made		
 bsuäche			besuchen			to visit		
 Züri			Zürich					
@@ -80,19 +84,21 @@ kai Chind			keine Kinder			no children
 mit em Maa			mit dem Mann			with the man		
 mit de Frau			mit der Frau			with the woman		
 mit em Chind			mit dem Kind			with the child		
-mit de Chind			mit die Kinder			with the children		
-mit emene Maa			mit einem Mann			with a man		
-mit enere Frau			mit einer Frau			with a woman		
+mit de Chind			mit den Kinder			with the children		
+mit emene Maa	miteme Maa		mit einem Mann			with a man		
+mit enere Frau	mitere Frau		mit einer Frau			with a woman		
 mit emene Chind			mit einem Chind			with a child		
 mit Chind			mit Kinder			with children		
-ich bin			ich bin			I am		
+ich bin	ich bi		ich bin			I am		
 du bisch			du bist			you are		
 er isch			er ist			he is		
-si isch 			sie ist			she is		
+sie isch	si isch		sie ist			she is		
 es isch			es ist			it is		
 mir sind			wir sind			we are		
 ir sind			ihr seid			y'all are		
-sie sind			sie sind			they are		
+sie sind	si sind		sie sind			they are		
+Sie sind	Si sind		Sie sind					
+ich bin gsi	ich bi gsi		ich bin gewesen			I was		
 für mich			für mich			for me		
 für dich			für dich			for you		
 für in			für ihn			for him		
@@ -113,27 +119,123 @@ mini Chind			meine Kinder			my children
 mit mim Maa			mit meinem Mann			with my husband		
 mit minere Frau			mit meiner Frau			with my wife		
 mit mim Chind			mit meinem Kind			with my child		
-mit minere Chind			mit meiner Kinder			with my children		
+mit mine Chind			mit meinen Kinder			with my children		
 din Maa			dein Mann			your husband		
-sin Maa			sein Mann			y'all's husband		
-ire Maa								
-iri Frau								
-ires Chind								
-iri Chind								
-mit irem Maa								
-mit irere Frau								
-mit irem Chind								
-mit irere Chind								
-oise Maa								
-oiji Maa								
-Ire Maa								
+sin Maa			sein Mann			his husband		
+ire Maa			ihr Mann			her husband		
+iri Frau			ihre Frau			her wife		
+ires Chind			ihres Kind			her child		
+iri Chind			ihre Kinder			her children		
+mit irem Maa			mit ihrem Mann			with her husband		
+mit irere Frau			mit ihrer Frau			with her wife		
+mit irem Chind			mit ihrem Kind			with her child		
+mit iren Chind			mit ihren Kinder			with her children		
+oise Maa			unser Mann			our husband		
+oiji Maa			eurer Mann			y'all's husband		
 mer	mä	mr	man			one		
 Was fürtigi?			Was für welche?			What kind?		
 gäll			gelb			yellow		
-welle			wollen			to want		
-ich will	ich wet		ich will			I want		
-du willsch	du wetsch		du willst			you want		
 umehocke						to sit around		
 allei	elleige		allein			alone		
 wüki			wirklich			really		
 niemert			niemand			nobody	no one	
+d Chile			die Kirche			the church		
+de Leu			der Löwe			the lion		
+s Chüssi			das Kissen			the pillow		
+de Güggel			der Hahn			the rooster		
+ich chan	ich cha		ich kann			I am able to	I can	
+du chasch			du kannst			you are able to	you can	
+er chan	er cha		er kann			he is able to	he can	
+mir chönd			wir können			we are able to	we can	
+ich dörf	ich törf		ich darf			I am allowed to		
+du dörsch	du törfsch		du darfst			you are allowed to		
+sie dörf			sie darf			she is allowed to		
+mir dörfed			wir dürfen			we are allowed to		
+welle			wollen			to want		
+ich wet			ich will			I want		
+du wetsch			du willst			you want		
+er wett			er will			he wants		
+muese	müäse		müssen			to have to		
+ich mües	ich müäs		ich muss			I have to	I must	
+du muesch	du muäsch		du musst			you have to 	you must	
+sie mues	sie muäs		sie muss			she has to	she must	
+mir müend	mir müänd		wir müssen			we have to	we must	
+mir wend	mir wänd		wir wollen			we want		
+ich sött			ich sollte			I ought to		
+du söttsch			du solltest			you ought to		
+sie sött			sie sollte			she ought to		
+mir sölled			wir sollten			we ought to		
+d Schtäge			die Treppe			the staircase		
+leislig			leise			quietly		
+ha	haa		haben			to have		
+ich ha			ich habe			I have		
+du hesch	du häsch		du hast			you have		
+er het	er hät		er hat			he has		
+mir hend	mir händ		wir haben			we have		
+ich ha gha			ich habe gehabt			I had		
+gaa	gah		gehen			to go		
+ich gaa	ich gah		ich gehe			I go		
+du gaasch	du gahsch		du gehst			you go		
+er gaat	er gaht		er geht			he goes		
+mir göhnd			wir gehen			we go		
+ich bin gange			ich bin gegangen			I went		
+								
+de gross Maa	de grossi Maa		der grosse Mann			the big man		
+d gross Frau	d grossi Frau		die grosse Frau			the big woman		
+s alte Huus			das alte Haus			the old house		
+d grosse Chind 			die grossen Kinder			the big children		
+en grosse Maa			ein grosser Mann			a big man		
+e grossi Frau			eine grosse Frau			a big woman		
+es alts Huus			ein altes Haus			an old house		
+grosse Maa			grosser Mann			big man		
+grossi Frau			grosse Frau			big woman		
+alts Huus			grosses Haus			old house		
+grossi Chind			grosse Kinder			big children		
+min grosse Maa			mein grosser Mann			my big husband		
+mini gross Frau			meine grosse Frau			my big wife		
+mis alte Huus			mein altes Haus			my old house		
+mini grosse Chind			meine grossen Kinder			my big children		
+								
+mit em grosse Maa			mit dem grossen Mann			with the big man		
+mit de grosse Frau			mit der grossen Frau			with the big woman		
+mit em grosse Chind			mit dem grossen Kind			with the big child		
+mit de grosse Chind			mit den grossen Kinder			with the big children		
+mit emene grosse Maa			mit einem grossen Mann			with a big man		
+mit enere grosse Frau			mit einer grossen Frau			with a big woman		
+mit emene grosse Chind			mit einem grossen Kind			with a big child		
+mit grossem Maa			mit grossem Mann			with big man		
+mit grosse Frau	mit grosser Frau		mit grosser Frau			with big woman		
+mit grossem Chind			mit grossem Kind			with big child		
+mit grosse Chind			mit grossen Kinder			with big children		
+mit mim grosse Maa			mit meinem grossen Mann			with my big husband		
+mit minere grosse Frau			mit meiner grossen Frau			with my big wife		
+mit mim grosse Chind			mit meinem grossen Kind			with my big child		
+mit mine grosse Chind			mit meinen grossen Kinder			with my big children		
+Häsch hunger?	Häsch du Hunger?		Hast du hunger?			Are you hungry?		
+Ich froimi seer.			Ich freut mich sehr.			I am very pleased (to meet you).		
+d Büse	d Chatz		die Katze			the cat		
+es Bitzeli			ein Bisschen			a little bit		
+s Gipfeli						the (small) croissant		
+de Bueb						the boy		
+s Velo						the (road) bike		
+wüki			wirklich			really		
+öppis			etwas			something		
+Was isch für Ziit?			Wie Uhr ist es?			What time is it?		
+Ich chume grad.			Ich komm gleich.			I'm coming right away.		
+fain			lecker			tasty		
+mega								
+geil								
+sust	susch		sonst			otherwise		
+nöd			nicht			not		
+nüt			nichts			nothing		
+mängisch			manchmal			sometimes		
+nüme			nicht mehr			no more	not anymore	
+nume	nur		nur			only (a certain amount)		
+erscht			erst			only		
+nönig			noch nicht					
+niemer	niämer		niemand			nobody		
+d Stäge			die Treppe			the stairs		
+d Stägehuus			das Treppenhaus			the stairwll		
+Ich bi de Maa, wo da wont.			Ich bin der Mann, der hier wohnt.			I am the man who lives here.	I am the man that lives here.	
+Guete-n-aabig.			Guten Abend.			Good evening.		
+Min Name-n-isch Tobler.			Mein Name ist Tobler.			My last name is Tobler.		

@@ -9,11 +9,13 @@ to learn Swiss German.
 
 ## Guides
 
+This repository includes the data and logic to generate guides for learning, reference, and practice.
+
 * TODO: link to Guide. Word list. and/or Flashcards.
 
-## Scope and data
+## Scope and data conventions
 
-TODO link to the data file (TSV or whatever it ends up being)
+The main data source is [translations.tsv](./translations.tsv).
 
 This is a curated set of examples to help someone (roughly like me) learn.
 It's not a complete reference or dictionary.
@@ -42,6 +44,13 @@ examples which don't require them, or multiple valid translations. If included,
 they should only be in High German or English strings, and the translation should
 be valid with or without the parenthesized expression (plus a space if needbe).
 
-Many Swiss German words have an optional letter at the end. If truly optional
-(not an n-liason, and both forms are always interchangeable), these parenthesized
-letters are also acceptable (e.g. "cha(n)").
+We try to be consistent with Swiss German orthography, but do aspire to perfection.
+In general, we choosing between equally-valid spelling options, we prefer:
+
+- shorter forms over longer ones
+- "aa" over "ah"
+- "e" over "ä"
+- "o" over "oo"
+- "oi" over "eu"
+- "d" over "t"
+- "b" over "p"

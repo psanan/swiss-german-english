@@ -8,10 +8,13 @@ import csv
 
 KEYS = ['ch', 'de', 'en']
 PRIMARY_KEY = KEYS[0]
+MAX_ALTERNATES = 3
+
+# Each entry must have MAX_ALTERNATES entries:
 TSV_COLUMN_KEYS = {
     'ch': ['CH 1', 'CH 2', 'CH 3'],
+    'de': ['DE 1', 'DE 2', 'DE 3'],
     'en': ['EN 1', 'EN 2', 'EN 3'],
-    'de': ['DE 1', 'DE 2', 'DE 3']
 }
 
 
@@ -45,10 +48,50 @@ def entries_from_tsv(path):
     return entries
 
 
-# TODO tsv_from_entries
+def _empty_row_dict():
+    row_dict = {}
+    for key in TSV_COLUMN_KEYS:
+        for column_key in TSV_COLUMN_KEYS[key]:
+            row_dict[column_key] = ""
+    return row_dict
+
+
+def _row_dict_to_string(row_dict):
+    sub_strings = []
+    for key in TSV_COLUMN_KEYS:
+        for column_key in TSV_COLUMN_KEYS[key]:
+            sub_strings.append(row_dict[column_key])
+    sub_strings.append("\n")
+    return "\t".join(sub_strings)
+
+
+def _header_string():
+    sub_strings = []
+    for key in TSV_COLUMN_KEYS:
+        for column_key in TSV_COLUMN_KEYS[key]:
+            sub_strings.append(column_key)
+    sub_strings.append("\n")
+    return "\t".join(sub_strings)
+
+
 def tsv_from_entries(entries, path):
     """Save a list of entries back to a TSV file."""
-    raise Exception("TSV output not implemented")
+    with open(path, "w") as file:
+        file.write(_header_string())
+        for entry in entries:
+            row_dict = _empty_row_dict()
+            for key in KEYS:
+                if key in entry:
+                    tsv_alternate_index = 0
+                    for alternate in entry[key]:
+                        if tsv_alternate_index >= MAX_ALTERNATES:
+                            raise Exception(
+                                f"Only {MAX_ALTERNATES} alternates allowed but {entry} has more"
+                            )
+                        row_dict[TSV_COLUMN_KEYS[key]
+                                 [tsv_alternate_index]] = alternate
+                        tsv_alternate_index += 1
+            file.write(_row_dict_to_string(row_dict))
 
 
 def _validate_entry(entry):
