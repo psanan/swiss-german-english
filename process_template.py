@@ -41,7 +41,10 @@ def process_template(path, entries_by_primary_key):
                     lines_out.append(f'<font color="red">{line}</font>')
             else:
                 lines_out.append(line)
-    out_path = path + ".out.html"
+    if path.endswith(".template.html"):
+        out_path = path.replace(".template.html", ".html")
+    else:
+        out_path = path + ".out.html"
     with open(out_path, "w") as out_file:
         for line in lines_out:
             out_file.write(line)
