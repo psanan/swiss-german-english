@@ -8,13 +8,13 @@ import csv
 
 KEYS = ['ch', 'de', 'en']
 PRIMARY_KEY = KEYS[0]
-MAX_ALTERNATES = 3
+MAX_ALTERNATES = 4
 
 # Each entry must have MAX_ALTERNATES entries:
 TSV_COLUMN_KEYS = {
-    'ch': ['CH 1', 'CH 2', 'CH 3'],
-    'de': ['DE 1', 'DE 2', 'DE 3'],
-    'en': ['EN 1', 'EN 2', 'EN 3'],
+    'ch': ['CH 1', 'CH 2', 'CH 3', 'CH 4'],
+    'de': ['DE 1', 'DE 2', 'DE 3', 'DE 4'],
+    'en': ['EN 1', 'EN 2', 'EN 3', 'EN 4'],
 }
 
 
