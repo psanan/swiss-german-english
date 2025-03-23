@@ -29,7 +29,7 @@ def process_template(path, entries_by_primary_key):
             line_stripped = line.strip()
             if line_stripped.startswith("<li>"):
                 primary_key_potential = line_stripped.removeprefix(
-                    "<li>").removesuffix("<\li>").strip()
+                    r"<li>").removesuffix(r"<\li>").strip()
                 if primary_key_potential in entries_by_primary_key:
                     primary_key = primary_key_potential
                     entry = entries_by_primary_key[primary_key]
