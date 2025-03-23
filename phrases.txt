@@ -64,7 +64,6 @@ Gester bini go schaffe (gaa) : yesterday I went to work
 Ich bin i dä Berge : I am in the mountains
 Ich gan i d' Berge : I got to the mountains
 
-Bini e Kiosk? : Am I a kiosk?
 Das isch wirklich so : that's true [not "das ist wahr", which is more DE]
 
 Ich ha erst zwei Franke verdient : I only earned two Franks
@@ -75,9 +74,7 @@ Bi mir isch viel los : I have a lot going on (I'm busy)
 
 wiä läbsch? : how's it going? (how do you live?) [like "wiä gähts?"]
 
-Was isch für Ziit? : What time is it?
 
 Ich muess em Arzt alüte : I have to call the doctor
 
-I work in Zurich : ich schaffe z Züri
 

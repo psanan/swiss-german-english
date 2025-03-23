@@ -8,7 +8,7 @@ TODO for guide
 <li> Iterate until happy
   <ul>
     <li> Resolve all TODOs in text
-    <li> Fix N (500? 444? 333? Less even?)
+    <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> This doc should be max  2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
       <li> Fiddle with appearance
@@ -68,8 +68,8 @@ interchangeable strings in the source language (e.g. "doch" and "moll" in Swiss
 German), and multiple valid translations in the target languages.
 
 Strings should not be capitalized, except for
-* Full sentences
-* Swiss German and High German nouns and other words (e.g. "Si") always capitalized.
+* Full sentences (which should then end with punctuation)
+* Words which are always capitalized
 
 Parenthesized expressions should generally be avoided in the examples, preferring
 examples which don't require them, or multiple valid translations. If included,

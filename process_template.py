@@ -29,7 +29,7 @@ def process_template(path, entries_by_primary_key):
             line_stripped = line.strip()
             if line_stripped.startswith("<li>"):
                 primary_key_potential = line_stripped.removeprefix(
-                    "<li>").strip()
+                    "<li>").removesuffix("<\li>").strip()
                 if primary_key_potential in entries_by_primary_key:
                     primary_key = primary_key_potential
                     entry = entries_by_primary_key[primary_key]
@@ -48,17 +48,18 @@ def process_template(path, entries_by_primary_key):
     with open(out_path, "w") as out_file:
         for line in lines_out:
             out_file.write(line)
-    return found_entries_by_primary_key
+    return out_path, found_entries_by_primary_key
 
 
 if __name__ == "__main__":
     entries = file_io.entries_from_tsv("translations.tsv")
     entries_by_primary_key = file_io.entries_by_primary_key(entries)
-    found_entries_by_primary_key = process_template("guide.template.html",
+    html_output_path, found_entries_by_primary_key = process_template("guide.template.html",
                                                     entries_by_primary_key)
     print(f"Found {len(entries_by_primary_key)} entries.")
+    print(f"Output to {html_output_path}")
 
-    output_filename = "guide_vocabulary.tsv"
+    vocabulary_output_filename = "guide_vocabulary.tsv"
     file_io.tsv_from_entries(found_entries_by_primary_key.values(),
-                             output_filename)
-    print(f"Output to {output_filename}")
+                             vocabulary_output_filename)
+    print(f"Output to {vocabulary_output_filename}")
