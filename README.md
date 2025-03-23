@@ -1,3 +1,26 @@
+TODO for guide
+<ul>
+<li> Go through carefully
+  <ul>
+    <li> (start) add the terms here to translations file [would be nice to silence all warnings from script]
+    <li> Polish/condense writing
+  </ul>
+<li> Iterate until happy
+  <ul>
+    <li> Resolve all TODOs in text
+    <li> Fix N (500? 444? 333? Less even?)
+    <li> This doc should be max  2N lines
+    <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
+      <li> Fiddle with appearance
+<li> (finish) translations file
+    <li> Convert/remove existing .txt files and remove them
+    <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]
+  </ul>
+<li> Write scripts to generate flashcards (and quiz?) from tsv output from processing this file
+<li> Publish and get feedback!
+<li> Think about chopping audio from the Swissing material and/or Luana mulirama podcasts! (wont' be complete, but audio clips are essential here..) (would be useful to go through that, anyhow)
+</ul>
+
 # Swiss German to English
 
 Resources for a native English speaker, with knowledge of High German,
@@ -6,6 +29,15 @@ to learn Swiss German.
 1. A reference for valid Zurich Swiss German to High German and English translations
 
 2. A guide presenting a small subset of these to bring understanding of Swiss German closer to understanding of High German
+
+## Sources
+
+<ul>
+<li> A1 Swiss German lectures and course materials from <a href="https://swissing.ch/">Swissing</a>
+<li> <a href="https://www.sergiojlievano.com/hoi">Hoi! Your Swiss German Survival Guide</a>
+<li> <a href="https://eldrid.ch/switzerland.htm">Eldrid's Swiss German pages</a>
+<li> My own experience living in Zurich (unreliable) and information from my 4-year old (fluent, but also unreliable).
+</ul>
 
 ## Guides
 
