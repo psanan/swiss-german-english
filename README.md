@@ -1,19 +1,13 @@
 TODO for guide
 <ul>
-<li> Go through carefully
-  <ul>
-    <li> (start) add the terms here to translations file [would be nice to silence all warnings from script]
-    <li> Polish/condense writing
-  </ul>
 <li> Iterate until happy
   <ul>
+    <li> Convert/include existing .txt files and remove them
     <li> Resolve all TODOs in text
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
-    <li> This doc should be max  2N lines
+    <li> The guide should be max 2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
       <li> Fiddle with appearance
-<li> (finish) translations file
-    <li> Convert/remove existing .txt files and remove them
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]
   </ul>
 <li> Write scripts to generate flashcards (and quiz?) from tsv output from processing this file
