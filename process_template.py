@@ -4,6 +4,21 @@ import file_io
 
 STYLES = [["<b>", "</b>"], ["<i>", "</i>"], ["", ""]]
 
+HEADER= """
+<!DOCTYPE html>
+<!-- DO NOT EDIT. This file is generated from a template -->
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="author" content="Patrick Sanan" />
+    <title>Swiss German in N Flashcards</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+  </head>
+<body>
+"""
+
+FOOTER="</body></html>"
 
 def _entry_to_html(entry):
     style = 0
@@ -23,7 +38,7 @@ def _entry_to_html(entry):
 
 def process_template(path, entries_by_primary_key):
     found_entries_by_primary_key = {}
-    lines_out = ["<!-- DO NOT EDIT. This file is generated from a template -->\n"]
+    lines_out = [HEADER]
     with open(path, "r") as template_file:
         for line in template_file:
             line_stripped = line.strip()
@@ -41,6 +56,7 @@ def process_template(path, entries_by_primary_key):
                     lines_out.append(f'<font color="red">{line}</font>')
             else:
                 lines_out.append(line)
+    lines_out.append(FOOTER)
     if path.endswith(".template.html"):
         out_path = path.replace(".template.html", ".html")
     else:
