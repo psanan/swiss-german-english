@@ -64,7 +64,9 @@ def entries_from_tsv(path):
                             primary_keys_canonical.add(key_canonical)
                         entry[key].append(key_canonical)
             if not entry[PRIMARY_KEY]:
-                print(f"WARNING: primary key missing in entry: {entry} from row: {row}")
+                print(
+                    f"WARNING: primary key missing in entry: {entry} from row: {row}"
+                )
                 valid = False
         except:
             print(f"Error processing row: {row}")
