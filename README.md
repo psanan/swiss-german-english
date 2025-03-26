@@ -7,7 +7,11 @@ TODO for guide
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> The guide should be max 2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
-      <li> Fiddle with appearance
+    <li> Fiddle with appearance
+    <ul>
+    <li> Tables?
+    <li> Add compliation of supporting e.g. cha(n)? (Would just require you to be able to match cha and chan to cha(n) but entries would otherwise just be cha(n)?)
+    </ul>
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]
   </ul>
 <li> Write scripts to generate flashcards (and quiz?) from tsv output from processing this file
