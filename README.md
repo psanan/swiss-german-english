@@ -7,6 +7,7 @@ TODO for guide
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> The guide should be max 2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
+    <li> Simplify translation by chooisng conventions (see below) and removing distracting duplicates (e.g. "e" vs "ä" variants, etc.)
     <li> Fiddle with appearance
     <ul>
     <li> Tables?
