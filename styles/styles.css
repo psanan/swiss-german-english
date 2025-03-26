@@ -23,3 +23,20 @@ h1 {
   border: 2px solid /*base01*/#586e75;
   padding: 0.1em 0.2em
 }
+
+table {
+  margin-left: 20px;
+}
+
+table td {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+table tr:nth-child(odd) td{
+  background-color: /*base2*/#eee8d5;;
+}
+
+table tr:nth-child(even) td{
+  background-color: /*base3*/#fdf6e3;
+}

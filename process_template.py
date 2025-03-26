@@ -22,17 +22,18 @@ FOOTER="</body></html>"
 
 def _entry_to_html(entry):
     style = 0
-    html_to_join = ["<li>"]
+    html_to_join = ["<tr>\n"]
     for key in file_io.KEYS:
+        html_to_join.append("<td>\n")
         sub_html_to_join = []
         for string in entry[key]:
             sub_html_to_join.append(
                 f"{STYLES[style][0]}{string}{STYLES[style][1]}")
         html_to_join.append(
             " <font color='grey'>|</font> ".join(sub_html_to_join))
-        html_to_join.append("&nbsp;&nbsp;")
+        html_to_join.append("\n</td>\n")
         style += 1
-    html_to_join.append("</li>")
+    html_to_join.append("</tr>\n")
     return "".join(html_to_join)
 
 
@@ -54,6 +55,10 @@ def process_template(path, entries_by_primary_key):
                     print("WARNING: didn't find entry for primary key:",
                           primary_key_potential)
                     lines_out.append(f'<font color="red">{line}</font>')
+            elif line_stripped.startswith("<ul>"):
+                lines_out.append("<p><table>\n")
+            elif line_stripped.startswith("</ul>"):
+                lines_out.append("</p></table>\n")
             else:
                 lines_out.append(line)
     lines_out.append(FOOTER)

@@ -72,8 +72,7 @@ Strings should not be capitalized, except for
 
 Parenthesized expressions should generally be avoided in the examples, preferring
 examples which don't require them, or multiple valid translations. If included,
-they should only be in High German or English strings, and the translation should
-be valid with or without the parenthesized expression (plus a space if needbe).
+entries should be valid as if individual strings with and without the parenthetical expressions (up to a space) were included.
 
 We try to be consistent with Swiss German orthography, but do aspire to perfection.
 In general, we choosing between equally-valid spelling options, we prefer:
