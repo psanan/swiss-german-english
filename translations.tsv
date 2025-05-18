@@ -30,14 +30,11 @@ kai				kein				not a
 choche	koche			kochen				to cook	to boil		
 d Brugg				die Brücke				the bridge			
 zrugg				zurück				back			
-											
-											
 de Schtärn				der Stern				the star			
 schpile				spielen				to play			
 de Gascht				der Gast				the guest			
 de Puure				der Bauer				the farmer			
 Dütsch	Tütsch			Deutsch				German			
-											
 d Liecht				die Licht				the light			
 Wiä bitte?	Wie bitte?			Wie bitte?				I beg your pardon?			
 de Spiegel				der Spiegel				the mirror			
@@ -49,6 +46,7 @@ de Chäfer				der Käfer				the beetle
 d Brüle				die Brille				the (pair of) glasses			
 s Buäch				das Buch				the book			
 guet	guät			gut				good			
+s Huus				das Haus				the house			
 d Muus				die Maus				the mouse			
 d Füürzüüg				das Feuerzeug				the lighter			
 Lüüt				die Leute				people			
@@ -66,7 +64,6 @@ aafange				anfange				to start
 iistiige				einsteigen				to get on			
 uusstiige				aussteigen				to get off			
 bsuäche				besuchen				to visit			
-											
 de Maa				der Mann				the man			
 d Frau				die Frau				the woman			
 s Chind				das Kind				the child			
@@ -156,16 +153,16 @@ welle				wollen				to want
 ich wet				ich will				I want			
 du wetsch				du willst				you want			
 er wett				er will				he wants			
-muese	müäse			müssen				to have to			
+müese	müäse			müssen				to have to			
 ich mues	ich muäs			ich muss				I have to	I must		
 du muesch	du muäsch			du musst				you have to 	you must		
 sie mues	sie muäs			sie muss				she has to	she must		
 mir müend	mir müänd			wir müssen				we have to	we must		
 mir wend	mir wänd			wir wollen				we want			
-ich sött				ich sollte				I ought to			
-du söttsch				du solltest				you ought to			
-sie sött				sie sollte				she ought to			
-mir sölled				wir sollten				we ought to			
+ich sött				ich sollte				I ought to	I should		
+du söttsch				du solltest				you ought to	you should		
+sie sött				sie sollte				she ought to	she should		
+mir sölled				wir sollten				we ought to	we should		
 d Schtäge				die Treppe				the staircase			
 leislig				leise				quietly			
 ha	haa			haben				to have			
@@ -242,20 +239,17 @@ d Stägehuus				das Treppenhaus				the stairwll
 Ich bi de Maa, wo da wont.				Ich bin der Mann, der hier wohnt.				I am the man who lives here.	I am the man that lives here.		
 Guete-n-aabig.				Guten Abend.				Good evening.			
 Min Name-n-isch Tobler.				Mein Name ist Tobler.				My last name is Tobler.			
-											
 haisse				heissen				to be called			
 ich haisse				ich heisse				I am called			
 du haissisch				du heisst				you are called			
 sie haisst				sie heisst				she is called			
 mir haissed				wir heissen				we are called			
 ich ha ghaisst				ich habe geheisst				I was called			
-											
 ässe : to eat								to eat			
-ich isse: I eat	ich ässe			ich esse				I eat			
+ich isse	ich ässe			ich esse				I eat			
 du issisch				du esst				you eat			
 er isst				er esst				he eats			
 ich ha gässe 				ich habe gegessen				I ate			
-											
 mache				machen				to make			
 ich mache				ich mache				I make			
 du machsch				du machst				you make			
@@ -277,10 +271,8 @@ sie git				sie gibt				she gives
 mir gäbed	mir gebed			wir geben				we give			
 ich ha gää				ich habe gegeben				I gave			
 gääl				gelb				yellow			
-											
 läse				lesen				to read			
 du lissisch				du liest				you read			
-											
 läge				legen				to lay (actively) down			
 ich legge				ich lege				I lay (something) down			
 du laisch				du legst				you lay (something) down			
@@ -335,9 +327,7 @@ d Zäni								the ten (tram)
 d Elfi								the eleven (tram)			
 d Zwölfi								the twelve (tram)			
 d Zwänzgi								the twenty (tram)			
-											
 de Foifer								the five (bus)			
-											
 de Foifräppler								the five rappen coin			
 de Zäner								the ten rappen coin			
 de Zwänzger								the twenty rappen coin			
@@ -351,10 +341,7 @@ d Hunderternote								the hundred Frank note
 d Zweihunderternote								the two hundred Frank note			
 											
 d Tuusigernote								the thousand Frank note			
-											
 zwüsched zwölf und ais				zwischen zwölf und eins				between twelve (o'clock) and one (o'clock)			
-											
-											
 de Zvieri	d Zviäri							the afternoon snack			
 de Znüni	de Znüüni							the morning snack			
 de Zmittag				das Mittagessen				the lunch			
@@ -364,12 +351,10 @@ de Tessär	de Dessert			der Nachtisch	das Dessert			the dessert
 s Pule	s Poulet			das Hähnchen				the chicken			
 s Portmone	s Portmonnaie			die Brieftasche				the wallet			
 s Cheminee	s Schmine			der Kamin				the fireplace			
-											
 Ich gang go schaffe.								I'm going (somewhere) to work.			
 Ich chume go schlafe.								I'm coming to sleep.			
 Tuänd Si tschuute?	Tschutted Si?							Do you play soccer?			
 Ich tuä gärn tanze.	Ich tanze gärn.							I like to dance.			
-											
 poschte				einkaufen				to shop			
 luege				sehen	gücken			to look			
 löse				hören				to listen			
@@ -391,28 +376,19 @@ Hor uf!				Hor auf!				Stop it!
 badele								to bathe			
 sünnele								to sunbathe			
 zmorgele				frühstücken				to eat breakfast			
-											
 laa				lassen				to let			
-											
-											
-											
-											
-											
-											
 schtaa	staa			stehen				to stand			
 ich schtaa				ich stehe				I stand			
 du schtaasch				du stehst				you stand			
 er schtaat				er steht				he stands			
 mir schtönd				wir stehen				we stand			
 ich bin gschtande				ich bin gestanden				I stood			
-											
 säge				sagen				to say			
 ich säge				ich sage				I say			
 du saisch				du sagst				you say			
 er sait				er sagt				he says			
 mir säged				wir sagen				we say			
 ich ha gsait				ich habe gesagt				I said			
-											
 hoi								hello	hi		
 hoi zäme								hello (to more than one person)			
 grüezi								hello	greetings		
@@ -421,21 +397,16 @@ salut								hi
 en Guete								Bon Apetit			
 morn				morgen				tomorrow			
 am morge				am morgen				in the morning			
-											
 s Epeeri				die Erdbeere				the strawberry			
 d Bire	d Pire			die Birne				the pear			
-											
 Hani Ziit?				Habe ich Zeit?				Do I have time?			
-											
 Hatr Hunge?				Hat er Hunger?				Is he hungry?			
 Hatsi Hunger?				Hat sie Hunger?				Is she hungry?			
-											
 Wämmer go skifahre?								Shall we go and ski?			
 Gömmer go poschte?								Shall we go and shop?			
 Hammer öppis gha?				Haben wir etwas gehabt?				Did we have something?			
 Simmer verspötet?				Sind wir verspätet?				Are we late?			
 Macheder Spass?				Macht ihr Spass?				Are you (all) having fun?			
-											
 wüsse				wissen				to know (something)			
 ich waiss				ich weiss				I know (something)			
 du waisch				du weisst				you know (something)			
@@ -448,26 +419,21 @@ du nimmsch				du nimmst				you take
 er nimmt				er nimmt				he takes			
 mir nämed				wir nehmen				we take			
 ich ha gnaa				ich habe genommen				I took			
-											
 aamache : to turn on								to turn on			
 abmache								to (make) plan(s)			
 uusmache 								to turn off			
 ufmache								to open			
 vormache								to (already) plan (to)			
 zumache											
-											
 möge								to like			
 ich mag								I like			
 du magsch								you like			
 er mag								he likes			
 mir möget								we like			
-											
-											
 ich möcht								I would like to			
 du möchtisch								you would like to			
 er möcht								he would like to			
 mir möchted								we would like to			
-											
 märsi vilmal				vielen dank				thank you very much			
 sorry								excuse me			
 ade											
@@ -475,7 +441,6 @@ Uf widerluege!				Auf wiedersehen!				Goodbye!
 äbä											
 Ich schaffe z Züri.				Ich arbeite in Zürich.				I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore			Ich bin geboren				I was born			
-											
 de Härdöpfel	de Herdöpfel			der Kartoffel				the potato			
 de Öpfel				das Apfel				the apple			
 s Ross				das Pferd				the horse			
@@ -490,51 +455,35 @@ de Friitig								the Friday
 de Samschtig								the Saturday			
 de Sunntig								the Sunday			
 am Sunntig								on Sunday			
-											
 d Beiz				die Kneipe				the bar			
 d Stube	Stubä							the parlour	the lounge		
-											
 spöter				spater				later			
-											
 Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.				I'm (feeling) cold.			
-											
 ich hät gärn				Ich möchte				I would like (to order)			
-											
 i de Nochi				in der Nähe				nearby			
-											
 im Uusgang gaa								to go out (on the town)			
-											
-											
-											
 Was triibsch?								What's up?			
-											
 d Peperoni				die Paprika				the bell pepper	the capsicum pepper		
 s Glace	s Glasse			das Eis				the ice cream			
 s Guetzli				die Kekse				the cookie			
-											
 d Schoggi								the chocolate			
 s Schoggeli								the piece of chocolate			
 d Ufzgi				die Hausaufgaben				the homework			
-											
 de Flohmi	de Flohmärt			der Flohmarkt				the flea market			
-											
 s Zahni								the dentist			
-											
 de Töff				das Motorrad				the motorcycle			
-											
 gruusig	grusig			ekelhaft				gross	yucky		
-											
 zerscht				zuerst				first			
-											
 d Stange				das kleine Bier				the small beer			
-											
 um Mitternacht				am Mitternacht				at midnight			
 dihei	dihai			zuhause				at home			
 hei gaa	hei gah	hai gah		nach hause gehen				to go home			
-											
 s Trottoir								the sidewalk			
 s Trottinette	s Trotti							the (child's push) scooter			
-											
 öpper				jemand				someone	somebody		
-											
 härcho vo				kommen von				to come from			
+trinke				trinken				to drink			
+bruuche				brauchen				to need			
+Ich wett öppis feins ässe				Ich will etwas lecker essen				I want to eat something tasty			
+Ich wösch mich				Ich wasche mich				I wash myself			
+Ich wösch mich d Händ								I wash my hands			

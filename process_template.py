@@ -30,7 +30,7 @@ def _entry_to_html(entry):
             sub_html_to_join.append(
                 f"{STYLES[style][0]}{string}{STYLES[style][1]}")
         html_to_join.append(
-            " <font color='grey'>|</font> ".join(sub_html_to_join))
+            " <font color='grey'>/</font> ".join(sub_html_to_join))
         html_to_join.append("\n</td>\n")
         style += 1
     html_to_join.append("</tr>\n")
@@ -54,7 +54,7 @@ def process_template(path, entries_by_primary_key):
                 else:
                     print("WARNING: didn't find entry for primary key:",
                           primary_key_potential)
-                    lines_out.append(f'<font color="red">{line}</font>')
+                    lines_out.append(f'<tr><font color="red">{line}</font></tr>')
             elif line_stripped.startswith("<ul>"):
                 lines_out.append("<p><table>\n")
             elif line_stripped.startswith("</ul>"):

@@ -1,7 +1,3 @@
-# Many repeats..
-
-värbii : over [DE vorbei]
-
 
 zwüsched zwölf und ais : between twelve and one [no "-i" endings here!]
 vom achti bis am nuuni : from eight o'clock to nine o'clock
@@ -20,14 +16,12 @@ mit zwolfi : at age twelve
 di hei sii : to be at home
 hei gah : to go home
 enttüscht : disappointed
-me : one [DE "man", also "mer"]
 Ich schaffe vom achti bis am foifi : I work from 8 to 5
 d' Zää : the teeth
 de Vortag : the presentation
 d' Stäge : the stairs
 s' Stägehuus : the stairwell [no "treppenhaus" in CH-DE]
 ich hät gärn : I would like [no "Ich möchte" in CH-DE]
-s' Team : the team
 Nachäm eis: after one o'clock [note article, unlike DE]
 
 
@@ -76,149 +70,6 @@ schwätze : to talk, discuss
 simmer : are we
 
 Ich bi(n) go wandere : I went hiking
-Ich bi(n) go chlätter : I went climbing
-Vor zwei wuche simmer gereist : we travelled two weeks ago
-
-lässig : fun, cool, good
-
-
-öppis vorhaa : to have plans
-
-
-de : the (m. nom.)
-d : the (f. nom.)
-s : the (s. nom.)
-d : the (pl. nom.)
-
-de : the (m. acc.)
-d : the (f. acc.)
-s : the (s. acc.)
-d : the (pl. acc.)
-
-en : a (m. nom.)
-e : a (f. nom.)
-es : a (s. nom.)
-
-kain : not a (no, m. nom.)
-kai : not a (no, f. nom.)
-kais : not a (no, s. nom.)
-kai : no (neg. indef. pl. nom. article)
-
-ich (-i inv.): I
-du (- inv.): you
-er (-er inv.): he
-sie (- inv.): she
-es (-s inv.): it (neuter)
-mir (-mer inv.): we
-ihr (-er inv.): you (all)
-Sie (-s inv.) : you (formal)
-sie (-s inv.): they
-
-ich (-i inv.): I
-du (- inv.): you
-er (-er inv.): he
-sie (- inv.): she
-es (-s inv.): it (neuter)
-mir (-mer inv.): we
-ihr (-er inv.): you (all)
-Sie (-s inv.) : you (formal)
-sie (-s inv.): they
-
-mich (-mi inv.): (to) me (accusative)
-dich (-di inv.): (to) you (accusative)
-ihn (-en inv.): (to) him (accusative)
-sie (- inv.): (to) her (accusative)
-es (-s inv.): (to) it (accusative, neuter)
-eus (- inv.): (to) us (accusative)
-eu (- inv.): (to) you (all, accusative)
-sie (-s inv.): (to) them (accusative)
-
-mir (-mer inv.) : (with) me (dative)
-dir (-der inv.) : (with) you (dative)
-ihm (-em inv.) : (with) him (dative)
-ihre (-ere inv.): (with) her (dative)
-ihm (-em inv.) : (with) it (dative, neuter)
-eus (- inv.): (with) us (dative)
-eu (- inv.) : (with) you (all, dative)
-ihne (-(e)ne inv.): (with) them (dative)
-
-min Hund : my dog
-din Hund : your dog
-sin Hund : his dog
-ihre Hund : her dog
-sin Hund : its dog
-euse Hund : our dog
-eue Hune : your (pl.) dog
-ihre : their (pl.) dog
-
-mis Chind : my child
-dis Chind : your child
-sis Chind : his child
-ihres Chind : her child
-sis Chind : its child
-euses Chind : our child
-eues Chind : your (pl.) child
-Ihres Chind : their (pl.) child
-
-mini Katze : my cat
-dini Katze : your cat
-sini Katze : his cat
-Ihri Katze : her cat
-sini Katze : its cat
-eusi Katze : our cat
-eui Katze : your (pl.) cat
-Ihri Katze : their (pl.) cat
-
-mini Katzen : my cats
-dini Katzen: your cats
-sini Katzen : his cats
-Ihri Katzen : her cats
-sini Katzen : its cats
-eusi Katzen : our cats
-eui Katzen : your (pl.) cats
-Ihri Katzen : their (pl.) cats
-
-mit mim Hund : with my dog
-mit dim Hund : with you dog
-mit sim Hund : with his dog
-mit ihrem Hund : with her dog
-mit sim Hund : with its (neuter) dog
-mit eusem Hund : with our dog
-mit euse Hund: with your (pl.) dog
-mit ihrem Hund: with their (pl.) dog
-
-mit minere Katze : with my cat
-mit dinere Katze : with her cat
-mit sinere Katze : with his cat
-mit ihre(re) Katze : with her cat
-mit sinere Katze : with its (neuter) cat
-mit eusere Katze : with our cat
-mit eu(e)re Katze : with your (pl.) cat
-mit ihre(re) Katze : with their (pl.) cat
-
-mit mim Baby : with my baby
-mit dim Baby : with your baby
-mit sim Baby : with his baby
-mit ihrem Baby : with her baby
-mit sim Baby : with its (neuter) baby
-mit eusem Baby : with our baby
-mit euse Baby: with your (pl.) baby
-mit ihrem Baby: with their (pl.) baby
-
-mit mine Hünd : with my dogs
-mit dine Hünd : with your dogs
-mit sine Hünd : with his dogs
-mit ihr(n)e Hünd : with her dogs
-mit sine Hünd : with its (neuter) dogs
-mit eus(n)e Hünd : with our (pl.) dogs
-mit eu(n)e Hünd : with your (pl.) dogs
-mit ihr(n)e Hünd : with their (pl.) dogs
-
-
-mer : one (a generic person)
-
-
-
 
 no : still
 scho : already
@@ -228,12 +79,6 @@ nume : only (amount, different word from High German)
 nüme : no more
 
 Uf d Wält choo : born
-
-doch : yuh-huh (same word as High German)
-mol : yuh-huh (different word than High German)
-
-Ich schaffe bi Google : I work at Google
-
 
 vo wo : where from
 wo : where
@@ -421,125 +266,14 @@ Ehrlichkeit währt am Längschte - "honesty counts the longest"
 Am Mantig am halbi zahni treffi mit mim Chef
 Am vieri assi -n- e kekse im Microkitchen
 
-Am ziestig
-Am drüü am nahmitag bsuechi d Apotheke, um e-n-Impfig z bekommä
-
-Am mittwuch Morge gahni go poschte
-Am mittwuch aabig gahni is kino
-
-Am donnerstig
-
-mer : one (a generic person)
-de See : the lake
-s Meer : the ocean
-
-d Täg : (the) day
-de Mäntig : (the) Monday
-de Zieschtig : (the) Tuesday
-de Mittwuch : (the) Wednesday
-de Dunschtig : (the) Thursday
-de Friitig : (the) Friday
-de Samschtig : (the) Saturday
-de Sunntig : (the) Sunday
-am Sunntig : on Sunday
-
-de Monät : the month
-d Monäteö : the months
-de Januar : (the) January
-de Februar : (the) February
-de März : (the) March
-de April : (the) April
-de Mai : (the) May
-de Juni : (the) June
-de Juli : (the) July
-de Auguscht : (the) August
-de Septämber : (the) September
-de Oktober : (the) October
-de Novämber : (the) November
-de Dezämber : (the) December
-im Dezember : in December
-
-d Jahreszit : the season (of the year)
-d Jahrzite : the seasons (of the year)
-de Summer : (the) summer
-de Herbscht : (the) fall
-de Winter : (the) winter
-de Früehlig : (the) spring
-im Frühlig : in spring
 
 Ich ha erst zwei Franke verdient : I only earned two Franks
 Ich ha nur zwei Franke : I only have two Franks
 
 Uf d Wält choo : born
 
-doch : yuh-huh (same word as High German)
-mol : yuh-huh (different word than High German)
-
 mängisch : sometimes
 
-null : zero
-ais : one
-zwai : two
-drüü : three
-viär : four
-foif : five
-sächs : six
-sibe : seven
-acht : eight
-nüün : nine
-zä : ten
-elf : eleven
-zwölf : twelve
-drizä : thirteen
-viärzä : fourteen
-füfzä : fifteen
-sächzä : sixteen
-sibezä : seventeen
-achzä : eighteen
-nünzä : nineteen
-zwänzg : twenty
-ainezwänzg : twenty-one
-drüüezwänzg: twenty-three
-foifezwänzg : twenty-five
-driisg : thirty
-viärzg : forty
-füfzg : fifty
-sächzg : sixty
-sibezg : seventy
-achzg : eighty
-nüünedachzg : eighty-nine
-hundert : one hundred
-tuusig : one thousand
-
-d Ais : the one (tram)
-d Zwai : the two (tram)
-d Drüü : the three (tram)
-d Viäri : the four (tram)
-d Foifi : the five (tram)
-d Sächsi : the six (tram)
-d Sibeni : the seven (tram)
-d Achti : the eight (tram)
-d Nüüni : the nine (tram)
-d Zäni : the ten (tram)
-d Elfi : the eleven (tram)
-d Zwölfi : the twelve (tram)
-d Zwänzgi : the twenty (tram)
-
-de Foifer : the five (bus)
-
-de Foifräppler : the five rappen coin
-de Zäner : the ten rappen coin
-de Zwänzger : the twenty rappen coin
-de Füfzger : the fifty rappen coin
-de Aifränkler : the one Frank coin
-de Foifliiber : the five Frank coin
-d Zänernote : ten Frank note
-d Zwänzgernote : the twenty Frank note
-d Füfzgernote : the fifty Frank note
-d Hunderternote : the hundred Frank note
-d Zweihunderternote : the two hundred Frank note
-
-d Tuusigernote : the thousand Frank note
 
 vo wo : where from
 wo : where
@@ -698,20 +432,6 @@ d Schtund : the hour
 d Minute : the minute
 d Sekunde : the second
 
-Schii fare : to ski
-wandäre : to hike
-poschte : to do grocery (?)
-sörfe : to do windsurfing
-schwüme : to swim
-raise : to travel
-schpaziäre : to go fror a walk
-Velo faare : to drive the bicycle
-
-Das Jahr : this year
-Dä Fritig : this Friday
-Die Woche : this week
-
-Ich lüte am Andrej grad ah : I will call Andrej right now
 
 er find sie lässig : he has a crush on her, he likes her
 
