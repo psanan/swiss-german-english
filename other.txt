@@ -1,9 +1,0 @@
-# Non-verb, Non-noun, Non-phrase
-# meaning articles, prepositions, particles, conjunctions, etc.
-
-
-
-
-die : this [diese]
-däm : this [dative, diesem]
-

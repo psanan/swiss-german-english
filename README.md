@@ -16,6 +16,7 @@ TODO for guide
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]
   </ul>
 <li> Write scripts to generate flashcards (and quiz?) from tsv output from processing this file
+<li> Connect to Anki?
 <li> Publish and get feedback!
 <li> Think about chopping audio from the Swissing material and/or Luana mulirama podcasts! (wont' be complete, but audio clips are essential here..) (would be useful to go through that, anyhow)
 </ul>
