@@ -25,6 +25,9 @@ to learn Swiss German.
 
 2. A guide presenting a small subset of these to bring understanding of Swiss German closer to understanding of High German
 
+If you (especially if you're a native Zürich Swiss German speaker)
+find a mistake in one of the guides, please open an issue or pull request for this repository.
+
 ## Sources
 
 <ul>
@@ -37,7 +40,7 @@ to learn Swiss German.
 
 This repository includes the data and logic to generate guides for learning, reference, and practice.
 
-* TODO: link to Guide. Word list. and/or Flashcards.
+*  [Swiss German in N examples](swiss-german-english-guide.html)
 
 ## Scope and data conventions
 
@@ -49,12 +52,6 @@ We present a curated set of examples to cover as much of the difference between
 High German and Zürich Swiss German as possible.
 
 It's not a complete reference or dictionary.
-It's not gentle - it expects you
-to think critically about the examples, which may demonstrate more than one
-concept.  The aim is, however, that it's 100% accurate, to the extent that the language is even well-defined.
-I am 100% sure I have not attained
-this goal. If you (especially if you're a native Zürich Swiss German speaker)
-find a mistake, please open an issue or pull request for this repository.
 
 Interesting usage and differences from High German should be shown, not told.
 Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to

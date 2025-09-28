@@ -20,6 +20,10 @@ HEADER= """
 
 FOOTER="</body></html>"
 
+TEMPLATE_FILENAME="swiss-german-english-guide.template.html"
+VOCABULARY_FILENAME="swiss-german-english-guide-vocabulary.tsv"
+TRANSLATIONS_FILENAME="translations.tsv"
+
 def _entry_to_html(entry):
     style = 0
     html_to_join = ["<tr>\n"]
@@ -73,14 +77,13 @@ def process_template(path, entries_by_primary_key):
 
 
 if __name__ == "__main__":
-    entries = file_io.entries_from_tsv("translations.tsv")
+    entries = file_io.entries_from_tsv(TRANSLATIONS_FILENAME)
     entries_by_primary_key = file_io.entries_by_primary_key(entries)
-    html_output_path, found_entries_by_primary_key = process_template("guide.template.html",
+    html_output_path, found_entries_by_primary_key = process_template(TEMPLATE_FILENAME,
                                                     entries_by_primary_key)
     print(f"Found {len(found_entries_by_primary_key)} entries.")
     print(f"Output to {html_output_path}")
 
-    vocabulary_output_filename = "guide_vocabulary.tsv"
     file_io.tsv_from_entries(found_entries_by_primary_key.values(),
-                             vocabulary_output_filename)
-    print(f"Output to {vocabulary_output_filename}")
+                             VOCABULARY_FILENAME)
+    print(f"Output to {VOCABULARY_FILENAME}")
