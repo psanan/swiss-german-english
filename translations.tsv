@@ -33,14 +33,15 @@ zrugg				zurück				back
 de Schtärn				der Stern				the star			
 schpile				spielen				to play			
 de Gascht				der Gast				the guest			
-de Puure				der Bauer				the farmer			
+de Puure	de Puur			der Bauer				the farmer			
 Dütsch	Tütsch			Deutsch				German			
 d Liecht				die Licht				the light			
 Wiä bitte?	Wie bitte?			Wie bitte?				I beg your pardon?			
 de Spiegel				der Spiegel				the mirror			
 tüüf				tief				deep			
 dur				durch				through			
-Wiä gaats?	Wie gaats?			Wie geht's?				How are you?			
+Wiä gaats?	Wie gaats?			Wie geht's?				How are you?	How's it going?		
+Wiä läbsch?	Wie lebsch?			Wie geht's?				How are you?	How's it going?		
 schlächt				schlecht				bad			
 de Chäfer				der Käfer				the beetle			
 d Brüle				die Brille				the (pair of) glasses			
@@ -150,7 +151,7 @@ sie dörf				sie darf				she is allowed to
 mir dörfed				wir dürfen				we are allowed to			
 welle				wollen				to want			
 ich wet				ich will				I want			
-du wetsch				du willst				you want			
+du wetsch	du wotsch	du wötsch		du willst				you want			
 er wett				er will				he wants			
 müese	müäse			müssen				to have to			
 ich mues	ich muäs			ich muss				I have to	I must		
@@ -163,6 +164,7 @@ du söttsch				du solltest				you ought to	you should
 sie sött				sie sollte				she ought to	she should		
 mir sölled				wir sollten				we ought to	we should		
 d Schtäge				die Treppe				the staircase			
+s Schtägehuus				das Treppenhaus				the stairwell	the stairs		
 leislig				leise				quietly			
 ha	haa			haben				to have			
 ich ha				ich habe				I have			
@@ -222,7 +224,7 @@ Ich chume grad.				Ich komm gleich.				I'm coming right away.
 fain				lecker				tasty			
 mega											
 geil											
-sust	susch			sonst				otherwise			
+sust	susch	suscht		sonst				otherwise			
 nöd				nicht				not			
 nüt				nichts				nothing			
 mängisch	mängmal			manchmal				sometimes			
@@ -293,7 +295,7 @@ zä				zehn				ten
 elf				elf				eleven			
 zwölf				zwölf				twelve			
 drizä				dreizehn				thirteen			
-viärzä				vierzehn				fourteen			
+viärzä	vierzä			vierzehn				fourteen			
 füfzä				fünfzeh				fifteen			
 sächzä				sechzehn				sixteen			
 sibezä				siebzehn				seventeen			
@@ -304,7 +306,7 @@ ainezwänzg				einundzwanzig				twenty-one
 drüüezwänzg				dreiundzwanzig				twenty-two			
 foifezwänzg				fünfundzwanzig				twenty-five			
 driisg				dreissig				thirty			
-viärzg				vierzig				forty			
+viärzg	vierzg			vierzig				forty			
 füfzg				fünfzig				fifty			
 sächzg				sechzig				sixty			
 sibezg				siebzig				seventy			
@@ -316,7 +318,7 @@ tuusig				eintausend				one thousand
 d Ais	d Eis							the one (tram)			
 d Zwai								the two (tram)			
 d Drüü								the three (tram)			
-d Viäri								the four (tram)			
+d Viäri	d Vieri							the four (tram)			
 d Foifi								the five (tram)			
 d Sächsi								the six (tram)			
 d Sibeni								the seven (tram)			
@@ -341,11 +343,14 @@ d Zweihunderternote								the two hundred Frank note
 											
 d Tuusigernote								the thousand Frank note			
 zwüsched zwölf und ais				zwischen zwölf und eins				between twelve (o'clock) and one (o'clock)			
+Ich bin drüü				Ich bin drei Jahre alt.				I am three.	I am three years old.		
+Ich bin vieri				Ich bin vier Jahre alt.				I am four.	I am four years old.		
 de Zvieri	d Zviäri							the afternoon snack			
 de Znüni	de Znüüni							the morning snack			
 de Zmittag				das Mittagessen				the lunch			
 de Zmorge				das Frühstuck				breakfast			
 de Znacht				das Abendessen				dinner	supper		
+nachem Eis				nach Ein Uhr.				After one.	After one o'clock.		
 de Tessär	de Dessert			der Nachtisch	das Dessert			the dessert			
 s Pule	s Poulet			das Hähnchen				the chicken			
 s Portmone	s Portmonnaie			die Brieftasche				the wallet			
@@ -417,7 +422,7 @@ ich nää				ich nehme				I take
 du nimmsch				du nimmst				you take			
 er nimmt				er nimmt				he takes			
 mir nämed				wir nehmen				we take			
-ich ha gnaa				ich habe genommen				I took			
+ich ha gnaa	ich ha gnoo			ich habe genommen				I took			
 aamache : to turn on								to turn on			
 abmache								to (make) plan(s)			
 uusmache 								to turn off			
@@ -459,7 +464,7 @@ d Stube	Stubä							the parlour	the lounge
 spöter				spater				later			
 Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.				I'm (feeling) cold.			
 ich hät gärn				Ich möchte				I would like (to order)			
-i de Nochi				in der Nähe				nearby			
+i de Nöchi				in der Nähe				nearby			
 im Uusgang gaa								to go out (on the town)			
 Was triibsch?								What's up?			
 d Peperoni				die Paprika				the bell pepper	the capsicum (pepper)		
@@ -490,3 +495,36 @@ s Chnüü				das Knie				the knee
 lässig				lässig				cool	fun		
 bsueche	bsuäche			besuchen				to visit			
 s Muul				der Mund				the mouth			
+Du froischdi								You enjoy yourself			
+Ich rasiärmi hütt nöd								I don't shave today			
+Ich wäschmer hütt d Haar nöd								I don't wash my hair today			
+Wiä oft putzischder d Zää?								How often do you brush your teeth?			
+fröge				fragen				to ask			
+ghöre				horen				to hear (passively)			
+eifach				einfach				simple	easy		
+use				nach drausen	hinaus 			out	outside		
+duse				draussen				outside			
+Ich bin obe				Ich bin oben							
+Ich bin abe				Ich bin unten							
+Ich gang ufe											
+Ich gang abe											
+Ich bin über de Bode											
+Ich bin under de Bode											
+am Mittwuch				am Mittwoch	Mittwochs			on Wednesday	(on) Wednesdays		
+dä Maa				deiser Mann				this man			
+diä Frau				diese Frau				this woman			
+das Chind				dieses Kind				this child			
+diä Chind				diese Kinder				these children			
+mit däm Maa				mit diesem Mann				with this man			
+mit dere Frau				mit dieser Frau				with this woman			
+mit däm Chind				mit diesem Kind				with this child			
+mit däne Chind				mit diesen Kindern				with these children			
+Es chunt druf aa.								It depends.			
+d Lampene	d Lampe			die Lampe				the lamps			
+d Bäum				die Bäume				the trees			
+d Büecher				die Bücher				the books			
+d Fraue				die Frauen				the women			
+											
+Du froischdi.				Du freust dich.				You are happy. 	You are glad.		
+Ich rasiärmi hütt nöd.				Ich rasiere mich heute nicht.				I don't shave today.			
+Ich wäschmer hütt d Haar nöd.				I wasche mich die Haare heute nicht.				I don't wash my hair today.			

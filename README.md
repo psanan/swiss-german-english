@@ -2,7 +2,6 @@ TODO for guide
 <ul>
 <li> Iterate until happy
   <ul>
-    <li> Convert/include existing .txt files and remove them (go through one entry at a time!)
     <li> Resolve all TODOs in text
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> The guide should be max 2N lines
@@ -11,12 +10,11 @@ TODO for guide
     <li> Fiddle with appearance
     <ul>
     <li> Tables?
-    <li> Add compliation of supporting e.g. cha(n)? (Would just require you to be able to match cha and chan to cha(n) but entries would otherwise just be cha(n)?)
     </ul>
-    <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]
+    <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
   </ul>
-<li> Write scripts to generate flashcards (and quiz?) from tsv output from processing this file
-<li> Connect to Anki?
+<li> A way to get flashcards. Either wwrite scripts to generate flashcards from tsv output from processing this file, or get it work with a data dump and something FOSS like Anki.
+<li> Move the whole thing to psanan.github.io repo?
 <li> Publish and get feedback!
 <li> Think about chopping audio from the Swissing material and/or Luana mulirama podcasts! (wont' be complete, but audio clips are essential here..) (would be useful to go through that, anyhow)
 </ul>
@@ -36,7 +34,6 @@ to learn Swiss German.
 <li> A1 Swiss German lectures and course materials from <a href="https://swissing.ch/">Swissing</a>
 <li> <a href="https://www.sergiojlievano.com/hoi">Hoi! Your Swiss German Survival Guide</a>
 <li> <a href="https://eldrid.ch/switzerland.htm">Eldrid's Swiss German pages</a>
-<li> My own experience living in Zurich (unreliable) and information from my 4-year old (fluent, but also unreliable).
 </ul>
 
 ## Guides
@@ -47,21 +44,27 @@ This repository includes the data and logic to generate guides for learning, ref
 
 ## Scope and data conventions
 
-The main data source is [translations.tsv](./translations.tsv).
-
-This is a curated set of examples to help someone (roughly like me) learn.
-It's not a complete reference or dictionary.
-
-Rather, it's aggressively example-based.  The underlying data is a small set of
+The main data source is [translations.tsv](./translations.tsv), a small set of
 translations of Swiss German strings to English and optionally High German
 ones.
+
+We present a curated set of examples to cover as much of the difference between
+High German and Zürich Swiss German as possible.
+
+It's not a complete reference or dictionary.
+It's not gentle - it expects you
+to think critically about the examples, which may demonstrate more than one
+concept.  The aim is, however, that it's 100% accurate, to the extent that the language is even well-defined.
+I am 100% sure I have not attained
+this goal. If you (especially if you're a native Zürich Swiss German speaker)
+find a mistake, please open an issue or pull request for this repository.
 
 Interesting usage and differences from High German should be shown, not told.
 Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
 me", include entries like "mir sind" and "mit mir".
 
 A given Swiss German string should only appear in a single entry. Entries can
-have multiple strings in each language.  Any of the English or High German
+have multiple strings in each language. Not tabs are allowed. Any of the English or High German
 strings must be a valid translation of any of the Swiss German strings.  This
 covers variations both in spelling (which should only be relevant for Swiss German),
 interchangeable strings in the source language (e.g. "doch" and "moll" in Swiss
@@ -71,17 +74,18 @@ Strings should not be capitalized, except for
 * Full sentences (which should then end with punctuation)
 * Words which are always capitalized
 
-Parenthesized expressions should generally be avoided in the examples, preferring
-examples which don't require them, or multiple valid translations. If included,
-entries should be valid as if individual strings with and without the parenthetical expressions (up to a space) were included.
+Parenthesized expressions should generally be avoided in the examples,
+preferring examples which don't require them, or multiple valid translations.
+If included, entries should be valid, up to whitespace, as if individual
+strings with and without the parenthetical expressions were included.
 
-We try to be consistent with Swiss German orthography, but do aspire to perfection.
-In general, we choosing between equally-valid spelling options, we prefer:
+This guide is not self-consistent with respect to Swiss German orthography.
+In general, when choosing between equally-valid spelling options, prefer:
 
 - shorter forms over longer ones
-- "aa" over "ah"
-- "e" over "ä"
-- "o" over "oo"
-- "oi" over "eu"
-- "d" over "t"
-- "b" over "p"
+- "aa" over "ah" (gaats)
+- "e" over "ä" (wie)
+- "o" over "oo" (cho)
+- "oi" over "eu" (ois)
+- "d" over "t" (Dütsch)
+- "b" over "p" (Bire)
