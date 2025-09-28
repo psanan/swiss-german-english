@@ -2,7 +2,7 @@ TODO for guide
 <ul>
 <li> Iterate until happy
   <ul>
-    <li> Resolve all TODOs in text
+    <li> Resolve all vocab TODOs in guide text
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> The guide should be max 2N lines
     <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
@@ -14,6 +14,7 @@ TODO for guide
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
   </ul>
 <li> A way to get flashcards. Either wwrite scripts to generate flashcards from tsv output from processing this file, or get it work with a data dump and something FOSS like Anki.
+<li> Any stray TODOs anywhere in the repo
 <li> Move the whole thing to psanan.github.io repo?
 <li> Publish and get feedback!
 <li> Think about chopping audio from the Swissing material and/or Luana mulirama podcasts! (wont' be complete, but audio clips are essential here..) (would be useful to go through that, anyhow)
