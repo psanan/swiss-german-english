@@ -10,9 +10,7 @@ TODO for guide
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
   </ul>
 <li> Any stray TODOs anywhere in the repo
-<li> Get feedback on GitHub version
-<li> Move to final location at patricksanan.org (just include in github.io repo?)
-<li> Think about chopping audio from the Swissing material and/or Luana mulirama podcasts! (wont' be complete, but audio clips are essential here..) (would be useful to go through that, anyhow)
+<li> Deploy and get feedback
 </ul>
 
 # Swiss German to English
