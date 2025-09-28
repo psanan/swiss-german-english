@@ -2,15 +2,11 @@ TODO for guide
 <ul>
 <li> Iterate until happy
   <ul>
-    <li> Resolve all vocab TODOs in guide text
-    <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
+    <li> Resolve last vocab TODOs in text
+    <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!). Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
     <li> The guide should be max 2N lines
-    <li> Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
     <li> Simplify translation by chooisng conventions (see below) and removing distracting duplicates (e.g. "e" vs "ä" variants, etc.)
-    <li> Fiddle with appearance
-    <ul>
-    <li> Tables?
-    </ul>
+    <li> Fiddle with appearance ("p" tags not consistent, leads to bad spacing)
     <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
   </ul>
 <li> A way to get flashcards. Either wwrite scripts to generate flashcards from tsv output from processing this file, or get it work with a data dump and something FOSS like Anki.
