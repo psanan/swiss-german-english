@@ -2,7 +2,7 @@ TODO for guide
 <ul>
 <li> Iterate until happy
   <ul>
-    <li> Convert/include existing .txt files and remove them
+    <li> Convert/include existing .txt files and remove them (go through one entry at a time!)
     <li> Resolve all TODOs in text
     <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!)
     <li> The guide should be max 2N lines
