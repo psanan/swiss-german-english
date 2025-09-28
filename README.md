@@ -37,8 +37,6 @@ find a mistake in one of the guides, please open an issue or pull request for th
 
 ## Guides
 
-This repository includes the data and logic to generate guides for learning, reference, and practice.
-
 *  [Swiss German in N examples](swiss-german-english-guide.html)
 
 ## Scope and data conventions
@@ -47,10 +45,8 @@ The main data source is [translations.tsv](./translations.tsv), a small set of
 translations of Swiss German strings to English and optionally High German
 ones.
 
-We present a curated set of examples to cover as much of the difference between
-High German and Zürich Swiss German as possible.
-
-It's not a complete reference or dictionary.
+It's not a complete reference or dictionary, including only examples used in the
+current guide(s) above and potential future ones.
 
 Interesting usage and differences from High German should be shown, not told.
 Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
