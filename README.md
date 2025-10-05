@@ -43,7 +43,7 @@ The main data source is [translations.tsv](./translations.tsv), a small set of
 translations of Swiss German strings to English and optionally High German
 ones.
 
-It's not a complete reference or dictionary, including only examples used in the
+It's not a complete reference or dictionary. It includes examples used in the
 current guide(s) above and potential future ones.
 
 Interesting usage and differences from High German should be shown, not told.
@@ -51,11 +51,12 @@ Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
 me", include entries like "mir sind" and "mit mir".
 
 A given Swiss German string should only appear in a single entry. Entries can
-have multiple strings in each language. Not tabs are allowed. Any of the English or High German
-strings must be a valid translation of any of the Swiss German strings.  This
-covers variations both in spelling (which should only be relevant for Swiss German),
-interchangeable strings in the source language (e.g. "doch" and "moll" in Swiss
-German), and multiple valid translations in the target languages.
+have multiple strings in each language. No tabs or slashes are allowed. Any of
+the English or High German strings must be a valid translation of any of the
+Swiss German strings.  This covers variations both in spelling (which should
+only be relevant for Swiss German), interchangeable strings in the source
+language (e.g. "doch" and "moll" in Swiss German), and multiple valid
+translations in the target languages.
 
 Strings should not be capitalized, except for
 * Full sentences (which should then end with punctuation)
