@@ -2,9 +2,8 @@ TODO for guide
 <ul>
 <li> Iterate until happy
   <ul>
-    <li> Resolve last vocab TODOs in text
     <li> Iterate on content, aiming to sharpen, focus, distill.
-    <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!). Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples.)
+    <li> Fix N (500? 444? 333? Less even?) and cut down (make each entry count!). Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples, but don't simple make the examples longer)
     <li> Make sure guide is max 2N lines
     <li> Fill in missing entries and otherwise polish
     <li> Simplify translation by chooisng conventions (see below) and removing distracting duplicates (e.g. "e" vs "ä" variants, etc.)
