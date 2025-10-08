@@ -10,7 +10,7 @@ ich chan	ich cha		ich kann			I am able to	I can
 au			auch			also			
 no	na		noch			still			
 mit oi	mit eu		mit euch			with you (all)			
-dur			durch			through			
+dur	dure		durch			through			
 Züri			Zürich			Zurich			
 äntli			endlich			finally			
 welles			welches			which			
@@ -25,18 +25,20 @@ de Schtärn			der Stern			the star
 geschter			gestern			yesterday			
 du bisch			du bist			you are			
 er isch			er ist			he is			
-schpile			spielen			to play			
 de Gascht			der Gast			the guest			
+schpile			spielen			to play			
 de Puure	de Puur		der Bauer			the farmer			
 Dütsch	Tütsch		Deutsch			German			
 dörfe	törfe		durfen			to be allowed to			
 d Liecht			die Licht			the light			
 Wiä bitte?	Wie bitte?		Wie bitte?			I beg your pardon?			
 de Spiegel			der Spiegel			the mirror			
+nie			nie			never			
 tüüf			tief			deep			
 Wiä gaats?	Wie gaats?		Wie geht's?			How are you?	How's it going?		
 schlächt			schlecht			bad			
 de Chäfer			der Käfer			the beetle			
+de Chäs	de Chääs		der Käse			the cheese			
 d Brüle			die Brille			the (pair of) glasses			
 s Buäch			das Buch			the book			
 guet	guät		gut			good			
@@ -45,7 +47,7 @@ s Huus			das Haus			the house
 bruuche			brauchen			to need			
 hütt			heute			today			
 Lüüt			die Leute			people			
-d Füürzüüg			das Feuerzeug			the lighter			
+s Füürzüüg			das Feuerzeug			the lighter			
 sii	si		sein			to be			
 d Ziit			die Zeit			the time			
 bi ois			bei uns			at our place			
@@ -76,8 +78,8 @@ mit em Maa			mit dem Mann			with the man
 mit de Frau			mit der Frau			with the woman			
 mit em Chind			mit dem Kind			with the child			
 mit de Chind			mit den Kinder			with the children			
-mit emene Maa	miteme Maa		mit einem Mann			with a man			
-mit enere Frau	mitere Frau		mit einer Frau			with a woman			
+mit emene Maa	miteme Maa	mitemene Maa	mit einem Mann			with a man			
+mit enere Frau	mitere Frau	mitenere Frau	mit einer Frau			with a woman			
 mit emene Chind			mit einem Chind			with a child			
 mit Chind			mit Kinder			with children			
 sie isch	si isch		sie ist			she is			
@@ -100,13 +102,13 @@ mit ois			mit uns			with us
 mit ine			mit ihnen			with them			
 Hani Ziit?			Habe ich Zeit?			Do I have time?			
 Häsch Hunger?	Häsch du Hunger?		Hast du Hunger?			Are you hungry?			
-Hatr Hunge?			Hat er Hunger?			Is he hungry?			
-Hatsi Hunger?			Hat sie Hunger?			Is she hungry?			
+Hätr Hunger?			Hat er Hunger?			Is he hungry?			
+Hätsi Hunger?			Hat sie Hunger?			Is she hungry?			
 Wämmer go skifahre?						Shall we go and ski?			
 Gömmer go poschte?						Shall we go and shop?			
-Hammer öppis gha?			Haben wir etwas gehabt?			Did we have something?			
+Hämmer öppis gha?			Haben wir etwas gehabt?			Did we have something?			
 Simmer verspötet?			Sind wir verspätet?			Are we late?			
-Macheder Spass?			Macht ihr Spass?			Are you (all) having fun?			
+Händr Spass?			Habt ihr Spass?			Are you (all) having fun?			
 Du froischdi.			Du freust dich.			You are happy.	You are glad.		
 Ich rasiärmi hütt nöd.			Ich rasiere mich heute nicht.			I don't shave today.			
 Ich wäschmer hütt d Haar nöd.			I wasche mich die Haare heute nicht.			I don't wash my hair today.			
@@ -128,7 +130,7 @@ iri Chind			ihre Kinder			her children
 mit irem Maa			mit ihrem Mann			with her husband			
 mit irere Frau			mit ihrer Frau			with her wife			
 mit irem Chind			mit ihrem Kind			with her child			
-mit iren Chind			mit ihren Kinder			with her children			
+mit ire Chind			mit ihren Kinder			with her children			
 oise Maa			unser Mann			our husband			
 oije Maa			eurer Mann			your (all's) husband			
 dä Maa			deiser Mann			this man			
@@ -140,9 +142,9 @@ mit dere Frau			mit dieser Frau			with this woman
 mit däm Chind			mit diesem Kind			with this child			
 mit däne Chind			mit diesen Kindern			with these children			
 de gross Maa	de grossi Maa		der grosse Mann			the big man			
-d gross Frau	d grossi Frau		die grosse Frau			the big woman			
+di gross Frau	di grossi Frau		die grosse Frau			the big woman			
 s alte Huus			das alte Haus			the old house			
-d grosse Chind			die grossen Kinder			the big children			
+di grosse Chind			die grossen Kinder			the big children			
 en grosse Maa			ein grosser Mann			a big man			
 e grossi Frau			eine grosse Frau			a big woman			
 es alts Huus			ein altes Haus			an old house			
@@ -170,7 +172,7 @@ mit minere grosse Frau			mit meiner grossen Frau			with my big wife
 mit mim grosse Chind			mit meinem grossen Kind			with my big child			
 mit mine grosse Chind			mit meinen grossen Kinder			with my big children			
 Ich gang go schaffe.						I'm going (somewhere) to work.			
-Ich chume go schlafe.						I'm coming to sleep.			
+Ich chume zu dir go schlafe.						I'm coming to yours to sleep.	I'm coming to your place to sleep.		
 Ich bi de Maa, wo da wont.			Ich bin der Mann, der hier wohnt.			I am the man who lives here.	I am the man that lives here.		
 Tuänd Si tschuute?	Tschutted Si?					Do you play soccer?			
 Ich tuä gärn tanze.	Ich tanze gärn.					I like to dance.			
@@ -196,7 +198,7 @@ du chasch			du kannst			you are able to	you can
 er chan	er cha		er kann			he is able to	he can		
 mir chönd			wir können			we are able to	we can		
 ich ha chöne									
-ich dörf	ich törf		ich darf			I am allowed to			
+ich dörf	ich törf	ich döf	ich darf			I am allowed to			
 du dörsch	du törfsch		du darfst			you are allowed to			
 sie dörf			sie darf			she is allowed to			
 mir dörfed			wir dürfen			we are allowed to			
@@ -217,7 +219,7 @@ gää	gäh		geben			to give
 ich gib			ich gebe			I give			
 du gisch			du gibst			you give			
 sie git			sie gibt			she gives			
-mir gäbed	mir gebed		wir geben			we give			
+mir gäbed	mir gebed	mir gähnd	wir geben			we give			
 ich ha gää			ich habe gegeben			I gave			
 ha	haa		haben			to have			
 ich ha			ich habe			I have			
@@ -225,18 +227,18 @@ du hesch	du häsch		du hast			you have
 er het	er hät		er hat			he has			
 mir hend	mir händ		wir haben			we have			
 ich ha gha			ich habe gehabt			I had			
-läge			legen			to lay (actively) down			
+lägge			legen			to lay (actively) down			
 ich legge			ich lege			I lay (something) down			
 du laisch			du legst			you lay (something) down			
 er lait			er legt			he lays (something) down			
 mir legged			wir legen			we lay (something) down			
 ich ha gleit			ich ha gelegt			I laid (something) down			
 müese	müäse		müssen			to have to			
-ich mues	ich muäs		ich muss			I have to	I must		
+ich mues	ich muäs	ich muen	ich muss			I have to	I must		
 du muesch	du muäsch		du musst			you have to	you must		
-sie mues	sie muäs		sie muss			she has to	she must		
+sie mues	sie muäs	sie muen	sie muss			she has to	she must		
 mir müend	mir müänd		wir müssen			we have to	we must		
-ich ha mese	ich ha müäse		ich habe müssen			I had to			
+ich ha müese	ich ha müäse		ich habe müssen			I had to			
 nää			nehmen			to take			
 ich nää			ich nehme			I take			
 du nimmsch			du nimmst			you take			
@@ -262,15 +264,19 @@ sie waiss			sie weisst			she knows (something)
 mir wüssed			wir wissen			we know (something)			
 ich ha gwüsst			ich habe gewusst			I knew (something)			
 welle			wollen			to want			
-ich wet			ich will			I want			
+ich wett			ich will			I want			
 du wetsch	du wotsch	du wötsch	du willst			you want			
 er wett			er will			he wants			
 mir wend	mir wänd		wir wollen			we want			
 ich ha welle			ich haben wollen			I wanted			
+ich sölle			ich solle						
+du söllsch			du sollst						
+er söll			er soll						
+mir sölled			wir sollen						
 ich sött			ich sollte			I ought to	I should		
 du söttsch			du solltest			you ought to	you should		
 sie sött			sie sollte			she ought to	she should		
-mir sölled			wir sollten			we ought to	we should		
+mir sötted			wir sollten			we ought to	we should		
 aalüte						to call (on the phone)			
 poschte			einkaufen			to shop			
 pfuuse	schlafe		schlafen			to sleep			
@@ -290,9 +296,10 @@ härcho vo			kommen von			to come from
 laa			lassen			to let			
 abziä						to take off (clothes)			
 gumpe			springen			to jump			
-badele						to bathe			
+bädele	bedele					to bathe (leisurely)			
 sünnele						to sunbathe			
-zmorgele			frühstücken			to eat breakfast			
+zmörgele			frühstücken			to eat breakfast (leisurely)			
+käffele						to drink coffee (leisurely)			
 null			null			zero			
 ais	eis		eins			one			
 zwai	zwei		zwei			two			
@@ -328,19 +335,19 @@ hundert			hundert			one hundred
 tuusig			eintausend			one thousand			
 Ich bin drüü			Ich bin drei Jahre alt.			I am three.	I am three years old.		
 Ich bin vieri			Ich bin vier Jahre alt.			I am four.	I am four years old.		
-d Ais	d Eis					the one (tram)			
-d Zwai						the two (tram)			
-d Drüü						the three (tram)			
-d Viäri	d Vieri					the four (tram)			
-d Foifi						the five (tram)			
-d Sächsi						the six (tram)			
-d Sibeni						the seven (tram)			
-d Achti						the eight (tram)			
-d Nüüni	d Nüni					the nine (tram)			
-d Zäni						the ten (tram)			
-d Zwänzgi						the twenty (tram)			
+s Ais	s Eis					the one (tram)			
+s Zwai						the two (tram)			
+s Drüü						the three (tram)			
+s Viäri	s Vieri					the four (tram)			
+s Foifi						the five (tram)			
+s Sächsi						the six (tram)			
+s Sibeni						the seven (tram)			
+s Achti						the eight (tram)			
+s Nüüni	s Nüni					the nine (tram)			
+s Zäni						the ten (tram)			
+s Zwänzgi						the twenty (tram)			
 de Foifer						the five (bus)			
-de Znüni	de Znüüni					the morning snack			
+de Znüni	de Znüüni	s Znüni				the morning snack			
 de Zvieri	d Zviäri					the afternoon snack			
 Am viertel ab zwölfi isster Zmittag.			Um viertel nach zwölf isst er zu Mittag.			At quarter past twelve, he eats lunch.			
 zwüsched zwölf und ais			zwischen zwölf und eins			between twelve (o'clock) and one (o'clock)			
@@ -356,7 +363,7 @@ märsi vilmal			vielen dank			thank you very much
 sorry						excuse me			
 ade									
 Uf widerluege!			Auf wiedersehen!			Goodbye!			
-Hor uf!			Hor auf!			Stop it!			
+Hör uf!			Hör auf!			Stop it!			
 Ich ha chalt.	Ich ha kalt.		Es ist mir kalt.			I'm (feeling) cold.			
 ich hät gärn			Ich möchte			I would like (to order)			
 i de Nöchi			in der Nähe			nearby			
@@ -364,7 +371,7 @@ Was triibsch?						What's up?
 im Uusgang gaa						to go out (on the town)			
 Was isch für Ziit?			Wie Uhr ist es?			What time is it?			
 Ich chume grad.			Ich komm gleich.			I'm coming right away.			
-äbä									
+äbä			eben						
 hei gaa	hei gah	hai gah	nach hause gehen			to go home			
 dihei	dihai		zuhause			at home			
 morn			morgen			tomorrow			
@@ -438,9 +445,6 @@ Ich gang ufe.
 Ich gang abe.									
 Ich bin über de Bode.									
 Ich bin under de Bode.									
-duse			draussen			outside			
-use			nach drausen	hinaus		out	outside		
-dune			da unten			downstairs			
 nüt			nichts			nothing			
 nöd			nicht			not			
 nüme			nicht mehr			no more	not anymore		

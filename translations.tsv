@@ -39,7 +39,7 @@ d Liecht				die Licht				the light
 Wiä bitte?	Wie bitte?			Wie bitte?				I beg your pardon?			
 de Spiegel				der Spiegel				the mirror			
 tüüf				tief				deep			
-dur				durch				through			
+dur	dure			durch				through			
 Wiä gaats?	Wie gaats?			Wie geht's?				How are you?	How's it going?		
 Wiä läbsch?	Wie lebsch?			Wie geht's?				How are you?	How's it going?		
 schlächt				schlecht				bad			
@@ -49,7 +49,7 @@ s Buäch				das Buch				the book
 guet	guät			gut				good			
 s Huus				das Haus				the house			
 d Muus				die Maus				the mouse			
-d Füürzüüg				das Feuerzeug				the lighter			
+s Füürzüüg				das Feuerzeug				the lighter			
 Lüüt				die Leute				people			
 hütt				heute				today			
 sii	si			sein				to be			
@@ -80,8 +80,8 @@ mit em Maa				mit dem Mann				with the man
 mit de Frau				mit der Frau				with the woman			
 mit em Chind				mit dem Kind				with the child			
 mit de Chind				mit den Kinder				with the children			
-mit emene Maa	miteme Maa			mit einem Mann				with a man			
-mit enere Frau	mitere Frau			mit einer Frau				with a woman			
+mit emene Maa	miteme Maa	mitemene Maa		mit einem Mann				with a man			
+mit enere Frau	mitere Frau	mitenere Frau		mit einer Frau				with a woman			
 mit emene Chind				mit einem Chind				with a child			
 mit Chind				mit Kinder				with children			
 ich bin	ich bi			ich bin				I am			
@@ -124,7 +124,7 @@ iri Chind				ihre Kinder				her children
 mit irem Maa				mit ihrem Mann				with her husband			
 mit irere Frau				mit ihrer Frau				with her wife			
 mit irem Chind				mit ihrem Kind				with her child			
-mit iren Chind				mit ihren Kinder				with her children			
+mit ire Chind				mit ihren Kinder				with her children			
 oise Maa				unser Mann				our husband			
 oije Maa				eurer Mann				your (all's) husband			
 mer	mä	me	mr	man				one			
@@ -134,6 +134,7 @@ umehocke								to sit around
 allei	elleige			allein				alone			
 wüki				wirklich				really			
 niemert				niemand				nobody	no one		
+nie				nie				never			
 d Chile				die Kirche				the church			
 de Leu				der Löwe				the lion			
 s Chüssi				das Kissen				the pillow			
@@ -145,27 +146,31 @@ er chan	er cha			er kann				he is able to	he can
 mir chönd				wir können				we are able to	we can		
 ich ha chöne											
 dörfe	törfe			durfen				to be allowed to			
-ich dörf	ich törf			ich darf				I am allowed to			
+ich dörf	ich törf	ich döf	ich töf	ich darf				I am allowed to			
 du dörsch	du törfsch			du darfst				you are allowed to			
 sie dörf				sie darf				she is allowed to			
 mir dörfed				wir dürfen				we are allowed to			
 ich ha dörfe				ich habe dürfen				I was allowed to			
 welle				wollen				to want			
-ich wet				ich will				I want			
+ich wett				ich will				I want			
 du wetsch	du wotsch	du wötsch		du willst				you want			
 er wett				er will				he wants			
 ich ha welle				ich haben wollen				I wanted			
 müese	müäse			müssen				to have to			
-ich mues	ich muäs			ich muss				I have to	I must		
+ich mues	ich muäs	ich muen		ich muss				I have to	I must		
 du muesch	du muäsch			du musst				you have to 	you must		
-sie mues	sie muäs			sie muss				she has to	she must		
+sie mues	sie muäs	sie muen		sie muss				she has to	she must		
 mir müend	mir müänd			wir müssen				we have to	we must		
-ich ha mese	ich ha müäse			ich habe müssen				I had to			
+ich ha müese	ich ha müäse			ich habe müssen				I had to			
 mir wend	mir wänd			wir wollen				we want			
 ich sött				ich sollte				I ought to	I should		
 du söttsch				du solltest				you ought to	you should		
 sie sött				sie sollte				she ought to	she should		
-mir sölled				wir sollten				we ought to	we should		
+mir sötted				wir sollten				we ought to	we should		
+ich sölle				ich solle							
+du söllsch				du sollst							
+er söll				er soll							
+mir sölled				wir sollen 							
 d Schtäge				die Treppe				the staircase			
 s Schtägehuus				das Treppenhaus				the stairwell	the stairs		
 leislig				leise				quietly			
@@ -183,9 +188,9 @@ mir göhnd				wir gehen				we go
 ich bin gange				ich bin gegangen				I went			
 											
 de gross Maa	de grossi Maa			der grosse Mann				the big man			
-d gross Frau	d grossi Frau			die grosse Frau				the big woman			
+di gross Frau	di grossi Frau			die grosse Frau				the big woman			
 s alte Huus				das alte Haus				the old house			
-d grosse Chind 				die grossen Kinder				the big children			
+di grosse Chind 				die grossen Kinder				the big children			
 en grosse Maa				ein grosser Mann				a big man			
 e grossi Frau				eine grosse Frau				a big woman			
 es alts Huus				ein altes Haus				an old house			
@@ -272,12 +277,12 @@ gää	gäh			geben				to give
 ich gib				ich gebe				I give			
 du gisch				du gibst				you give			
 sie git				sie gibt				she gives			
-mir gäbed	mir gebed			wir geben				we give			
+mir gäbed	mir gebed	mir gähnd	mir gehnd	wir geben				we give			
 ich ha gää				ich habe gegeben				I gave			
 gääl				gelb				yellow			
 läse				lesen				to read			
 du lissisch				du liest				you read			
-läge				legen				to lay (actively) down			
+lägge				legen				to lay (actively) down			
 ich legge				ich lege				I lay (something) down			
 du laisch				du legst				you lay (something) down			
 er lait				er legt				he lays (something) down			
@@ -318,19 +323,19 @@ nüünedachzg				neunzig				eighty-one
 hundert				hundert				one hundred			
 tuusig				eintausend				one thousand			
 											
-d Ais	d Eis							the one (tram)			
-d Zwai								the two (tram)			
-d Drüü								the three (tram)			
-d Viäri	d Vieri							the four (tram)			
-d Foifi								the five (tram)			
-d Sächsi								the six (tram)			
-d Sibeni								the seven (tram)			
-d Achti								the eight (tram)			
-d Nüüni	d Nüni							the nine (tram)			
-d Zäni								the ten (tram)			
-d Elfi								the eleven (tram)			
-d Zwölfi								the twelve (tram)			
-d Zwänzgi								the twenty (tram)			
+s Ais	s Eis							the one (tram)			
+s Zwai								the two (tram)			
+s Drüü								the three (tram)			
+s Viäri	s Vieri							the four (tram)			
+s Foifi								the five (tram)			
+s Sächsi								the six (tram)			
+s Sibeni								the seven (tram)			
+s Achti								the eight (tram)			
+s Nüüni	s Nüni							the nine (tram)			
+s Zäni								the ten (tram)			
+s Elfi								the eleven (tram)			
+s Zwölfi								the twelve (tram)			
+s Zwänzgi								the twenty (tram)			
 de Foifer								the five (bus)			
 de Foifräppler								the five rappen coin			
 de Zäner								the ten rappen coin			
@@ -349,7 +354,7 @@ zwüsched zwölf und ais				zwischen zwölf und eins				between twelve (o'clock)
 Ich bin drüü				Ich bin drei Jahre alt.				I am three.	I am three years old.		
 Ich bin vieri				Ich bin vier Jahre alt.				I am four.	I am four years old.		
 de Zvieri	d Zviäri							the afternoon snack			
-de Znüni	de Znüüni							the morning snack			
+de Znüni	de Znüüni	s Znüni						the morning snack			
 de Zmittag				das Mittagessen				the lunch			
 de Zmorge				das Frühstuck				breakfast			
 de Znacht				das Abendessen				dinner	supper		
@@ -359,7 +364,7 @@ s Pule	s Poulet			das Hähnchen				the chicken
 s Portmone	s Portmonnaie			die Brieftasche				the wallet			
 s Cheminee	s Schmine			der Kamin				the fireplace			
 Ich gang go schaffe.								I'm going (somewhere) to work.			
-Ich chume go schlafe.								I'm coming to sleep.			
+Ich chume zu dir go schlafe.								I'm coming to yours to sleep.	I'm coming to your place to sleep.		
 Tuänd Si tschuute?	Tschutted Si?							Do you play soccer?			
 Ich tuä gärn tanze.	Ich tanze gärn.							I like to dance.			
 poschte				einkaufen				to shop			
@@ -379,11 +384,12 @@ ahha				tragen				to wear (clothes)
 übercho	überchoo			erhalten	bekommen			to receive			
 Sport triibe								to play sports			
 abziä								to take off (clothes)			
-Hor uf!				Hor auf!				Stop it!			
+Hör uf!				Hör auf!				Stop it!			
 											
-badele								to bathe			
-sünnele								to sunbathe			
-zmorgele				frühstücken				to eat breakfast			
+bädele	bedele							to bathe (leisurely)			
+sünnele								to sunbathe 			
+zmörgele				frühstücken				to eat breakfast (leisurely)			
+käffele								to drink coffee (leisurely)			
 laa				lassen				to let			
 schtaa	staa			stehen				to stand			
 ich schtaa				ich stehe				I stand			
@@ -408,13 +414,13 @@ am morge				am morgen				in the morning
 s Epeeri				die Erdbeere				the strawberry			
 d Bire	d Pire			die Birne				the pear			
 Hani Ziit?				Habe ich Zeit?				Do I have time?			
-Hatr Hunge?				Hat er Hunger?				Is he hungry?			
-Hatsi Hunger?				Hat sie Hunger?				Is she hungry?			
+Hätr Hunger?				Hat er Hunger?				Is he hungry?			
+Hätsi Hunger?				Hat sie Hunger?				Is she hungry?			
 Wämmer go skifahre?								Shall we go and ski?			
 Gömmer go poschte?								Shall we go and shop?			
-Hammer öppis gha?				Haben wir etwas gehabt?				Did we have something?			
+Hämmer öppis gha?				Haben wir etwas gehabt?				Did we have something?			
 Simmer verspötet?				Sind wir verspätet?				Are we late?			
-Macheder Spass?				Macht ihr Spass?				Are you (all) having fun?			
+Händr Spass?				Habt ihr Spass?				Are you (all) having fun?			
 wüsse				wissen				to know (something)			
 ich waiss				ich weiss				I know (something)			
 du waisch				du weisst				you know (something)			
@@ -446,7 +452,7 @@ märsi vilmal				vielen dank				thank you very much
 sorry								excuse me			
 ade											
 Uf widerluege!				Auf wiedersehen!				Goodbye!			
-äbä											
+äbä				eben							
 Ich schaffe z Züri.				Ich arbeite in Zürich.				I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore			Ich bin geboren				I was born			
 de Härdöpfel	de Herdöpfel			der Kartoffel				the potato			
@@ -543,3 +549,4 @@ d Schtube				das Wohnzimmer				the living room
 gumpe				springen				to jump			
 Ich gange inn See				Ich gehen in den See				I go into the lake			
 welles				welches				which			
+de Chäs	de Chääs			der Käse				the cheese			
