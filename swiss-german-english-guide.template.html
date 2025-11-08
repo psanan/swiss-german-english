@@ -1,18 +1,29 @@
 <h1> Swiss German in N examples </h1>
 
+TODO
+<ul>
+<li> Iterate until happy
+  <ul>
+    <li> Fix N (400?) and cut down (make each entry count!). Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples, but don't simple make the examples longer)
+    <li> Make sure guide is max 2N lines
+    <li> Fill in missing entries and otherwise polish
+    <li> Simplify translation by chooisng conventions (see below) and removing distracting duplicates (e.g. "e" vs "ä" variants, etc.)
+    <li> Fiddle with appearance ("p" tags not consistent, leads to bad spacing)
+    <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
+  </ul>
+<li> Any stray TODOs anywhere in the repo
+<li> Deploy and get feedback
+</ul>
+
 <p class="publication-date">TBD</p>
 <!--<p class="updated-date">Updated TBD</p>-->
 
 <p>
-This guide highlights important differences from High German to Zurich Swiss German (which we'll just refer to as "Swiss German" from now on, though it's only one of many widely varying dialects).
+This guide highlights important differences from High German to Zurich Swiss German ("Swiss German" for brevity from now on, though it's only one of many dialects).
 It aspires to represent as many of these as possible in a set of N examples.
 To resolve ambiguity, the examples are longer than in typical vocabulary lists.
 Most entries include both English and High German translations. The translations should be
 unambiguously valid from Swiss German to the other languages: they may not be in the other direction.
-</p>
-
-<p>
-The guide assumes English fluency and High German understanding at the level of hoped-for Swiss German understanding.
 </p>
 
 <p>You can guess much of Swiss German based on High German. People who speak neither language usually start with High German; it's the written and official language for Swiss German speakers, and is easier to teach (and certify) in a formal setting. This doesn't imply that High German is higher status or more useful in daily Swiss life, though.
@@ -21,15 +32,15 @@ The guide assumes English fluency and High German understanding at the level of 
 <p>
 Swiss German is a spoken language, so this text-only format is severely lacking; you should have some way to listen to the language.
 A logical improvement for this page would be to include audio clips for the Swiss German terms.
-There is no standardized way to write Swiss German (and no real standardization at all for Swiss German, even within individual Swiss German dialects like Zurich Swiss German).
+There is no standardized way to write (or even speak) Swiss German.
 </p>
 
 <p>
-The rest of this document motivates the choice of examples. You can find <a href="swiss-german-english-guide-vocabulary.tsv">a TSV file of all the examples here</a>, which you can import for practice into a tool like <a href="ankiweb.net">Anki</a>.
+The rest of this document motivates the choice of examples. You can find <a href="swiss-german-english-guide-vocabulary.tsv">a TSV file of all the examples here</a>.
 </p>
 
 <p>
-Entries focus first on examples of common ways to map Swiss German to High German, then move on to commonly used grammar and vocabulary which differ in other ways from High German. The level is roughly A1.
+Entries focus first on examples of common ways to map Swiss German to High German, then move on to commonly used grammar and vocabulary which differ in other ways from High German. The level is roughly A1 and I learned most of it via courses from <a href="https://swissing.ch/">Swissing</a>.
 </p>
 
 <p>
@@ -1003,8 +1014,7 @@ Plurals of foreign words will sometimes end in "s", like in High German.
   <li> d Bäum
   <li> d Büecher
   <li> d Lampene
-  <li> d Badene
-  <li> Jöb
+  <li> d Jöb
 </ul>
 
 <p>
@@ -1020,8 +1030,7 @@ these words are always neuter. <a href="vrenelisgaertli.html">There is a mountai
 </ul>
 
 <p>
-You will also often see abbreviations, especially for cute (which is most things, in Switzerland) or child-related things,
-just ending in "-i". These use the same genders as the longer words they come from.
+You will also often see abbreviations just ending in "-i". These use the same genders as the longer words they come from.
 </p>
 
 <ul>
@@ -1149,3 +1158,45 @@ A few more very Swiss adjectives and adverbs:
 <h2> And that's it! </h2>
 
 There is of course much more to know, but my hope is that the above highlights the most striking differences from High German to Zurich Swiss German.
+
+<h2> Technical Details and Conventions </h2>
+
+This page is generated from a template with some Python scripts (see the source for this site as linked in the footer).
+
+The main data source is <a href="translations.tsv">This TSV file</a>, which contains a superset of the translations here.
+
+Interesting usage and differences from High German should be shown, not told.
+Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
+me", include entries like "mir sind" and "mit mir".
+
+A given Swiss German string should only appear in a single entry. Entries can
+have multiple strings in each language. No tabs or slashes are allowed. Any of
+the English or High German strings must be a valid translation of any of the
+Swiss German strings.  This covers variations both in spelling (which should
+only be relevant for Swiss German), interchangeable strings in the source
+language (e.g. "doch" and "moll" in Swiss German), and multiple valid
+translations in the target languages.
+
+Strings should not be capitalized, except for
+<ul>
+  <li> Full sentences (which should then end with punctuation)
+<li> Words which are always capitalized
+</ul>
+
+Parenthesized expressions should generally be avoided in the examples,
+preferring examples which don't require them, or multiple valid translations.
+If included, entries should be valid, up to whitespace, as if individual
+strings with and without the parenthetical expressions were included.
+
+This guide is not self-consistent with respect to Swiss German orthography.
+In general, when choosing between equally-valid spelling options, prefer:
+
+<ul>
+  <li> shorter forms over longer ones
+  <li>"aa" over "ah" (gaats)
+  <li>"e" over "ä" (wie)
+  <li>"o" over "oo" (cho)
+  <li>"oi" over "eu" (ois)
+  <li>"d" over "t" (Dütsch)
+  <li>"b" over "p" (Bire)
+</ul>
