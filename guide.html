@@ -12,6 +12,21 @@
 <body>
 <h1> Swiss German in N examples </h1>
 
+TODO
+<p><table>
+<tr><font color="red"><li> Iterate until happy
+</font></tr><p><table>
+<tr><font color="red">    <li> Fix N (400?) and cut down (make each entry count!). Make as short as possible! (prioritize the things furthest from High German, choose most powerful examples, but don't simple make the examples longer)
+</font></tr><tr><font color="red">    <li> Make sure guide is max 2N lines
+</font></tr><tr><font color="red">    <li> Fill in missing entries and otherwise polish
+</font></tr><tr><font color="red">    <li> Simplify translation by chooisng conventions (see below) and removing distracting duplicates (e.g. "e" vs "ä" variants, etc.)
+</font></tr><tr><font color="red">    <li> Fiddle with appearance ("p" tags not consistent, leads to bad spacing)
+</font></tr><tr><font color="red">    <li> Attempt to recheck all entries (maybe add columns to tsv for source?) [especially possessives, pronouns, etc. which will certainly have errors]  (maybe try and get Swissing teacher to look, if I have a solo lesson..)
+</font></tr></p></table>
+<tr><font color="red"><li> Any stray TODOs anywhere in the repo
+</font></tr><tr><font color="red"><li> Deploy and get feedback
+</font></tr></p></table>
+
 <p class="publication-date">TBD</p>
 <!--<p class="updated-date">Updated TBD</p>-->
 
@@ -19,7 +34,8 @@
 This guide highlights important differences from High German to Zurich Swiss German ("Swiss German" for brevity from now on, though it's only one of many dialects).
 It aspires to represent as many of these as possible in a set of N examples.
 To resolve ambiguity, the examples are longer than in typical vocabulary lists.
-Most entries include both English and High German translations. The translations should be
+Most entries include both English and High German translations.
+The translations should be
 unambiguously valid from Swiss German to the other languages: they may not be in the other direction.
 </p>
 
@@ -37,7 +53,7 @@ The rest of this document motivates the choice of examples. You can find <a href
 </p>
 
 <p>
-Entries focus first on examples of common ways to map Swiss German to High German, then move on to commonly used grammar and vocabulary which differ in other ways from High German. The level is roughly A1.
+Entries focus first on examples of common ways to map Swiss German to High German, then move on to commonly used grammar and vocabulary which differ in other ways from High German. The level is roughly A1 and I learned most of it via courses from <a href="https://swissing.ch/">Swissing</a>.
 </p>
 
 <p>
@@ -6044,5 +6060,65 @@ sometimes
 
 <h2> And that's it! </h2>
 
+<p>
 There is of course much more to know, but my hope is that the above highlights the most striking differences from High German to Zurich Swiss German.
+</p>
+
+<h2> Technical Details and Conventions </h2>
+
+<p>
+This page is generated from a template with some Python scripts (see the source for this site as linked in the footer).
+</p>
+
+<p>
+The main data source is <a href="translations.tsv">This TSV file</a>, which contains a superset of the translations here.
+</p>
+
+<p>
+Interesting usage and differences from High German should be shown, not told.
+Clarify by using longer examples, e.g.  since "mir" can mean both "we" and "to
+me", include entries like "mir sind" and "mit mir".
+</p>
+
+<p>
+A given Swiss German string should only appear in a single entry. Entries can
+have multiple strings in each language. No tabs or slashes are allowed. Any of
+the English or High German strings must be a valid translation of any of the
+Swiss German strings.  This covers variations both in spelling (which should
+only be relevant for Swiss German), interchangeable strings in the source
+language (e.g. "doch" and "moll" in Swiss German), and multiple valid
+translations in the target languages.
+</p>
+
+<p>
+Strings should not be capitalized, except for full sentences (which should then end with punctuation),
+and words which are always capitalized.
+<p>
+
+<p>
+Parenthesized expressions should generally be avoided in the examples,
+preferring examples which don't require them, or multiple valid translations.
+If included, entries should be valid, up to whitespace, as if individual
+strings with and without the parenthetical expressions were included.
+</p>
+
+<p>
+This guide is not self-consistent with respect to Swiss German orthography.
+In general, when choosing between equally-valid spelling options, prefer:
+</p>
+
+shorter forms over longer ones
+
+"aa" over "ah" (gaats)
+
+"e" over "ä" (wie), but both when the "ä" sound between High German "e" and "ä" occurs.
+
+"o" over "oo" (cho)
+
+"oi" over "eu" (ois)
+
+"d" over "t" (Dütsch)
+
+"b" over "p" (Bire)
+
 </body></html>

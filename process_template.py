@@ -20,7 +20,7 @@ HEADER= """
 
 FOOTER="</body></html>"
 
-TEMPLATE_FILENAME="swiss-german-english-guide.template.html"
+TEMPLATE_FILENAME="guide.template.html"
 VOCABULARY_FILENAME="swiss-german-english-guide-vocabulary.tsv"
 TRANSLATIONS_FILENAME="translations.tsv"
 
